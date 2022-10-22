@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 const server = http.createServer(async (req, res) => {
     // /api/v1 : GET
-    if (req.url === "/api/v1/all" && req.method === "GET") {
+    if (req.url === "/api/v1/list" && req.method === "GET") {
         // get the data.
         const allData = await new AppData().getAllData();
         // set the status code, and content-type
