@@ -65,6 +65,6 @@ const server = http.createServer(async (req, res) => {
 });
 
 
-server.listen(PORT, () => {
+app.listen(PORT, () => {
     console.log(`server started on port: ${PORT}`);
 });
