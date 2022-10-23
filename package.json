@@ -1,5 +1,5 @@
 {
-  "name": "api-rosary",
+  "name": "the-rosary-api",
   "version": "1.0.0",
   "description": "A free REST API Rosary. Anytime. Anywhere! (Api-Rosary as a Service)",
   "main": "index.js",
