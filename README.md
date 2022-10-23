@@ -1,1 +1,1 @@
-# api-rosary
+# The Rosary Api

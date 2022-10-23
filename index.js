@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 const server = http.createServer(async (req, res) => {
     // /api/v1 : GET
-    if (req.url === "/api/v1/list" && req.method === "GET") {
+    if (req.url === "/v1/list" && req.method === "GET") {
         // get the data.
         const allData = await new AppData().getAllData();
         // set the status code, and content-type
@@ -15,9 +15,21 @@ const server = http.createServer(async (req, res) => {
         // send the data
         res.end(JSON.stringify(allData));
     }
+    //
+    // /api/v1/novena : GET
+    else if (req.url === "/v1/novena" &&
+  req.method === "GET") {
+         // get novena data.
+        const novenaData = await new AppData().getNovenaData();
+        // set the status code, and content-type
+        res.writeHead(200, { "Content-Type": "application/json" });
+        // send the data
+        res.end(JSON.stringify(novenaData));
+    }
+    //
 
     // /api/v1/random : GET
-    else if (req.url === "/api/v1/random" &&
+    else if (req.url === "/v1/random" &&
   req.method === "GET") {
          // get random data.
         const randomData = await new AppData().getRandomData();
@@ -28,7 +40,7 @@ const server = http.createServer(async (req, res) => {
     }
     //
       // /api/v1/today : GET
-    else if (req.url === "/api/v1/today" &&
+    else if (req.url === "/v1/today" &&
   req.method === "GET") {
          // get today data.
         const todayData = await new AppData().getTodayData();
@@ -36,6 +48,28 @@ const server = http.createServer(async (req, res) => {
         res.writeHead(200, { "Content-Type": "application/json" });
         // send the data
         res.end(JSON.stringify(todayData));
+    }
+    //
+    // /api/v1/yesterday : GET
+    else if (req.url === "/v1/yesterday" &&
+  req.method === "GET") {
+         // get yesterday data.
+        const yesterdayData = await new AppData().getYesterdayData();
+        // set the status code, and content-type
+        res.writeHead(200, { "Content-Type": "application/json" });
+        // send the data
+        res.end(JSON.stringify(yesterdayData));
+    }
+    //
+    // /api/v1/tomorrow : GET
+    else if (req.url === "/v1/tomorrow" &&
+  req.method === "GET") {
+         // get tomorrow data.
+        const tomorrowData = await new AppData().getTomorrowData();
+        // set the status code, and content-type
+        res.writeHead(200, { "Content-Type": "application/json" });
+        // send the data
+        res.end(JSON.stringify(tomorrowData));
     }
     // /api/v1/:id : GET
     else if (req.url.match(/\/api\/v1\/([0-9]+)/) &&
