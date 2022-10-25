@@ -1,5 +1,7 @@
 // controller.js
 // Logic behind the functionalities
+//let serverTime = "Africa/Abidjan";
+//let ds = new Date().toLocaleString("en-US", {timeZone: serverTime});
 let d = new Date();
 //let currentHour = d.getHours(); // 18
 //let weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
@@ -62,8 +64,9 @@ const index = data.map(i => i.currentDate).indexOf(today);
 const novena_index = data.map(i => i.currentDate).indexOf(end_novena);
 //console.log(novena_index);
 // slice from 1..3 - add 1 as the end index is not included
-//const novenaData = data.slice(index, novena_index + 1);
-//console.log(novenaData);
+//const novenaData = data.slice(index, novena_index);
+//var myItem = novenaData.length;
+//console.log(myItem);
 
 
 
@@ -95,7 +98,7 @@ class Controller {
   return new Promise((resolve, reject) => {
     // get the data
    // slice from 1..3 - add 1 as the end index is not included
-const novenaData = data.slice(index, novena_index + 1);
+const novenaData = data.slice(index, novena_index);
 
     if (novenaData) {
       // return the data
