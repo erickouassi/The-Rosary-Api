@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 2,
     "name": "rosary-api",
     "builds": [
        { "src": "index.js", "use": "@vercel/node" }
