@@ -1,18 +1,18 @@
 // Logic behind the functionalities
 //import jstz from 'jstz';
-//var jstz = require('jstz');
-//const timezone = jstz.determine();
-//var localTime = jstz.determine().name();
+var jstz = require('jstz');
+const timezone = jstz.determine();
+var localTime = jstz.determine().name();
 //console.log(localTime);
 //var serverTime = "Africa/Abidjan";
 
 // current datetime string in America/Chicago timezone
-//let local_datetime_str = new Date().toLocaleString("en-US", { timeZone: localTime });
+let local_datetime_str = new Date().toLocaleString("en-US", { timeZone: localTime });
 
 // create new Date object
 //let date_local = new Date(local_datetime_str);
-//let d = new Date(local_datetime_str);
-let d = new Date();
+let d = new Date(local_datetime_str);
+//let d = new Date();
 
 // Months
 let allMonths = ["January","February","March","April","May","June","July","August","September","October","November","December"];

@@ -1,8 +1,6 @@
 //index.js
 const http = require("http");
 const AppData = require("./controller");
-//const { getReqData } = require("./utils");
-//var jstz = require('jstz');
 
 const PORT = process.env.PORT || 5001;
 
