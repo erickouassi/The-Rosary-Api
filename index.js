@@ -5,8 +5,16 @@ const AppData = require("./controller");
 const PORT = process.env.PORT || 5001;
 
 const server = http.createServer(async (req, res) => {
+    
+    if (req.url === "/" && req.method === "GET") {
+    // set the status code, and content-type
+       res.writeHead(200, { "Content-Type": "application/json",
+       "Access-Control-Allow-Origin": "*" });
+       res.end(JSON.stringify({ message: "App is active!" }));
+   }
+    
     // /api/v1 : GET
-    if (req.url === "/v1/list" && req.method === "GET") {
+    else if (req.url === "/v1/list" && req.method === "GET") {
         // get the data.
         const allData = await new AppData().getAllData();
         // set the status code, and content-type
