@@ -1,9 +1,10 @@
 //index.js
 const http = require("http");
 const AppData = require("./controller");
-const { getReqData } = require("./utils");
+//const { getReqData } = require("./utils");
+//var jstz = require('jstz');
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 const server = http.createServer(async (req, res) => {
     // /api/v1 : GET
@@ -11,7 +12,8 @@ const server = http.createServer(async (req, res) => {
         // get the data.
         const allData = await new AppData().getAllData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json" });
+        res.writeHead(200, { "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*" });
         // send the data
         res.end(JSON.stringify(allData));
     }
@@ -22,7 +24,8 @@ const server = http.createServer(async (req, res) => {
          // get novena data.
         const novenaData = await new AppData().getNovenaData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json" });
+        res.writeHead(200, { "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(novenaData));
     }
@@ -34,7 +37,8 @@ const server = http.createServer(async (req, res) => {
          // get random data.
         const randomData = await new AppData().getRandomData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json" });
+        res.writeHead(200, { "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(randomData));
     }
@@ -45,7 +49,8 @@ const server = http.createServer(async (req, res) => {
          // get today data.
         const todayData = await new AppData().getTodayData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json" });
+        res.writeHead(200, { "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(todayData));
     }
@@ -56,7 +61,8 @@ const server = http.createServer(async (req, res) => {
          // get yesterday data.
         const yesterdayData = await new AppData().getYesterdayData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json" });
+        res.writeHead(200, { "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(yesterdayData));
     }
@@ -67,33 +73,59 @@ const server = http.createServer(async (req, res) => {
          // get tomorrow data.
         const tomorrowData = await new AppData().getTomorrowData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json" });
+        res.writeHead(200, { "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(tomorrowData));
     }
-    // /api/v1/:id : GET
-    else if (req.url.match(/\/api\/v1\/([0-9]+)/) &&
+    // /v1/date/:MDYYYY : GET
+    else if (req.url.match(/\/v1\/date\/([0-9]+)/) &&
   req.method === "GET") {
         try {
-            // get id from url
-            const id = req.url.split("/")[3];
+            // get date 10272022 from url
+            const X = req.url.split("/")[3];
             // get a single data
-            const singleData = await new AppData().getSingleData(id);
+            const singleData = await new AppData().getSingleData(X);
             // set the status code and content-type
-            res.writeHead(200, { "Content-Type": "application/json" });
+            res.writeHead(200, { "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*"  });
             // send the data
             res.end(JSON.stringify(singleData));
         } catch (error) {
             // set the status code and content-type
-            res.writeHead(404, { "Content-Type": "application/json" });
+            res.writeHead(404, { "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*"  });
+            // send the error
+            res.end(JSON.stringify({ message: error }));
+        }
+    }
+    // /v1/novena/:MDYYYY : GET
+    else if (req.url.match(/\/v1\/novena\/([0-9]+)/) &&
+  req.method === "GET") {
+        try {
+            // get date 10272022 from url
+            const N = req.url.split("/")[3];
+            // get a single data
+            const novenaData = await new AppData().getDataNovena(N);
+            // set the status code and content-type
+            res.writeHead(200, { "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*"  });
+            // send the data
+            res.end(JSON.stringify(novenaData));
+        } catch (error) {
+            // set the status code and content-type
+            res.writeHead(404, { "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*"  });
             // send the error
             res.end(JSON.stringify({ message: error }));
         }
     }
 
+
     // No route present
     else {
-        res.writeHead(404, { "Content-Type": "application/json" });
+        res.writeHead(404, { "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*"  });
         res.end(JSON.stringify({ message: "Route not found" }));
     }
 });
