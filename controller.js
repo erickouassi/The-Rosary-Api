@@ -1,7 +1,7 @@
 // Logic behind the functionalities
 //import jstz from 'jstz';
 var jstz = require('jstz');
-//const timezone = jstz.determine();
+const timezone = jstz.determine();
 var localTime = jstz.determine().name();
 //console.log(localTime);
 //var serverTime = "Africa/Abidjan";
@@ -12,6 +12,7 @@ let local_datetime_str = new Date().toLocaleString("en-US", { timeZone: localTim
 // create new Date object
 //let date_local = new Date(local_datetime_str);
 let d = new Date(local_datetime_str);
+//let d = new Date();
 
 // Months
 let allMonths = ["January","February","March","April","May","June","July","August","September","October","November","December"];
@@ -69,6 +70,10 @@ let end_novena = n_month +' '+ n_dd +', '+ n_yyyy;   //  -> May 19, 2022
 
 //const data = require("./data");
 const data = require("./data_rosary_2022");
+const dataMysteries = require("./data_rosary_mysteries");
+const dataPrayers = require("./data_rosary_prayers");
+const dataDays = require("./data_rosary_days");
+const data54Days = require("./data_rosary_54_days");
 
 const index = data.map(i => i.currentDate).indexOf(today);
 //console.log(index);
@@ -84,7 +89,17 @@ class Controller {
     // return all data
     return new Promise((resolve, _) => resolve(data));
   }
+//
+async getMysteriesData() {
+  // return all data
+  return new Promise((resolve, _) => resolve(dataMysteries));
+}
 
+//
+  async getPrayersData() {
+  // return all data
+  return new Promise((resolve, _) => resolve(dataPrayers));
+}
   // getting a single data
   async getSingleData(X) {
     return new Promise((resolve, reject) => {
@@ -206,7 +221,208 @@ const dataNovena = data.slice(start, end);
       }
     });
   }
+  //
+   // getting Joyful data
+   async getJoyfulData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let joyfulData = dataMysteries.filter(function(JoyfulIn) {
+    return JoyfulIn.group_by == "Joyful"; });
+   // console.log(joyfulData);
+//
+      if (joyfulData) {
+        // return the data
+        resolve(joyfulData);
+      } else {
+        // return an error
+        reject(`Joyful object not found `);
+      }
+    });
+  }
   
+   // getting Sorrowful data
+  async getSorrowfulData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let sorrowfulData = dataMysteries.filter(function(SorrowfulIn) {
+    return SorrowfulIn.group_by == "Sorrowful"; });
+   // console.log(sorrowfulData);
+//
+      if (sorrowfulData) {
+        // return the data
+        resolve(sorrowfulData);
+      } else {
+        // return an error
+        reject(`Sorrowful object not found `);
+      }
+    });
+  }
+   // getting Glorious data
+  async getGloriousData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let gloriousData = dataMysteries.filter(function(GloriousIn) {
+    return GloriousIn.group_by == "Glorious"; });
+   // console.log(gloriousData);
+//
+      if (gloriousData) {
+        // return the data
+        resolve(gloriousData);
+      } else {
+        // return an error
+        reject(`Glorious object not found `);
+      }
+    });
+  }
+   // getting Luminous data
+  async getLuminousData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let luminousData = dataMysteries.filter(function(LuminousIn) {
+    return LuminousIn.group_by == "Luminous"; });
+   // console.log(luminousData);
+//
+      if (luminousData) {
+        // return the data
+        resolve(luminousData);
+      } else {
+        // return an error
+        reject(`Luminous object not found `);
+      }
+    });
+  }
   // add below
+  // getting Sunday data
+  async getSundayData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let sundayData = dataDays.filter(function(SundayIn) {
+    return SundayIn.date == "Sunday"; });
+   // console.log(sundayData);
+//
+      if (sundayData) {
+        // return the data
+        resolve(sundayData);
+      } else {
+        // return an error
+        reject(`Sunday object not found `);
+      }
+    });
+  }
+  
+  // getting Monday data
+  async getMondayData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let mondayData = dataDays.filter(function(MondayIn) {
+    return MondayIn.date == "Monday"; });
+   // console.log(mondayData);
+//
+      if (mondayData) {
+        // return the data
+        resolve(mondayData);
+      } else {
+        // return an error
+        reject(`Monday object not found `);
+      }
+    });
+  }
+  
+  // getting Tuesday data
+  async getTuesdayData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let tuesdayData = dataDays.filter(function(TuesdayIn) {
+    return TuesdayIn.date == "Tuesday"; });
+   // console.log(tuesdayData);
+//
+      if (tuesdayData) {
+        // return the data
+        resolve(tuesdayData);
+      } else {
+        // return an error
+        reject(`Tuesday object not found `);
+      }
+    });
+  }
+  
+  // getting Wednesday data
+  async getWednesdayData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let wednesdayData = dataDays.filter(function(WednesdayIn) {
+    return WednesdayIn.date == "Wednesday"; });
+   // console.log(wednesdayData);
+//
+      if (wednesdayData) {
+        // return the data
+        resolve(wednesdayData);
+      } else {
+        // return an error
+        reject(`Wednesday object not found `);
+      }
+    });
+  }
+  
+  // getting Thursday data
+  async getThursdayData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let thursdayData = dataDays.filter(function(ThursdayIn) {
+    return ThursdayIn.date == "Thursday"; });
+   // console.log(thursdayData);
+//
+      if (thursdayData) {
+        // return the data
+        resolve(thursdayData);
+      } else {
+        // return an error
+        reject(`Thursday object not found `);
+      }
+    });
+  }
+  
+  // getting Friday data
+  async getFridayData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let fridayData = dataDays.filter(function(FridayIn) {
+    return FridayIn.date == "Friday"; });
+   // console.log(fridayData);
+//
+      if (fridayData) {
+        // return the data
+        resolve(fridayData);
+      } else {
+        // return an error
+        reject(`Friday object not found `);
+      }
+    });
+  }
+  
+  // getting Saturday data
+  async getSaturdayData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let saturdayData = dataDays.filter(function(SaturdayIn) {
+    return SaturdayIn.date == "Saturday"; });
+   // console.log(saturdayData);
+//
+      if (saturdayData) {
+        // return the data
+        resolve(saturdayData);
+      } else {
+        // return an error
+        reject(`Saturday object not found `);
+      }
+    });
+  }
+ // getting 54 days data
+ async getDay54Data() {
+  // return all data
+  return new Promise((resolve, _) => resolve(data54Days));
+}
+//
+  // add above
 }
 module.exports = Controller;

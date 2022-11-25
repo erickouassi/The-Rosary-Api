@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "the-rosary-api",
   "version": "1.0.0",
@@ -20,3 +21,27 @@
     "nodemon": "^2.0.20"
   }
 }
+=======
+{
+  "name": "the-rosary-api",
+  "version": "1.0.0",
+  "description": "A free REST API Rosary. Anytime. Anywhere! (Api-Rosary as a Service)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "jstz": "^2.1.1",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
+>>>>>>> 947135201378ccc51fa74a262bfefe7dd74fa7cf
