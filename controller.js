@@ -27,13 +27,16 @@ let month = ("0" + (d.getMonth() + 1)).slice(-2);
 // date as (DD) format
 let date = ("0" + d.getDate()).slice(-2);
 
+// date as (D) format
+let d_dd = d.getDate();
+
 // date time in YYYY-MM-DD format
 //let date_time = year + "-" + month + "-" + date;
 // "2021-03-22"
 //console.log(date_time);
 
 //
-let today =  monthTxt +' '+ date +', '+ year;   //  -> May 18, 2022
+let today =  monthTxt +' '+ d_dd +', '+ year;   //  -> May 18, 2022
 //console.log(today);
 
 //
