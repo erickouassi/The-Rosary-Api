@@ -37,7 +37,11 @@ let d_dd = d.getDate();
 
 //
 let today =  monthTxt +' '+ d_dd +', '+ year;   //  -> May 18, 2022
-//console.log(today);
+console.log(today);
+
+let jour_j = year + "-" + month + "-" + date;
+// "2021-03-22"
+console.log(jour_j);
 
 //
 // Yesterday
@@ -72,7 +76,8 @@ let n_yyyy = n.getFullYear();  // 2022
 let end_novena = n_month +' '+ n_dd +', '+ n_yyyy;   //  -> May 19, 2022
 
 //const data = require("./data");
-const data = require("./data_rosary_2022");
+const dataUpdate = require("./data_rosary_2022");
+const data = require("./data_rosary_2022_update");
 const dataMysteries = require("./data_rosary_mysteries");
 const dataPrayers = require("./data_rosary_prayers");
 const dataDays = require("./data_rosary_days");
@@ -426,6 +431,11 @@ const dataNovena = data.slice(start, end);
   return new Promise((resolve, _) => resolve(data54Days));
 }
 //
+
+// FRENCH VERSION //
+
+
+
   // add above
 }
 module.exports = Controller;
