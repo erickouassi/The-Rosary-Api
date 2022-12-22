@@ -8,7 +8,7 @@ const server = http.createServer(async (req, res) => {
     
     if (req.url === "/" && req.method === "GET") {
     // set the status code, and content-type
-       res.writeHead(200, { "Content-Type": "application/json",
+       res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
        "Access-Control-Allow-Origin": "*" });
        res.end(JSON.stringify({ message: "App is active!" }));
    }
@@ -18,7 +18,7 @@ const server = http.createServer(async (req, res) => {
         // get the data.
         const allData = await new AppData().getAllData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*" });
         // send the data
         res.end(JSON.stringify(allData));
@@ -29,7 +29,7 @@ const server = http.createServer(async (req, res) => {
         // get the data.
         const mysteriesData = await new AppData().getMysteriesData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*" });
         // send the data
         res.end(JSON.stringify(mysteriesData));
@@ -42,7 +42,7 @@ const server = http.createServer(async (req, res) => {
         // get the data.
         const prayersData = await new AppData().getPrayersData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*" });
         // send the data
         res.end(JSON.stringify(prayersData));
@@ -54,7 +54,7 @@ const server = http.createServer(async (req, res) => {
          // get novena data.
         const novenaData = await new AppData().getNovenaData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(novenaData));
@@ -67,7 +67,7 @@ const server = http.createServer(async (req, res) => {
          // get random data.
         const randomData = await new AppData().getRandomData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(randomData));
@@ -79,7 +79,7 @@ const server = http.createServer(async (req, res) => {
          // get today data.
         const todayData = await new AppData().getTodayData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(todayData));
@@ -91,7 +91,7 @@ const server = http.createServer(async (req, res) => {
          // get yesterday data.
         const yesterdayData = await new AppData().getYesterdayData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(yesterdayData));
@@ -103,7 +103,7 @@ const server = http.createServer(async (req, res) => {
          // get tomorrow data.
         const tomorrowData = await new AppData().getTomorrowData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(tomorrowData));
@@ -115,7 +115,7 @@ const server = http.createServer(async (req, res) => {
          // get Joyful data.
         const joyfulData = await new AppData().getJoyfulData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(joyfulData));
@@ -127,7 +127,7 @@ const server = http.createServer(async (req, res) => {
          // get Sorrowful data.
         const sorrowfulData = await new AppData().getSorrowfulData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(sorrowfulData));
@@ -139,7 +139,7 @@ const server = http.createServer(async (req, res) => {
          // get Glorious data.
         const gloriousData = await new AppData().getGloriousData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(gloriousData));
@@ -151,7 +151,7 @@ const server = http.createServer(async (req, res) => {
          // get Luminous data.
         const luminousData = await new AppData().getLuminousData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(luminousData));
@@ -166,13 +166,13 @@ const server = http.createServer(async (req, res) => {
             // get a single data
             const singleData = await new AppData().getSingleData(X);
             // set the status code and content-type
-            res.writeHead(200, { "Content-Type": "application/json",
+            res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
             "Access-Control-Allow-Origin": "*"  });
             // send the data
             res.end(JSON.stringify(singleData));
         } catch (error) {
             // set the status code and content-type
-            res.writeHead(404, { "Content-Type": "application/json",
+            res.writeHead(404, { "Content-Type": "application/json; charset=utf-8",
             "Access-Control-Allow-Origin": "*"  });
             // send the error
             res.end(JSON.stringify({ message: error }));
@@ -187,13 +187,13 @@ const server = http.createServer(async (req, res) => {
             // get a single data
             const novenaData = await new AppData().getDataNovena(N);
             // set the status code and content-type
-            res.writeHead(200, { "Content-Type": "application/json",
+            res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
             "Access-Control-Allow-Origin": "*"  });
             // send the data
             res.end(JSON.stringify(novenaData));
         } catch (error) {
             // set the status code and content-type
-            res.writeHead(404, { "Content-Type": "application/json",
+            res.writeHead(404, { "Content-Type": "application/json; charset=utf-8",
             "Access-Control-Allow-Origin": "*"  });
             // send the error
             res.end(JSON.stringify({ message: error }));
@@ -206,7 +206,7 @@ const server = http.createServer(async (req, res) => {
         // get Sunday data.
        const sundayData = await new AppData().getSundayData();
        // set the status code, and content-type
-       res.writeHead(200, { "Content-Type": "application/json",
+       res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
        "Access-Control-Allow-Origin": "*"  });
        // send the data
        res.end(JSON.stringify(sundayData));
@@ -218,7 +218,7 @@ const server = http.createServer(async (req, res) => {
         // get Monday data.
        const mondayData = await new AppData().getMondayData();
        // set the status code, and content-type
-       res.writeHead(200, { "Content-Type": "application/json",
+       res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
        "Access-Control-Allow-Origin": "*"  });
        // send the data
        res.end(JSON.stringify(mondayData));
@@ -230,7 +230,7 @@ const server = http.createServer(async (req, res) => {
         // get Tuesday data.
        const tuesdayData = await new AppData().getTuesdayData();
        // set the status code, and content-type
-       res.writeHead(200, { "Content-Type": "application/json",
+       res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
        "Access-Control-Allow-Origin": "*"  });
        // send the data
        res.end(JSON.stringify(tuesdayData));
@@ -242,7 +242,7 @@ const server = http.createServer(async (req, res) => {
         // get Wednesday data.
        const wednesdayData = await new AppData().getWednesdayData();
        // set the status code, and content-type
-       res.writeHead(200, { "Content-Type": "application/json",
+       res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
        "Access-Control-Allow-Origin": "*"  });
        // send the data
        res.end(JSON.stringify(wednesdayData));
@@ -254,7 +254,7 @@ const server = http.createServer(async (req, res) => {
         // get Thursday data.
        const thursdayData = await new AppData().getThursdayData();
        // set the status code, and content-type
-       res.writeHead(200, { "Content-Type": "application/json",
+       res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
        "Access-Control-Allow-Origin": "*"  });
        // send the data
        res.end(JSON.stringify(thursdayData));
@@ -266,7 +266,7 @@ const server = http.createServer(async (req, res) => {
         // get Friday data.
        const fridayData = await new AppData().getFridayData();
        // set the status code, and content-type
-       res.writeHead(200, { "Content-Type": "application/json",
+       res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
        "Access-Control-Allow-Origin": "*"  });
        // send the data
        res.end(JSON.stringify(fridayData));
@@ -278,7 +278,7 @@ const server = http.createServer(async (req, res) => {
         // get Saturday data.
        const saturdayData = await new AppData().getSaturdayData();
        // set the status code, and content-type
-       res.writeHead(200, { "Content-Type": "application/json",
+       res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
        "Access-Control-Allow-Origin": "*"  });
        // send the data
        res.end(JSON.stringify(saturdayData));
@@ -289,18 +289,31 @@ const server = http.createServer(async (req, res) => {
     // get the data.
     const novena54Data = await new AppData().getDay54Data();
     // set the status code, and content-type
-    res.writeHead(200, { "Content-Type": "application/json",
+    res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
     "Access-Control-Allow-Origin": "*" });
     // send the data
     res.end(JSON.stringify(novena54Data));
 }
 //
-
+// FRENCH VERSION
+//
+	// /api/v1/jour-j : GET
+    else if (req.url === "/v1/jour-j" &&
+  req.method === "GET") {
+         // get today data.
+        const jour_jData = await new AppData().getJourData();
+        // set the status code, and content-type
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*"  });
+        // send the data
+        res.end(JSON.stringify(jour_jData));
+    }
+    //
 // Add above
 
     // No route present
     else {
-        res.writeHead(404, { "Content-Type": "application/json",
+        res.writeHead(404, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         res.end(JSON.stringify({ message: "Route not found" }));
     }
