@@ -1,3 +1,11 @@
+//const data = require("./data");
+const data = require("./data_rosary_2023");
+const dataFr = require("./fr_data_rosaire_2023");
+const dataMysteries = require("./data_rosary_mysteries");
+const dataPrayers = require("./data_rosary_prayers");
+const dataDays = require("./data_rosary_days");
+const data54Days = require("./data_rosary_54_days");
+
 // Logic behind the functionalities
 var serverTime = "America/New_York";  // America/New_York /
 
@@ -16,7 +24,8 @@ let monthTxt = allMonths[d.getMonth()];  // May
 let year = d.getFullYear();
 
 // month as (MM) format
-let month = ("0" + (d.getMonth() + 1)).slice(-2);
+let month = ("0" + (d.getMonth() + 1)).slice(-2);  // 01
+let d_month = d.getMonth() + 1;   // 1
 
 // date as (DD) format
 let date = ("0" + d.getDate()).slice(-2);
@@ -31,11 +40,14 @@ let d_dd = d.getDate();
 
 //
 let today =  monthTxt +' '+ d_dd +', '+ year;   //  -> May 18, 2022
-console.log(today);
+//console.log(today);
+
+let d_today =  d_month +'/'+ d_dd +'/'+ year;   //  -> 1/1/2023
+//console.log(d_today);
 
 let jour_j = year + "-" + month + "-" + date;
 // "2021-03-22"
-console.log(jour_j);
+//console.log(jour_j);
 
 //
 // Yesterday
@@ -69,13 +81,6 @@ let n_yyyy = n.getFullYear();  // 2022
 
 let end_novena = n_month +' '+ n_dd +', '+ n_yyyy;   //  -> May 19, 2022
 
-//const data = require("./data");
-const dataUpdate = require("./data_rosary_2022");
-const data = require("./data_rosary_2022_update");
-const dataMysteries = require("./data_rosary_mysteries");
-const dataPrayers = require("./data_rosary_prayers");
-const dataDays = require("./data_rosary_days");
-const data54Days = require("./data_rosary_54_days");
 
 const index = data.map(i => i.currentDate).indexOf(today);
 //console.log(index);
@@ -91,6 +96,12 @@ class Controller {
     // return all data
     return new Promise((resolve, _) => resolve(data));
   }
+//
+// getting all data
+async getAllDataFr() {
+  // return all data
+  return new Promise((resolve, _) => resolve(dataFr));
+}
 //
 async getMysteriesData() {
   // return all data
@@ -177,7 +188,25 @@ const dataNovena = data.slice(start, end);
     return new Promise((resolve, reject) => {
       // get the data
 	  let todayData = data.filter(function(todayIn) {
-    return todayIn.currentDate == today; });
+    return todayIn.rosary_date == d_today; });
+   // console.log(todayData);
+//
+      if (todayData) {
+        // return the data
+        resolve(todayData);
+      } else {
+        // return an error
+        reject(`Today object not found `);
+      }
+    });
+  }
+  //
+  // getting today data
+  async getLeJourData() {
+    return new Promise((resolve, reject) => {
+      // get the data
+	  let todayData = dataFr.filter(function(todayIn) {
+    return todayIn.j_rosaire == d_today; });
    // console.log(todayData);
 //
       if (todayData) {

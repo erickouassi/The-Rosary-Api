@@ -14,7 +14,7 @@ const server = http.createServer(async (req, res) => {
    }
     
     // /api/v1 : GET
-    else if (req.url === "/v1/list" && req.method === "GET") {
+    else if (req.url === "/v1/rosaries" && req.method === "GET") {
         // get the data.
         const allData = await new AppData().getAllData();
         // set the status code, and content-type
@@ -24,6 +24,17 @@ const server = http.createServer(async (req, res) => {
         res.end(JSON.stringify(allData));
     }
     //
+        // /api/v1 : GET
+        else if (req.url === "/v1/rosaires" && req.method === "GET") {
+            // get the data.
+            const allData = await new AppData().getAllDataFr();
+            // set the status code, and content-type
+            res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
+            "Access-Control-Allow-Origin": "*" });
+            // send the data
+            res.end(JSON.stringify(allData));
+        }
+        //
     // /v1/ : GET
     else if (req.url === "/v1/mysteries" && req.method === "GET") {
         // get the data.
@@ -83,6 +94,18 @@ const server = http.createServer(async (req, res) => {
         "Access-Control-Allow-Origin": "*"  });
         // send the data
         res.end(JSON.stringify(todayData));
+    }
+    //
+          // /api/v1/dujour : GET
+    else if (req.url === "/v1/dujour" &&
+  req.method === "GET") {
+         // get today data.
+        const jourData = await new AppData().getLeJourData();
+        // set the status code, and content-type
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*"  });
+        // send the data
+        res.end(JSON.stringify(jourData));
     }
     //
     // /api/v1/yesterday : GET
