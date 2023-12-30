@@ -346,6 +346,48 @@ else if (req.url === "/fr/list" && req.method === "GET") {
         res.end(JSON.stringify(tomorrowData));
     }
     //
+    // /v1/date/:MDYYYY : GET
+    else if (req.url.match(/\/v1\/date\/([0-9]+)/) &&
+  req.method === "GET") {
+        try {
+            // get date 10272022 from url
+            const X = req.url.split("/")[3];
+            // get a single data
+            const singleData = await new AppData().getSingleData(X);
+            // set the status code and content-type
+            res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
+            "Access-Control-Allow-Origin": "*"  });
+            // send the data
+            res.end(JSON.stringify(singleData));
+        } catch (error) {
+            // set the status code and content-type
+            res.writeHead(404, { "Content-Type": "application/json; charset=utf-8",
+            "Access-Control-Allow-Origin": "*"  });
+            // send the error
+            res.end(JSON.stringify({ message: error }));
+        }
+    }
+    // /v1/novena/:MDYYYY : GET
+    else if (req.url.match(/\/v1\/novena\/([0-9]+)/) &&
+  req.method === "GET") {
+        try {
+            // get date 10272022 from url
+            const N = req.url.split("/")[3];
+            // get a single data
+            const novenaData = await new AppData().getDataNovena(N);
+            // set the status code and content-type
+            res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
+            "Access-Control-Allow-Origin": "*"  });
+            // send the data
+            res.end(JSON.stringify(novenaData));
+        } catch (error) {
+            // set the status code and content-type
+            res.writeHead(404, { "Content-Type": "application/json; charset=utf-8",
+            "Access-Control-Allow-Origin": "*"  });
+            // send the error
+            res.end(JSON.stringify({ message: error }));
+        }
+    }
 
 
     /* End of Regular date */
