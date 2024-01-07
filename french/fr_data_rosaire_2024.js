@@ -6,7 +6,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
-    "date_rosaire": "Lundi, January 1, 2024",
+    "date_rosaire": "Lundi, 1er janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "010124"
   },
@@ -16,7 +16,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
-    "date_rosaire": "Mardi, January 2, 2024",
+    "date_rosaire": "Mardi, 2 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "010224"
   },
@@ -26,7 +26,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps de Noël",
-    "date_rosaire": "Mercredi, January 3, 2024",
+    "date_rosaire": "Mercredi, 3 janvier 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "010324"
   },
@@ -36,7 +36,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps de Noël",
-    "date_rosaire": "Jeudi, January 4, 2024",
+    "date_rosaire": "Jeudi, 4 janvier 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "010424"
   },
@@ -46,7 +46,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
-    "date_rosaire": "Vendredi, January 5, 2024",
+    "date_rosaire": "Vendredi, 5 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "010524"
   },
@@ -56,7 +56,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
-    "date_rosaire": "Samedi, January 6, 2024",
+    "date_rosaire": "Samedi, 6 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "010624"
   },
@@ -66,7 +66,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
-    "date_rosaire": "Dimanche, January 7, 2024",
+    "date_rosaire": "Dimanche, 7 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "010724"
   },
@@ -76,7 +76,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, January 8, 2024",
+    "date_rosaire": "Lundi, 8 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "010824"
   },
@@ -86,7 +86,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, January 9, 2024",
+    "date_rosaire": "Mardi, 9 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "010924"
   },
@@ -96,7 +96,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, January 10, 2024",
+    "date_rosaire": "Mercredi, 10 janvier 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "011024"
   },
@@ -106,7 +106,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, January 11, 2024",
+    "date_rosaire": "Jeudi, 11 janvier 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "011124"
   },
@@ -116,7 +116,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, January 12, 2024",
+    "date_rosaire": "Vendredi, 12 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "011224"
   },
@@ -126,7 +126,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, January 13, 2024",
+    "date_rosaire": "Samedi, 13 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "011324"
   },
@@ -136,7 +136,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, January 14, 2024",
+    "date_rosaire": "Dimanche, 14 janvier 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "011424"
   },
@@ -146,7 +146,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, January 15, 2024",
+    "date_rosaire": "Lundi, 15 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "011524"
   },
@@ -156,7 +156,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, January 16, 2024",
+    "date_rosaire": "Mardi, 16 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "011624"
   },
@@ -166,7 +166,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, January 17, 2024",
+    "date_rosaire": "Mercredi, 17 janvier 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "011724"
   },
@@ -176,7 +176,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, January 18, 2024",
+    "date_rosaire": "Jeudi, 18 janvier 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "011824"
   },
@@ -186,7 +186,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, January 19, 2024",
+    "date_rosaire": "Vendredi, 19 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "011924"
   },
@@ -196,7 +196,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, January 20, 2024",
+    "date_rosaire": "Samedi, 20 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "012024"
   },
@@ -206,7 +206,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, January 21, 2024",
+    "date_rosaire": "Dimanche, 21 janvier 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "012124"
   },
@@ -216,7 +216,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, January 22, 2024",
+    "date_rosaire": "Lundi, 22 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "012224"
   },
@@ -226,7 +226,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, January 23, 2024",
+    "date_rosaire": "Mardi, 23 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "012324"
   },
@@ -236,7 +236,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, January 24, 2024",
+    "date_rosaire": "Mercredi, 24 janvier 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "012424"
   },
@@ -246,7 +246,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, January 25, 2024",
+    "date_rosaire": "Jeudi, 25 janvier 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "012524"
   },
@@ -256,7 +256,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, January 26, 2024",
+    "date_rosaire": "Vendredi, 26 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "012624"
   },
@@ -266,7 +266,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, January 27, 2024",
+    "date_rosaire": "Samedi, 27 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "012724"
   },
@@ -276,7 +276,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, January 28, 2024",
+    "date_rosaire": "Dimanche, 28 janvier 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "012824"
   },
@@ -286,7 +286,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, January 29, 2024",
+    "date_rosaire": "Lundi, 29 janvier 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "012924"
   },
@@ -296,7 +296,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, January 30, 2024",
+    "date_rosaire": "Mardi, 30 janvier 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "013024"
   },
@@ -306,7 +306,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, January 31, 2024",
+    "date_rosaire": "Mercredi, 31 janvier 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "013124"
   },
@@ -316,7 +316,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, February 1, 2024",
+    "date_rosaire": "Jeudi, 1er février 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "020124"
   },
@@ -326,7 +326,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, February 2, 2024",
+    "date_rosaire": "Vendredi, 2 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "020224"
   },
@@ -336,7 +336,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, February 3, 2024",
+    "date_rosaire": "Samedi, 3 février 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "020324"
   },
@@ -346,7 +346,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, February 4, 2024",
+    "date_rosaire": "Dimanche, 4 février 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "020424"
   },
@@ -356,7 +356,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, February 5, 2024",
+    "date_rosaire": "Lundi, 5 février 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "020524"
   },
@@ -366,7 +366,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, February 6, 2024",
+    "date_rosaire": "Mardi, 6 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "020624"
   },
@@ -376,7 +376,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, February 7, 2024",
+    "date_rosaire": "Mercredi, 7 février 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "020724"
   },
@@ -386,7 +386,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, February 8, 2024",
+    "date_rosaire": "Jeudi, 8 février 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "020824"
   },
@@ -396,7 +396,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, February 9, 2024",
+    "date_rosaire": "Vendredi, 9 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "020924"
   },
@@ -406,7 +406,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, February 10, 2024",
+    "date_rosaire": "Samedi, 10 février 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "021024"
   },
@@ -416,7 +416,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, February 11, 2024",
+    "date_rosaire": "Dimanche, 11 février 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "021124"
   },
@@ -426,7 +426,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, February 12, 2024",
+    "date_rosaire": "Lundi, 12 février 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "021224"
   },
@@ -436,7 +436,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, February 13, 2024",
+    "date_rosaire": "Mardi, 13 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "021324"
   },
@@ -446,7 +446,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
-    "date_rosaire": "Mercredi, February 14, 2024",
+    "date_rosaire": "Mercredi, 14 février 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "021424"
   },
@@ -456,7 +456,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
-    "date_rosaire": "Jeudi, February 15, 2024",
+    "date_rosaire": "Jeudi, 15 février 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "021524"
   },
@@ -466,7 +466,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Vendredi, February 16, 2024",
+    "date_rosaire": "Vendredi, 16 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "021624"
   },
@@ -476,7 +476,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Samedi, February 17, 2024",
+    "date_rosaire": "Samedi, 17 février 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "021724"
   },
@@ -486,7 +486,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Dimanche, February 18, 2024",
+    "date_rosaire": "Dimanche, 18 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "021824"
   },
@@ -496,7 +496,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Lundi, February 19, 2024",
+    "date_rosaire": "Lundi, 19 février 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "021924"
   },
@@ -506,7 +506,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Mardi, February 20, 2024",
+    "date_rosaire": "Mardi, 20 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "022024"
   },
@@ -516,7 +516,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
-    "date_rosaire": "Mercredi, February 21, 2024",
+    "date_rosaire": "Mercredi, 21 février 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "022124"
   },
@@ -526,7 +526,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
-    "date_rosaire": "Jeudi, February 22, 2024",
+    "date_rosaire": "Jeudi, 22 février 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "022224"
   },
@@ -536,7 +536,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Vendredi, February 23, 2024",
+    "date_rosaire": "Vendredi, 23 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "022324"
   },
@@ -546,7 +546,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Samedi, February 24, 2024",
+    "date_rosaire": "Samedi, 24 février 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "022424"
   },
@@ -556,7 +556,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Dimanche, February 25, 2024",
+    "date_rosaire": "Dimanche, 25 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "022524"
   },
@@ -566,7 +566,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Lundi, February 26, 2024",
+    "date_rosaire": "Lundi, 26 février 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "022624"
   },
@@ -576,7 +576,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Mardi, February 27, 2024",
+    "date_rosaire": "Mardi, 27 février 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "022724"
   },
@@ -586,7 +586,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
-    "date_rosaire": "Mercredi, February 28, 2024",
+    "date_rosaire": "Mercredi, 28 février 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "022824"
   },
@@ -596,7 +596,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
-    "date_rosaire": "Jeudi, February 29, 2024",
+    "date_rosaire": "Jeudi, 29 février 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "022924"
   },
@@ -606,7 +606,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Vendredi, March 1, 2024",
+    "date_rosaire": "Vendredi, 1er mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "030124"
   },
@@ -616,7 +616,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Samedi, March 2, 2024",
+    "date_rosaire": "Samedi, 2 mars 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "030224"
   },
@@ -626,7 +626,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Dimanche, March 3, 2024",
+    "date_rosaire": "Dimanche, 3 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "030324"
   },
@@ -636,7 +636,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Lundi, March 4, 2024",
+    "date_rosaire": "Lundi, 4 mars 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "030424"
   },
@@ -646,7 +646,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Mardi, March 5, 2024",
+    "date_rosaire": "Mardi, 5 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "030524"
   },
@@ -656,7 +656,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
-    "date_rosaire": "Mercredi, March 6, 2024",
+    "date_rosaire": "Mercredi, 6 mars 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "030624"
   },
@@ -666,7 +666,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
-    "date_rosaire": "Jeudi, March 7, 2024",
+    "date_rosaire": "Jeudi, 7 mars 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "030724"
   },
@@ -676,7 +676,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Vendredi, March 8, 2024",
+    "date_rosaire": "Vendredi, 8 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "030824"
   },
@@ -686,7 +686,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Samedi, March 9, 2024",
+    "date_rosaire": "Samedi, 9 mars 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "030924"
   },
@@ -696,7 +696,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Dimanche, March 10, 2024",
+    "date_rosaire": "Dimanche, 10 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "031024"
   },
@@ -706,7 +706,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Lundi, March 11, 2024",
+    "date_rosaire": "Lundi, 11 mars 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "031124"
   },
@@ -716,7 +716,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Mardi, March 12, 2024",
+    "date_rosaire": "Mardi, 12 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "031224"
   },
@@ -726,7 +726,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
-    "date_rosaire": "Mercredi, March 13, 2024",
+    "date_rosaire": "Mercredi, 13 mars 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "031324"
   },
@@ -736,7 +736,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
-    "date_rosaire": "Jeudi, March 14, 2024",
+    "date_rosaire": "Jeudi, 14 mars 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "031424"
   },
@@ -746,7 +746,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Vendredi, March 15, 2024",
+    "date_rosaire": "Vendredi, 15 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "031524"
   },
@@ -756,7 +756,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Samedi, March 16, 2024",
+    "date_rosaire": "Samedi, 16 mars 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "031624"
   },
@@ -766,7 +766,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Dimanche, March 17, 2024",
+    "date_rosaire": "Dimanche, 17 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "031724"
   },
@@ -776,7 +776,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Lundi, March 18, 2024",
+    "date_rosaire": "Lundi, 18 mars 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "031824"
   },
@@ -786,7 +786,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Mardi, March 19, 2024",
+    "date_rosaire": "Mardi, 19 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "031924"
   },
@@ -796,7 +796,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
-    "date_rosaire": "Mercredi, March 20, 2024",
+    "date_rosaire": "Mercredi, 20 mars 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "032024"
   },
@@ -806,7 +806,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
-    "date_rosaire": "Jeudi, March 21, 2024",
+    "date_rosaire": "Jeudi, 21 mars 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "032124"
   },
@@ -816,7 +816,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Vendredi, March 22, 2024",
+    "date_rosaire": "Vendredi, 22 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "032224"
   },
@@ -826,7 +826,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Samedi, March 23, 2024",
+    "date_rosaire": "Samedi, 23 mars 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "032324"
   },
@@ -836,7 +836,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Dimanche, March 24, 2024",
+    "date_rosaire": "Dimanche, 24 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "032424"
   },
@@ -846,7 +846,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
-    "date_rosaire": "Lundi, March 25, 2024",
+    "date_rosaire": "Lundi, 25 mars 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "032524"
   },
@@ -856,7 +856,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
-    "date_rosaire": "Mardi, March 26, 2024",
+    "date_rosaire": "Mardi, 26 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "032624"
   },
@@ -866,7 +866,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
-    "date_rosaire": "Mercredi, March 27, 2024",
+    "date_rosaire": "Mercredi, 27 mars 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "032724"
   },
@@ -876,7 +876,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "#N/A",
     "saison": "Triduum pascal",
-    "date_rosaire": "Jeudi, March 28, 2024",
+    "date_rosaire": "Jeudi, 28 mars 2024",
     "mp3_lien": "#N/A",
     "dateMMJJAA": "032824"
   },
@@ -886,7 +886,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "#N/A",
     "saison": "Triduum pascal",
-    "date_rosaire": "Vendredi, March 29, 2024",
+    "date_rosaire": "Vendredi, 29 mars 2024",
     "mp3_lien": "#N/A",
     "dateMMJJAA": "032924"
   },
@@ -896,7 +896,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "#N/A",
     "saison": "Triduum pascal",
-    "date_rosaire": "Samedi, March 30, 2024",
+    "date_rosaire": "Samedi, 30 mars 2024",
     "mp3_lien": "#N/A",
     "dateMMJJAA": "033024"
   },
@@ -906,7 +906,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Dimanche, March 31, 2024",
+    "date_rosaire": "Dimanche, 31 mars 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "033124"
   },
@@ -916,7 +916,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Lundi, April 1, 2024",
+    "date_rosaire": "Lundi, 1er avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "040124"
   },
@@ -926,7 +926,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mardi, April 2, 2024",
+    "date_rosaire": "Mardi, 2 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "040224"
   },
@@ -936,7 +936,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mercredi, April 3, 2024",
+    "date_rosaire": "Mercredi, 3 avril 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "040324"
   },
@@ -946,7 +946,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
-    "date_rosaire": "Jeudi, April 4, 2024",
+    "date_rosaire": "Jeudi, 4 avril 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "040424"
   },
@@ -956,7 +956,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Vendredi, April 5, 2024",
+    "date_rosaire": "Vendredi, 5 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "040524"
   },
@@ -966,7 +966,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Samedi, April 6, 2024",
+    "date_rosaire": "Samedi, 6 avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "040624"
   },
@@ -976,7 +976,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Dimanche, April 7, 2024",
+    "date_rosaire": "Dimanche, 7 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "040724"
   },
@@ -986,7 +986,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Lundi, April 8, 2024",
+    "date_rosaire": "Lundi, 8 avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "040824"
   },
@@ -996,7 +996,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mardi, April 9, 2024",
+    "date_rosaire": "Mardi, 9 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "040924"
   },
@@ -1006,7 +1006,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mercredi, April 10, 2024",
+    "date_rosaire": "Mercredi, 10 avril 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "041024"
   },
@@ -1016,7 +1016,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
-    "date_rosaire": "Jeudi, April 11, 2024",
+    "date_rosaire": "Jeudi, 11 avril 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "041124"
   },
@@ -1026,7 +1026,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Vendredi, April 12, 2024",
+    "date_rosaire": "Vendredi, 12 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "041224"
   },
@@ -1036,7 +1036,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Samedi, April 13, 2024",
+    "date_rosaire": "Samedi, 13 avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "041324"
   },
@@ -1046,7 +1046,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Dimanche, April 14, 2024",
+    "date_rosaire": "Dimanche, 14 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "041424"
   },
@@ -1056,7 +1056,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Lundi, April 15, 2024",
+    "date_rosaire": "Lundi, 15 avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "041524"
   },
@@ -1066,7 +1066,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mardi, April 16, 2024",
+    "date_rosaire": "Mardi, 16 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "041624"
   },
@@ -1076,7 +1076,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mercredi, April 17, 2024",
+    "date_rosaire": "Mercredi, 17 avril 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "041724"
   },
@@ -1086,7 +1086,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
-    "date_rosaire": "Jeudi, April 18, 2024",
+    "date_rosaire": "Jeudi, 18 avril 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "041824"
   },
@@ -1096,7 +1096,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Vendredi, April 19, 2024",
+    "date_rosaire": "Vendredi, 19 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "041924"
   },
@@ -1106,7 +1106,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Samedi, April 20, 2024",
+    "date_rosaire": "Samedi, 20 avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "042024"
   },
@@ -1116,7 +1116,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Dimanche, April 21, 2024",
+    "date_rosaire": "Dimanche, 21 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "042124"
   },
@@ -1126,7 +1126,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Lundi, April 22, 2024",
+    "date_rosaire": "Lundi, 22 avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "042224"
   },
@@ -1136,7 +1136,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mardi, April 23, 2024",
+    "date_rosaire": "Mardi, 23 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "042324"
   },
@@ -1146,7 +1146,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mercredi, April 24, 2024",
+    "date_rosaire": "Mercredi, 24 avril 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "042424"
   },
@@ -1156,7 +1156,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
-    "date_rosaire": "Jeudi, April 25, 2024",
+    "date_rosaire": "Jeudi, 25 avril 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "042524"
   },
@@ -1166,7 +1166,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Vendredi, April 26, 2024",
+    "date_rosaire": "Vendredi, 26 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "042624"
   },
@@ -1176,7 +1176,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Samedi, April 27, 2024",
+    "date_rosaire": "Samedi, 27 avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "042724"
   },
@@ -1186,7 +1186,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Dimanche, April 28, 2024",
+    "date_rosaire": "Dimanche, 28 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "042824"
   },
@@ -1196,7 +1196,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Lundi, April 29, 2024",
+    "date_rosaire": "Lundi, 29 avril 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "042924"
   },
@@ -1206,7 +1206,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mardi, April 30, 2024",
+    "date_rosaire": "Mardi, 30 avril 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "043024"
   },
@@ -1216,7 +1216,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mercredi, May 1, 2024",
+    "date_rosaire": "Mercredi, 1er mai 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "050124"
   },
@@ -1226,7 +1226,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
-    "date_rosaire": "Jeudi, May 2, 2024",
+    "date_rosaire": "Jeudi, 2 mai 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "050224"
   },
@@ -1236,7 +1236,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Vendredi, May 3, 2024",
+    "date_rosaire": "Vendredi, 3 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "050324"
   },
@@ -1246,7 +1246,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Samedi, May 4, 2024",
+    "date_rosaire": "Samedi, 4 mai 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "050424"
   },
@@ -1256,7 +1256,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Dimanche, May 5, 2024",
+    "date_rosaire": "Dimanche, 5 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "050524"
   },
@@ -1266,7 +1266,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Lundi, May 6, 2024",
+    "date_rosaire": "Lundi, 6 mai 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "050624"
   },
@@ -1276,7 +1276,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mardi, May 7, 2024",
+    "date_rosaire": "Mardi, 7 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "050724"
   },
@@ -1286,7 +1286,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mercredi, May 8, 2024",
+    "date_rosaire": "Mercredi, 8 mai 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "050824"
   },
@@ -1296,7 +1296,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
-    "date_rosaire": "Jeudi, May 9, 2024",
+    "date_rosaire": "Jeudi, 9 mai 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "050924"
   },
@@ -1306,7 +1306,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Vendredi, May 10, 2024",
+    "date_rosaire": "Vendredi, 10 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "051024"
   },
@@ -1316,7 +1316,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Samedi, May 11, 2024",
+    "date_rosaire": "Samedi, 11 mai 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "051124"
   },
@@ -1326,7 +1326,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Dimanche, May 12, 2024",
+    "date_rosaire": "Dimanche, 12 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "051224"
   },
@@ -1336,7 +1336,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Lundi, May 13, 2024",
+    "date_rosaire": "Lundi, 13 mai 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "051324"
   },
@@ -1346,7 +1346,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mardi, May 14, 2024",
+    "date_rosaire": "Mardi, 14 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "051424"
   },
@@ -1356,7 +1356,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
-    "date_rosaire": "Mercredi, May 15, 2024",
+    "date_rosaire": "Mercredi, 15 mai 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "051524"
   },
@@ -1366,7 +1366,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
-    "date_rosaire": "Jeudi, May 16, 2024",
+    "date_rosaire": "Jeudi, 16 mai 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "051624"
   },
@@ -1376,7 +1376,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
-    "date_rosaire": "Vendredi, May 17, 2024",
+    "date_rosaire": "Vendredi, 17 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "051724"
   },
@@ -1386,7 +1386,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
-    "date_rosaire": "Samedi, May 18, 2024",
+    "date_rosaire": "Samedi, 18 mai 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "051824"
   },
@@ -1396,7 +1396,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, May 19, 2024",
+    "date_rosaire": "Dimanche, 19 mai 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "051924"
   },
@@ -1406,7 +1406,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, May 20, 2024",
+    "date_rosaire": "Lundi, 20 mai 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "052024"
   },
@@ -1416,7 +1416,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, May 21, 2024",
+    "date_rosaire": "Mardi, 21 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "052124"
   },
@@ -1426,7 +1426,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, May 22, 2024",
+    "date_rosaire": "Mercredi, 22 mai 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "052224"
   },
@@ -1436,7 +1436,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, May 23, 2024",
+    "date_rosaire": "Jeudi, 23 mai 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "052324"
   },
@@ -1446,7 +1446,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, May 24, 2024",
+    "date_rosaire": "Vendredi, 24 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "052424"
   },
@@ -1456,7 +1456,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, May 25, 2024",
+    "date_rosaire": "Samedi, 25 mai 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "052524"
   },
@@ -1466,7 +1466,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, May 26, 2024",
+    "date_rosaire": "Dimanche, 26 mai 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "052624"
   },
@@ -1476,7 +1476,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, May 27, 2024",
+    "date_rosaire": "Lundi, 27 mai 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "052724"
   },
@@ -1486,7 +1486,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, May 28, 2024",
+    "date_rosaire": "Mardi, 28 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "052824"
   },
@@ -1496,7 +1496,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, May 29, 2024",
+    "date_rosaire": "Mercredi, 29 mai 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "052924"
   },
@@ -1506,7 +1506,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, May 30, 2024",
+    "date_rosaire": "Jeudi, 30 mai 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "053024"
   },
@@ -1516,7 +1516,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, May 31, 2024",
+    "date_rosaire": "Vendredi, 31 mai 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "053124"
   },
@@ -1526,7 +1526,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, June 1, 2024",
+    "date_rosaire": "Samedi, 1er juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "060124"
   },
@@ -1536,7 +1536,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, June 2, 2024",
+    "date_rosaire": "Dimanche, 2 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "060224"
   },
@@ -1546,7 +1546,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, June 3, 2024",
+    "date_rosaire": "Lundi, 3 juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "060324"
   },
@@ -1556,7 +1556,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, June 4, 2024",
+    "date_rosaire": "Mardi, 4 juin 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "060424"
   },
@@ -1566,7 +1566,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, June 5, 2024",
+    "date_rosaire": "Mercredi, 5 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "060524"
   },
@@ -1576,7 +1576,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, June 6, 2024",
+    "date_rosaire": "Jeudi, 6 juin 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "060624"
   },
@@ -1586,7 +1586,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, June 7, 2024",
+    "date_rosaire": "Vendredi, 7 juin 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "060724"
   },
@@ -1596,7 +1596,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, June 8, 2024",
+    "date_rosaire": "Samedi, 8 juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "060824"
   },
@@ -1606,7 +1606,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, June 9, 2024",
+    "date_rosaire": "Dimanche, 9 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "060924"
   },
@@ -1616,7 +1616,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, June 10, 2024",
+    "date_rosaire": "Lundi, 10 juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "061024"
   },
@@ -1626,7 +1626,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, June 11, 2024",
+    "date_rosaire": "Mardi, 11 juin 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "061124"
   },
@@ -1636,7 +1636,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, June 12, 2024",
+    "date_rosaire": "Mercredi, 12 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "061224"
   },
@@ -1646,7 +1646,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, June 13, 2024",
+    "date_rosaire": "Jeudi, 13 juin 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "061324"
   },
@@ -1656,7 +1656,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, June 14, 2024",
+    "date_rosaire": "Vendredi, 14 juin 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "061424"
   },
@@ -1666,7 +1666,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, June 15, 2024",
+    "date_rosaire": "Samedi, 15 juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "061524"
   },
@@ -1676,7 +1676,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, June 16, 2024",
+    "date_rosaire": "Dimanche, 16 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "061624"
   },
@@ -1686,7 +1686,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, June 17, 2024",
+    "date_rosaire": "Lundi, 17 juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "061724"
   },
@@ -1696,7 +1696,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, June 18, 2024",
+    "date_rosaire": "Mardi, 18 juin 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "061824"
   },
@@ -1706,7 +1706,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, June 19, 2024",
+    "date_rosaire": "Mercredi, 19 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "061924"
   },
@@ -1716,7 +1716,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, June 20, 2024",
+    "date_rosaire": "Jeudi, 20 juin 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "062024"
   },
@@ -1726,7 +1726,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, June 21, 2024",
+    "date_rosaire": "Vendredi, 21 juin 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "062124"
   },
@@ -1736,7 +1736,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, June 22, 2024",
+    "date_rosaire": "Samedi, 22 juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "062224"
   },
@@ -1746,7 +1746,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, June 23, 2024",
+    "date_rosaire": "Dimanche, 23 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "062324"
   },
@@ -1756,7 +1756,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, June 24, 2024",
+    "date_rosaire": "Lundi, 24 juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "062424"
   },
@@ -1766,7 +1766,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, June 25, 2024",
+    "date_rosaire": "Mardi, 25 juin 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "062524"
   },
@@ -1776,7 +1776,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, June 26, 2024",
+    "date_rosaire": "Mercredi, 26 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "062624"
   },
@@ -1786,7 +1786,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, June 27, 2024",
+    "date_rosaire": "Jeudi, 27 juin 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "062724"
   },
@@ -1796,7 +1796,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, June 28, 2024",
+    "date_rosaire": "Vendredi, 28 juin 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "062824"
   },
@@ -1806,7 +1806,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, June 29, 2024",
+    "date_rosaire": "Samedi, 29 juin 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "062924"
   },
@@ -1816,7 +1816,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, June 30, 2024",
+    "date_rosaire": "Dimanche, 30 juin 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "063024"
   },
@@ -1826,7 +1826,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, July 1, 2024",
+    "date_rosaire": "Lundi, 1er juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "070124"
   },
@@ -1836,7 +1836,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, July 2, 2024",
+    "date_rosaire": "Mardi, 2 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "070224"
   },
@@ -1846,7 +1846,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, July 3, 2024",
+    "date_rosaire": "Mercredi, 3 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "070324"
   },
@@ -1856,7 +1856,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, July 4, 2024",
+    "date_rosaire": "Jeudi, 4 juillet 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "070424"
   },
@@ -1866,7 +1866,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, July 5, 2024",
+    "date_rosaire": "Vendredi, 5 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "070524"
   },
@@ -1876,7 +1876,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, July 6, 2024",
+    "date_rosaire": "Samedi, 6 juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "070624"
   },
@@ -1886,7 +1886,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, July 7, 2024",
+    "date_rosaire": "Dimanche, 7 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "070724"
   },
@@ -1896,7 +1896,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, July 8, 2024",
+    "date_rosaire": "Lundi, 8 juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "070824"
   },
@@ -1906,7 +1906,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, July 9, 2024",
+    "date_rosaire": "Mardi, 9 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "070924"
   },
@@ -1916,7 +1916,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, July 10, 2024",
+    "date_rosaire": "Mercredi, 10 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "071024"
   },
@@ -1926,7 +1926,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, July 11, 2024",
+    "date_rosaire": "Jeudi, 11 juillet 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "071124"
   },
@@ -1936,7 +1936,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, July 12, 2024",
+    "date_rosaire": "Vendredi, 12 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "071224"
   },
@@ -1946,7 +1946,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, July 13, 2024",
+    "date_rosaire": "Samedi, 13 juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "071324"
   },
@@ -1956,7 +1956,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, July 14, 2024",
+    "date_rosaire": "Dimanche, 14 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "071424"
   },
@@ -1966,7 +1966,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, July 15, 2024",
+    "date_rosaire": "Lundi, 15 juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "071524"
   },
@@ -1976,7 +1976,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, July 16, 2024",
+    "date_rosaire": "Mardi, 16 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "071624"
   },
@@ -1986,7 +1986,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, July 17, 2024",
+    "date_rosaire": "Mercredi, 17 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "071724"
   },
@@ -1996,7 +1996,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, July 18, 2024",
+    "date_rosaire": "Jeudi, 18 juillet 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "071824"
   },
@@ -2006,7 +2006,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, July 19, 2024",
+    "date_rosaire": "Vendredi, 19 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "071924"
   },
@@ -2016,7 +2016,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, July 20, 2024",
+    "date_rosaire": "Samedi, 20 juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "072024"
   },
@@ -2026,7 +2026,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, July 21, 2024",
+    "date_rosaire": "Dimanche, 21 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "072124"
   },
@@ -2036,7 +2036,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, July 22, 2024",
+    "date_rosaire": "Lundi, 22 juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "072224"
   },
@@ -2046,7 +2046,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, July 23, 2024",
+    "date_rosaire": "Mardi, 23 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "072324"
   },
@@ -2056,7 +2056,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, July 24, 2024",
+    "date_rosaire": "Mercredi, 24 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "072424"
   },
@@ -2066,7 +2066,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, July 25, 2024",
+    "date_rosaire": "Jeudi, 25 juillet 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "072524"
   },
@@ -2076,7 +2076,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, July 26, 2024",
+    "date_rosaire": "Vendredi, 26 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "072624"
   },
@@ -2086,7 +2086,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, July 27, 2024",
+    "date_rosaire": "Samedi, 27 juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "072724"
   },
@@ -2096,7 +2096,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, July 28, 2024",
+    "date_rosaire": "Dimanche, 28 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "072824"
   },
@@ -2106,7 +2106,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, July 29, 2024",
+    "date_rosaire": "Lundi, 29 juillet 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "072924"
   },
@@ -2116,7 +2116,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, July 30, 2024",
+    "date_rosaire": "Mardi, 30 juillet 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "073024"
   },
@@ -2126,7 +2126,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, July 31, 2024",
+    "date_rosaire": "Mercredi, 31 juillet 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "073124"
   },
@@ -2136,7 +2136,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, August 1, 2024",
+    "date_rosaire": "Jeudi, 1er août 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "080124"
   },
@@ -2146,7 +2146,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, August 2, 2024",
+    "date_rosaire": "Vendredi, 2 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "080224"
   },
@@ -2156,7 +2156,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, August 3, 2024",
+    "date_rosaire": "Samedi, 3 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "080324"
   },
@@ -2166,7 +2166,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, August 4, 2024",
+    "date_rosaire": "Dimanche, 4 août 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "080424"
   },
@@ -2176,7 +2176,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, August 5, 2024",
+    "date_rosaire": "Lundi, 5 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "080524"
   },
@@ -2186,7 +2186,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, August 6, 2024",
+    "date_rosaire": "Mardi, 6 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "080624"
   },
@@ -2196,7 +2196,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, August 7, 2024",
+    "date_rosaire": "Mercredi, 7 août 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "080724"
   },
@@ -2206,7 +2206,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, August 8, 2024",
+    "date_rosaire": "Jeudi, 8 août 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "080824"
   },
@@ -2216,7 +2216,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, August 9, 2024",
+    "date_rosaire": "Vendredi, 9 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "080924"
   },
@@ -2226,7 +2226,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, August 10, 2024",
+    "date_rosaire": "Samedi, 10 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "081024"
   },
@@ -2236,7 +2236,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, August 11, 2024",
+    "date_rosaire": "Dimanche, 11 août 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "081124"
   },
@@ -2246,7 +2246,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, August 12, 2024",
+    "date_rosaire": "Lundi, 12 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "081224"
   },
@@ -2256,7 +2256,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, August 13, 2024",
+    "date_rosaire": "Mardi, 13 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "081324"
   },
@@ -2266,7 +2266,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, August 14, 2024",
+    "date_rosaire": "Mercredi, 14 août 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "081424"
   },
@@ -2276,7 +2276,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, August 15, 2024",
+    "date_rosaire": "Jeudi, 15 août 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "081524"
   },
@@ -2286,7 +2286,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, August 16, 2024",
+    "date_rosaire": "Vendredi, 16 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "081624"
   },
@@ -2296,7 +2296,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, August 17, 2024",
+    "date_rosaire": "Samedi, 17 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "081724"
   },
@@ -2306,7 +2306,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, August 18, 2024",
+    "date_rosaire": "Dimanche, 18 août 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "081824"
   },
@@ -2316,7 +2316,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, August 19, 2024",
+    "date_rosaire": "Lundi, 19 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "081924"
   },
@@ -2326,7 +2326,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, August 20, 2024",
+    "date_rosaire": "Mardi, 20 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "082024"
   },
@@ -2336,7 +2336,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, August 21, 2024",
+    "date_rosaire": "Mercredi, 21 août 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "082124"
   },
@@ -2346,7 +2346,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, August 22, 2024",
+    "date_rosaire": "Jeudi, 22 août 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "082224"
   },
@@ -2356,7 +2356,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, August 23, 2024",
+    "date_rosaire": "Vendredi, 23 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "082324"
   },
@@ -2366,7 +2366,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, August 24, 2024",
+    "date_rosaire": "Samedi, 24 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "082424"
   },
@@ -2376,7 +2376,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, August 25, 2024",
+    "date_rosaire": "Dimanche, 25 août 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "082524"
   },
@@ -2386,7 +2386,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, August 26, 2024",
+    "date_rosaire": "Lundi, 26 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "082624"
   },
@@ -2396,7 +2396,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, August 27, 2024",
+    "date_rosaire": "Mardi, 27 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "082724"
   },
@@ -2406,7 +2406,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, August 28, 2024",
+    "date_rosaire": "Mercredi, 28 août 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "082824"
   },
@@ -2416,7 +2416,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, August 29, 2024",
+    "date_rosaire": "Jeudi, 29 août 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "082924"
   },
@@ -2426,7 +2426,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, August 30, 2024",
+    "date_rosaire": "Vendredi, 30 août 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "083024"
   },
@@ -2436,7 +2436,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, August 31, 2024",
+    "date_rosaire": "Samedi, 31 août 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "083124"
   },
@@ -2446,7 +2446,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, September 1, 2024",
+    "date_rosaire": "Dimanche, 1er septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "090124"
   },
@@ -2456,7 +2456,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, September 2, 2024",
+    "date_rosaire": "Lundi, 2 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "090224"
   },
@@ -2466,7 +2466,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, September 3, 2024",
+    "date_rosaire": "Mardi, 3 septembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "090324"
   },
@@ -2476,7 +2476,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, September 4, 2024",
+    "date_rosaire": "Mercredi, 4 septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "090424"
   },
@@ -2486,7 +2486,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, September 5, 2024",
+    "date_rosaire": "Jeudi, 5 septembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "090524"
   },
@@ -2496,7 +2496,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, September 6, 2024",
+    "date_rosaire": "Vendredi, 6 septembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "090624"
   },
@@ -2506,7 +2506,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, September 7, 2024",
+    "date_rosaire": "Samedi, 7 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "090724"
   },
@@ -2516,7 +2516,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, September 8, 2024",
+    "date_rosaire": "Dimanche, 8 septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "090824"
   },
@@ -2526,7 +2526,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, September 9, 2024",
+    "date_rosaire": "Lundi, 9 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "090924"
   },
@@ -2536,7 +2536,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, September 10, 2024",
+    "date_rosaire": "Mardi, 10 septembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "091024"
   },
@@ -2546,7 +2546,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, September 11, 2024",
+    "date_rosaire": "Mercredi, 11 septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "091124"
   },
@@ -2556,7 +2556,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, September 12, 2024",
+    "date_rosaire": "Jeudi, 12 septembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "091224"
   },
@@ -2566,7 +2566,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, September 13, 2024",
+    "date_rosaire": "Vendredi, 13 septembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "091324"
   },
@@ -2576,7 +2576,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, September 14, 2024",
+    "date_rosaire": "Samedi, 14 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "091424"
   },
@@ -2586,7 +2586,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, September 15, 2024",
+    "date_rosaire": "Dimanche, 15 septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "091524"
   },
@@ -2596,7 +2596,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, September 16, 2024",
+    "date_rosaire": "Lundi, 16 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "091624"
   },
@@ -2606,7 +2606,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, September 17, 2024",
+    "date_rosaire": "Mardi, 17 septembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "091724"
   },
@@ -2616,7 +2616,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, September 18, 2024",
+    "date_rosaire": "Mercredi, 18 septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "091824"
   },
@@ -2626,7 +2626,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, September 19, 2024",
+    "date_rosaire": "Jeudi, 19 septembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "091924"
   },
@@ -2636,7 +2636,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, September 20, 2024",
+    "date_rosaire": "Vendredi, 20 septembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "092024"
   },
@@ -2646,7 +2646,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, September 21, 2024",
+    "date_rosaire": "Samedi, 21 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "092124"
   },
@@ -2656,7 +2656,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, September 22, 2024",
+    "date_rosaire": "Dimanche, 22 septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "092224"
   },
@@ -2666,7 +2666,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, September 23, 2024",
+    "date_rosaire": "Lundi, 23 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "092324"
   },
@@ -2676,7 +2676,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, September 24, 2024",
+    "date_rosaire": "Mardi, 24 septembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "092424"
   },
@@ -2686,7 +2686,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, September 25, 2024",
+    "date_rosaire": "Mercredi, 25 septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "092524"
   },
@@ -2696,7 +2696,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, September 26, 2024",
+    "date_rosaire": "Jeudi, 26 septembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "092624"
   },
@@ -2706,7 +2706,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, September 27, 2024",
+    "date_rosaire": "Vendredi, 27 septembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "092724"
   },
@@ -2716,7 +2716,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, September 28, 2024",
+    "date_rosaire": "Samedi, 28 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "092824"
   },
@@ -2726,7 +2726,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, September 29, 2024",
+    "date_rosaire": "Dimanche, 29 septembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "092924"
   },
@@ -2736,7 +2736,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, September 30, 2024",
+    "date_rosaire": "Lundi, 30 septembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "093024"
   },
@@ -2746,7 +2746,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, October 1, 2024",
+    "date_rosaire": "Mardi, 1er octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "100124"
   },
@@ -2756,7 +2756,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, October 2, 2024",
+    "date_rosaire": "Mercredi, 2 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "100224"
   },
@@ -2766,7 +2766,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, October 3, 2024",
+    "date_rosaire": "Jeudi, 3 octobre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "100324"
   },
@@ -2776,7 +2776,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, October 4, 2024",
+    "date_rosaire": "Vendredi, 4 octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "100424"
   },
@@ -2786,7 +2786,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, October 5, 2024",
+    "date_rosaire": "Samedi, 5 octobre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "100524"
   },
@@ -2796,7 +2796,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, October 6, 2024",
+    "date_rosaire": "Dimanche, 6 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "100624"
   },
@@ -2806,7 +2806,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, October 7, 2024",
+    "date_rosaire": "Lundi, 7 octobre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "100724"
   },
@@ -2816,7 +2816,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, October 8, 2024",
+    "date_rosaire": "Mardi, 8 octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "100824"
   },
@@ -2826,7 +2826,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, October 9, 2024",
+    "date_rosaire": "Mercredi, 9 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "100924"
   },
@@ -2836,7 +2836,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, October 10, 2024",
+    "date_rosaire": "Jeudi, 10 octobre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "101024"
   },
@@ -2846,7 +2846,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, October 11, 2024",
+    "date_rosaire": "Vendredi, 11 octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "101124"
   },
@@ -2856,7 +2856,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, October 12, 2024",
+    "date_rosaire": "Samedi, 12 octobre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "101224"
   },
@@ -2866,7 +2866,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, October 13, 2024",
+    "date_rosaire": "Dimanche, 13 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "101324"
   },
@@ -2876,7 +2876,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, October 14, 2024",
+    "date_rosaire": "Lundi, 14 octobre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "101424"
   },
@@ -2886,7 +2886,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, October 15, 2024",
+    "date_rosaire": "Mardi, 15 octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "101524"
   },
@@ -2896,7 +2896,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, October 16, 2024",
+    "date_rosaire": "Mercredi, 16 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "101624"
   },
@@ -2906,7 +2906,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, October 17, 2024",
+    "date_rosaire": "Jeudi, 17 octobre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "101724"
   },
@@ -2916,7 +2916,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, October 18, 2024",
+    "date_rosaire": "Vendredi, 18 octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "101824"
   },
@@ -2926,7 +2926,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, October 19, 2024",
+    "date_rosaire": "Samedi, 19 octobre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "101924"
   },
@@ -2936,7 +2936,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, October 20, 2024",
+    "date_rosaire": "Dimanche, 20 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "102024"
   },
@@ -2946,7 +2946,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, October 21, 2024",
+    "date_rosaire": "Lundi, 21 octobre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "102124"
   },
@@ -2956,7 +2956,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, October 22, 2024",
+    "date_rosaire": "Mardi, 22 octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "102224"
   },
@@ -2966,7 +2966,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, October 23, 2024",
+    "date_rosaire": "Mercredi, 23 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "102324"
   },
@@ -2976,7 +2976,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, October 24, 2024",
+    "date_rosaire": "Jeudi, 24 octobre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "102424"
   },
@@ -2986,7 +2986,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, October 25, 2024",
+    "date_rosaire": "Vendredi, 25 octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "102524"
   },
@@ -2996,7 +2996,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, October 26, 2024",
+    "date_rosaire": "Samedi, 26 octobre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "102624"
   },
@@ -3006,7 +3006,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, October 27, 2024",
+    "date_rosaire": "Dimanche, 27 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "102724"
   },
@@ -3016,7 +3016,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, October 28, 2024",
+    "date_rosaire": "Lundi, 28 octobre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "102824"
   },
@@ -3026,7 +3026,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, October 29, 2024",
+    "date_rosaire": "Mardi, 29 octobre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "102924"
   },
@@ -3036,7 +3036,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, October 30, 2024",
+    "date_rosaire": "Mercredi, 30 octobre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "103024"
   },
@@ -3046,7 +3046,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, October 31, 2024",
+    "date_rosaire": "Jeudi, 31 octobre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "103124"
   },
@@ -3056,7 +3056,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, November 1, 2024",
+    "date_rosaire": "Vendredi, 1er novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "110124"
   },
@@ -3066,7 +3066,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, November 2, 2024",
+    "date_rosaire": "Samedi, 2 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "110224"
   },
@@ -3076,7 +3076,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, November 3, 2024",
+    "date_rosaire": "Dimanche, 3 novembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "110324"
   },
@@ -3086,7 +3086,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, November 4, 2024",
+    "date_rosaire": "Lundi, 4 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "110424"
   },
@@ -3096,7 +3096,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, November 5, 2024",
+    "date_rosaire": "Mardi, 5 novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "110524"
   },
@@ -3106,7 +3106,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, November 6, 2024",
+    "date_rosaire": "Mercredi, 6 novembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "110624"
   },
@@ -3116,7 +3116,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, November 7, 2024",
+    "date_rosaire": "Jeudi, 7 novembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "110724"
   },
@@ -3126,7 +3126,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, November 8, 2024",
+    "date_rosaire": "Vendredi, 8 novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "110824"
   },
@@ -3136,7 +3136,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, November 9, 2024",
+    "date_rosaire": "Samedi, 9 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "110924"
   },
@@ -3146,7 +3146,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, November 10, 2024",
+    "date_rosaire": "Dimanche, 10 novembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "111024"
   },
@@ -3156,7 +3156,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, November 11, 2024",
+    "date_rosaire": "Lundi, 11 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "111124"
   },
@@ -3166,7 +3166,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, November 12, 2024",
+    "date_rosaire": "Mardi, 12 novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "111224"
   },
@@ -3176,7 +3176,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, November 13, 2024",
+    "date_rosaire": "Mercredi, 13 novembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "111324"
   },
@@ -3186,7 +3186,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, November 14, 2024",
+    "date_rosaire": "Jeudi, 14 novembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "111424"
   },
@@ -3196,7 +3196,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, November 15, 2024",
+    "date_rosaire": "Vendredi, 15 novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "111524"
   },
@@ -3206,7 +3206,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, November 16, 2024",
+    "date_rosaire": "Samedi, 16 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "111624"
   },
@@ -3216,7 +3216,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, November 17, 2024",
+    "date_rosaire": "Dimanche, 17 novembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "111724"
   },
@@ -3226,7 +3226,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, November 18, 2024",
+    "date_rosaire": "Lundi, 18 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "111824"
   },
@@ -3236,7 +3236,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, November 19, 2024",
+    "date_rosaire": "Mardi, 19 novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "111924"
   },
@@ -3246,7 +3246,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, November 20, 2024",
+    "date_rosaire": "Mercredi, 20 novembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "112024"
   },
@@ -3256,7 +3256,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, November 21, 2024",
+    "date_rosaire": "Jeudi, 21 novembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "112124"
   },
@@ -3266,7 +3266,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, November 22, 2024",
+    "date_rosaire": "Vendredi, 22 novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "112224"
   },
@@ -3276,7 +3276,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, November 23, 2024",
+    "date_rosaire": "Samedi, 23 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "112324"
   },
@@ -3286,7 +3286,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Dimanche, November 24, 2024",
+    "date_rosaire": "Dimanche, 24 novembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "112424"
   },
@@ -3296,7 +3296,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Lundi, November 25, 2024",
+    "date_rosaire": "Lundi, 25 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "112524"
   },
@@ -3306,7 +3306,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mardi, November 26, 2024",
+    "date_rosaire": "Mardi, 26 novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "112624"
   },
@@ -3316,7 +3316,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Mercredi, November 27, 2024",
+    "date_rosaire": "Mercredi, 27 novembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "112724"
   },
@@ -3326,7 +3326,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Jeudi, November 28, 2024",
+    "date_rosaire": "Jeudi, 28 novembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "112824"
   },
@@ -3336,7 +3336,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Vendredi, November 29, 2024",
+    "date_rosaire": "Vendredi, 29 novembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "112924"
   },
@@ -3346,7 +3346,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
-    "date_rosaire": "Samedi, November 30, 2024",
+    "date_rosaire": "Samedi, 30 novembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "113024"
   },
@@ -3356,7 +3356,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Dimanche, December 1, 2024",
+    "date_rosaire": "Dimanche, 1er décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "120124"
   },
@@ -3366,7 +3366,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Lundi, December 2, 2024",
+    "date_rosaire": "Lundi, 2 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "120224"
   },
@@ -3376,7 +3376,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Avent",
-    "date_rosaire": "Mardi, December 3, 2024",
+    "date_rosaire": "Mardi, 3 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "120324"
   },
@@ -3386,7 +3386,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Avent",
-    "date_rosaire": "Mercredi, December 4, 2024",
+    "date_rosaire": "Mercredi, 4 décembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "120424"
   },
@@ -3396,7 +3396,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Avent",
-    "date_rosaire": "Jeudi, December 5, 2024",
+    "date_rosaire": "Jeudi, 5 décembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "120524"
   },
@@ -3406,7 +3406,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Avent",
-    "date_rosaire": "Vendredi, December 6, 2024",
+    "date_rosaire": "Vendredi, 6 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "120624"
   },
@@ -3416,7 +3416,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Samedi, December 7, 2024",
+    "date_rosaire": "Samedi, 7 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "120724"
   },
@@ -3426,7 +3426,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Dimanche, December 8, 2024",
+    "date_rosaire": "Dimanche, 8 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "120824"
   },
@@ -3436,7 +3436,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Lundi, December 9, 2024",
+    "date_rosaire": "Lundi, 9 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "120924"
   },
@@ -3446,7 +3446,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Avent",
-    "date_rosaire": "Mardi, December 10, 2024",
+    "date_rosaire": "Mardi, 10 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "121024"
   },
@@ -3456,7 +3456,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Avent",
-    "date_rosaire": "Mercredi, December 11, 2024",
+    "date_rosaire": "Mercredi, 11 décembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "121124"
   },
@@ -3466,7 +3466,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Avent",
-    "date_rosaire": "Jeudi, December 12, 2024",
+    "date_rosaire": "Jeudi, 12 décembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "121224"
   },
@@ -3476,7 +3476,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Avent",
-    "date_rosaire": "Vendredi, December 13, 2024",
+    "date_rosaire": "Vendredi, 13 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "121324"
   },
@@ -3486,7 +3486,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Samedi, December 14, 2024",
+    "date_rosaire": "Samedi, 14 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "121424"
   },
@@ -3496,7 +3496,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Dimanche, December 15, 2024",
+    "date_rosaire": "Dimanche, 15 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "121524"
   },
@@ -3506,7 +3506,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Lundi, December 16, 2024",
+    "date_rosaire": "Lundi, 16 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "121624"
   },
@@ -3516,7 +3516,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Avent",
-    "date_rosaire": "Mardi, December 17, 2024",
+    "date_rosaire": "Mardi, 17 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "121724"
   },
@@ -3526,7 +3526,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Avent",
-    "date_rosaire": "Mercredi, December 18, 2024",
+    "date_rosaire": "Mercredi, 18 décembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "121824"
   },
@@ -3536,7 +3536,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Avent",
-    "date_rosaire": "Jeudi, December 19, 2024",
+    "date_rosaire": "Jeudi, 19 décembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "121924"
   },
@@ -3546,7 +3546,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Avent",
-    "date_rosaire": "Vendredi, December 20, 2024",
+    "date_rosaire": "Vendredi, 20 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "122024"
   },
@@ -3556,7 +3556,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Samedi, December 21, 2024",
+    "date_rosaire": "Samedi, 21 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "122124"
   },
@@ -3566,7 +3566,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Dimanche, December 22, 2024",
+    "date_rosaire": "Dimanche, 22 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "122224"
   },
@@ -3576,7 +3576,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Avent",
-    "date_rosaire": "Lundi, December 23, 2024",
+    "date_rosaire": "Lundi, 23 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "122324"
   },
@@ -3586,7 +3586,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Avent",
-    "date_rosaire": "Mardi, December 24, 2024",
+    "date_rosaire": "Mardi, 24 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "122424"
   },
@@ -3596,7 +3596,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mercredi",
     "le_mystere": "Glorieux",
     "saison": "Temps de Noël",
-    "date_rosaire": "Mercredi, December 25, 2024",
+    "date_rosaire": "Mercredi, 25 décembre 2024",
     "mp3_lien": "mysteres_glorieux_v1.mp3",
     "dateMMJJAA": "122524"
   },
@@ -3606,7 +3606,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Jeudi",
     "le_mystere": "Lumineux",
     "saison": "Temps de Noël",
-    "date_rosaire": "Jeudi, December 26, 2024",
+    "date_rosaire": "Jeudi, 26 décembre 2024",
     "mp3_lien": "mysteres_lumineux_v1.mp3",
     "dateMMJJAA": "122624"
   },
@@ -3616,7 +3616,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Vendredi",
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
-    "date_rosaire": "Vendredi, December 27, 2024",
+    "date_rosaire": "Vendredi, 27 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "122724"
   },
@@ -3626,7 +3626,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Samedi",
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
-    "date_rosaire": "Samedi, December 28, 2024",
+    "date_rosaire": "Samedi, 28 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "122824"
   },
@@ -3636,7 +3636,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Dimanche",
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
-    "date_rosaire": "Dimanche, December 29, 2024",
+    "date_rosaire": "Dimanche, 29 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "122924"
   },
@@ -3646,7 +3646,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Lundi",
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
-    "date_rosaire": "Lundi, December 30, 2024",
+    "date_rosaire": "Lundi, 30 décembre 2024",
     "mp3_lien": "mysteres_joyeux_v1.mp3",
     "dateMMJJAA": "123024"
   },
@@ -3656,7 +3656,7 @@ const rosaireDataApi_2024 = [
     "jour_rosaire": "Mardi",
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
-    "date_rosaire": "Mardi, December 31, 2024",
+    "date_rosaire": "Mardi, 31 décembre 2024",
     "mp3_lien": "mysteres_douloureux_v1.mp3",
     "dateMMJJAA": "123124"
   }
