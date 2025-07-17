@@ -11,8 +11,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "010125",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "2",
@@ -24,8 +24,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "010225",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "3",
@@ -37,8 +37,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "010325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "4",
@@ -50,8 +50,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "010425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "5",
@@ -63,8 +63,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "010525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/jcXbywU9k_c",
-    "youtubeCode": "jcXbywU9k_c"
+    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
+    "youtubeCode": "Wk0A4O4_6ZM"
   },
   {
     "id": "6",
@@ -76,8 +76,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "010625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "7",
@@ -89,8 +89,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "010725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "8",
@@ -102,8 +102,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "010825",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "9",
@@ -115,8 +115,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "010925",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "10",
@@ -128,8 +128,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "011025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "11",
@@ -141,8 +141,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "011125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "12",
@@ -154,8 +154,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "011225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/jcXbywU9k_c",
-    "youtubeCode": "jcXbywU9k_c"
+    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
+    "youtubeCode": "Wk0A4O4_6ZM"
   },
   {
     "id": "13",
@@ -167,8 +167,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "011325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "14",
@@ -180,8 +180,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "011425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "15",
@@ -193,8 +193,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "011525",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "16",
@@ -206,8 +206,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "011625",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "17",
@@ -219,8 +219,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "011725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "18",
@@ -232,8 +232,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "011825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "19",
@@ -245,8 +245,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "011925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "20",
@@ -258,8 +258,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "012025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "21",
@@ -271,8 +271,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "012125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "22",
@@ -284,8 +284,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "012225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "23",
@@ -297,8 +297,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "012325",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "24",
@@ -310,8 +310,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "012425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "25",
@@ -323,8 +323,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "012525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "26",
@@ -336,8 +336,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "012625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "27",
@@ -349,8 +349,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "012725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "28",
@@ -362,8 +362,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "012825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "29",
@@ -375,8 +375,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "012925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "30",
@@ -388,8 +388,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "013025",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "31",
@@ -401,8 +401,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "013125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "32",
@@ -414,8 +414,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "020125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "33",
@@ -427,8 +427,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "020225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "34",
@@ -440,8 +440,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "020325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "35",
@@ -453,8 +453,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "020425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "36",
@@ -466,8 +466,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "020525",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "37",
@@ -479,8 +479,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "020625",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "38",
@@ -492,8 +492,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "020725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "39",
@@ -505,8 +505,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "020825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "40",
@@ -518,8 +518,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "020925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "41",
@@ -531,8 +531,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "021025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "42",
@@ -544,8 +544,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "021125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "43",
@@ -557,8 +557,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "021225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "44",
@@ -570,8 +570,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "021325",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "45",
@@ -583,8 +583,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "021425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "46",
@@ -596,8 +596,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "021525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "47",
@@ -609,8 +609,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "021625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "48",
@@ -622,8 +622,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "021725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "49",
@@ -635,8 +635,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "021825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "50",
@@ -648,8 +648,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "021925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "51",
@@ -661,8 +661,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "022025",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "52",
@@ -674,8 +674,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "022125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "53",
@@ -687,8 +687,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "022225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "54",
@@ -700,8 +700,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "022325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "55",
@@ -713,8 +713,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "022425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "56",
@@ -726,8 +726,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "022525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "57",
@@ -739,8 +739,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "022625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "58",
@@ -752,8 +752,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "022725",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "59",
@@ -765,8 +765,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "022825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "60",
@@ -778,8 +778,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "030125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "61",
@@ -791,8 +791,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "030225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "62",
@@ -804,8 +804,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "030325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "63",
@@ -817,8 +817,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "030425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "64",
@@ -830,8 +830,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "030525",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "65",
@@ -843,8 +843,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "030625",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "66",
@@ -856,8 +856,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "030725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "67",
@@ -869,8 +869,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "030825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "68",
@@ -882,8 +882,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "030925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/2_kfU_j1ues",
-    "youtubeCode": "2_kfU_j1ues"
+    "youtubeLink": "https://youtu.be/ffauILN-L5M",
+    "youtubeCode": "ffauILN-L5M"
   },
   {
     "id": "69",
@@ -895,8 +895,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "031025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "70",
@@ -908,8 +908,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "031125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "71",
@@ -921,8 +921,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "031225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "72",
@@ -934,8 +934,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "031325",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "73",
@@ -947,8 +947,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "031425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "74",
@@ -960,8 +960,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "031525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "75",
@@ -973,8 +973,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "031625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/2_kfU_j1ues",
-    "youtubeCode": "2_kfU_j1ues"
+    "youtubeLink": "https://youtu.be/ffauILN-L5M",
+    "youtubeCode": "ffauILN-L5M"
   },
   {
     "id": "76",
@@ -986,8 +986,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "031725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "77",
@@ -999,8 +999,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "031825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "78",
@@ -1012,8 +1012,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "031925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "79",
@@ -1025,8 +1025,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "032025",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "80",
@@ -1038,8 +1038,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "032125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "81",
@@ -1051,8 +1051,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "032225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "82",
@@ -1064,8 +1064,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "032325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/2_kfU_j1ues",
-    "youtubeCode": "2_kfU_j1ues"
+    "youtubeLink": "https://youtu.be/ffauILN-L5M",
+    "youtubeCode": "ffauILN-L5M"
   },
   {
     "id": "83",
@@ -1077,8 +1077,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "032425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "84",
@@ -1090,8 +1090,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "032525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "85",
@@ -1103,8 +1103,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "032625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "86",
@@ -1116,8 +1116,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "032725",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "87",
@@ -1129,8 +1129,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "032825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "88",
@@ -1142,8 +1142,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "032925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "89",
@@ -1155,8 +1155,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "033025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/2_kfU_j1ues",
-    "youtubeCode": "2_kfU_j1ues"
+    "youtubeLink": "https://youtu.be/ffauILN-L5M",
+    "youtubeCode": "ffauILN-L5M"
   },
   {
     "id": "90",
@@ -1168,8 +1168,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "033125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "91",
@@ -1181,8 +1181,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "040125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "92",
@@ -1194,8 +1194,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "040225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "93",
@@ -1207,8 +1207,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "040325",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "94",
@@ -1220,8 +1220,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "040425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "95",
@@ -1233,8 +1233,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "040525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "96",
@@ -1246,8 +1246,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "040625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/2_kfU_j1ues",
-    "youtubeCode": "2_kfU_j1ues"
+    "youtubeLink": "https://youtu.be/ffauILN-L5M",
+    "youtubeCode": "ffauILN-L5M"
   },
   {
     "id": "97",
@@ -1259,8 +1259,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "040725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "98",
@@ -1272,8 +1272,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "040825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "99",
@@ -1285,8 +1285,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "040925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "100",
@@ -1298,8 +1298,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "041025",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "101",
@@ -1311,8 +1311,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "041125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "102",
@@ -1324,8 +1324,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "041225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "103",
@@ -1337,8 +1337,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "041325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/2_kfU_j1ues",
-    "youtubeCode": "2_kfU_j1ues"
+    "youtubeLink": "https://youtu.be/ffauILN-L5M",
+    "youtubeCode": "ffauILN-L5M"
   },
   {
     "id": "104",
@@ -1350,8 +1350,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "041425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "105",
@@ -1363,8 +1363,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "041525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "106",
@@ -1376,8 +1376,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "041625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "107",
@@ -1389,8 +1389,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "041725",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "108",
@@ -1402,8 +1402,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "041825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "109",
@@ -1415,8 +1415,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "041925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "110",
@@ -1428,8 +1428,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "042025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "111",
@@ -1441,8 +1441,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "042125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "112",
@@ -1454,8 +1454,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "042225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "113",
@@ -1467,8 +1467,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "042325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "114",
@@ -1480,8 +1480,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "042425",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "115",
@@ -1493,8 +1493,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "042525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "116",
@@ -1506,8 +1506,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "042625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "117",
@@ -1519,8 +1519,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "042725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "118",
@@ -1532,8 +1532,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "042825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "119",
@@ -1545,8 +1545,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "042925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "120",
@@ -1558,8 +1558,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "043025",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "121",
@@ -1571,8 +1571,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "050125",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "122",
@@ -1584,8 +1584,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "050225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "123",
@@ -1597,8 +1597,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "050325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "124",
@@ -1610,8 +1610,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "050425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "125",
@@ -1623,8 +1623,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "050525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "126",
@@ -1636,8 +1636,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "050625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "127",
@@ -1649,8 +1649,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "050725",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "128",
@@ -1662,8 +1662,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "050825",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "129",
@@ -1675,8 +1675,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "050925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "130",
@@ -1688,8 +1688,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "051025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "131",
@@ -1701,8 +1701,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "051125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "132",
@@ -1714,8 +1714,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "051225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "133",
@@ -1727,8 +1727,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "051325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "134",
@@ -1740,8 +1740,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "051425",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "135",
@@ -1753,8 +1753,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "051525",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "136",
@@ -1766,8 +1766,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "051625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "137",
@@ -1779,8 +1779,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "051725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "138",
@@ -1792,8 +1792,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "051825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "139",
@@ -1805,8 +1805,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "051925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "140",
@@ -1818,8 +1818,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "052025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "141",
@@ -1831,8 +1831,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "052125",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "142",
@@ -1844,8 +1844,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "052225",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "143",
@@ -1857,8 +1857,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "052325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "144",
@@ -1870,8 +1870,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "052425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "145",
@@ -1883,8 +1883,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "052525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "146",
@@ -1896,8 +1896,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "052625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "147",
@@ -1909,8 +1909,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "052725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "148",
@@ -1922,8 +1922,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "052825",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "149",
@@ -1935,8 +1935,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "052925",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "150",
@@ -1948,8 +1948,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "053025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "151",
@@ -1961,8 +1961,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "053125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "152",
@@ -1974,8 +1974,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "060125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "153",
@@ -1987,8 +1987,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "060225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "154",
@@ -2000,8 +2000,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "060325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "155",
@@ -2013,8 +2013,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "060425",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "156",
@@ -2026,8 +2026,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "060525",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "157",
@@ -2039,8 +2039,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "060625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "158",
@@ -2052,8 +2052,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "060725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "159",
@@ -2065,8 +2065,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "060825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "160",
@@ -2078,8 +2078,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "060925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "161",
@@ -2091,8 +2091,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "061025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "162",
@@ -2104,8 +2104,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "061125",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "163",
@@ -2117,8 +2117,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "061225",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "164",
@@ -2130,8 +2130,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "061325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "165",
@@ -2143,8 +2143,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "061425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "166",
@@ -2156,8 +2156,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "061525",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "167",
@@ -2169,8 +2169,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "061625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "168",
@@ -2182,8 +2182,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "061725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "169",
@@ -2195,8 +2195,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "061825",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "170",
@@ -2208,8 +2208,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "061925",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "171",
@@ -2221,8 +2221,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "062025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "172",
@@ -2234,8 +2234,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "062125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "173",
@@ -2247,8 +2247,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "062225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "174",
@@ -2260,8 +2260,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "062325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "175",
@@ -2273,8 +2273,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "062425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "176",
@@ -2286,8 +2286,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "062525",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "177",
@@ -2299,8 +2299,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "062625",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "178",
@@ -2312,8 +2312,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "062725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "179",
@@ -2325,8 +2325,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "062825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "180",
@@ -2338,8 +2338,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "062925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "181",
@@ -2351,8 +2351,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "063025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "182",
@@ -2364,8 +2364,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "070125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "183",
@@ -2377,8 +2377,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "070225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "184",
@@ -2390,8 +2390,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "070325",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "185",
@@ -2403,8 +2403,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "070425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "186",
@@ -2416,8 +2416,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "070525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "187",
@@ -2429,8 +2429,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "070625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "188",
@@ -2442,8 +2442,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "070725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "189",
@@ -2455,8 +2455,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "070825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "190",
@@ -2468,8 +2468,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "070925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "191",
@@ -2481,8 +2481,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "071025",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "192",
@@ -2494,8 +2494,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "071125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "193",
@@ -2507,8 +2507,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "071225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "194",
@@ -2520,8 +2520,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "071325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "195",
@@ -2533,8 +2533,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "071425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "196",
@@ -2546,8 +2546,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "071525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "197",
@@ -2559,8 +2559,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "071625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "198",
@@ -2572,8 +2572,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "071725",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "199",
@@ -2585,8 +2585,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "071825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "200",
@@ -2598,8 +2598,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "071925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "201",
@@ -2611,8 +2611,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "072025",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "202",
@@ -2624,8 +2624,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "072125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "203",
@@ -2637,8 +2637,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "072225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "204",
@@ -2650,8 +2650,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "072325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "205",
@@ -2663,8 +2663,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "072425",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "206",
@@ -2676,8 +2676,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "072525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "207",
@@ -2689,8 +2689,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "072625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "208",
@@ -2702,8 +2702,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "072725",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "209",
@@ -2715,8 +2715,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "072825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "210",
@@ -2728,8 +2728,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "072925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "211",
@@ -2741,8 +2741,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "073025",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "212",
@@ -2754,8 +2754,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "073125",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "213",
@@ -2767,8 +2767,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "080125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "214",
@@ -2780,8 +2780,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "080225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "215",
@@ -2793,8 +2793,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "080325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "216",
@@ -2806,8 +2806,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "080425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "217",
@@ -2819,8 +2819,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "080525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "218",
@@ -2832,8 +2832,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "080625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "219",
@@ -2845,8 +2845,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "080725",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "220",
@@ -2858,8 +2858,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "080825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "221",
@@ -2871,8 +2871,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "080925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "222",
@@ -2884,8 +2884,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "081025",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "223",
@@ -2897,8 +2897,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "081125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "224",
@@ -2910,8 +2910,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "081225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "225",
@@ -2923,8 +2923,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "081325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "226",
@@ -2936,8 +2936,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "081425",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "227",
@@ -2949,8 +2949,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "081525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "228",
@@ -2962,8 +2962,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "081625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "229",
@@ -2975,8 +2975,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "081725",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "230",
@@ -2988,8 +2988,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "081825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "231",
@@ -3001,8 +3001,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "081925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "232",
@@ -3014,8 +3014,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "082025",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "233",
@@ -3027,8 +3027,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "082125",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "234",
@@ -3040,8 +3040,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "082225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "235",
@@ -3053,8 +3053,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "082325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "236",
@@ -3066,8 +3066,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "082425",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "237",
@@ -3079,8 +3079,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "082525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "238",
@@ -3092,8 +3092,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "082625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "239",
@@ -3105,8 +3105,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "082725",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "240",
@@ -3118,8 +3118,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "082825",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "241",
@@ -3131,8 +3131,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "082925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "242",
@@ -3144,8 +3144,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "083025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "243",
@@ -3157,8 +3157,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "083125",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "244",
@@ -3170,8 +3170,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "090125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "245",
@@ -3183,8 +3183,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "090225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "246",
@@ -3196,8 +3196,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "090325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "247",
@@ -3209,8 +3209,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "090425",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "248",
@@ -3222,8 +3222,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "090525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "249",
@@ -3235,8 +3235,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "090625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "250",
@@ -3248,8 +3248,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "090725",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "251",
@@ -3261,8 +3261,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "090825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "252",
@@ -3274,8 +3274,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "090925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "253",
@@ -3287,8 +3287,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "091025",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "254",
@@ -3300,8 +3300,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "091125",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "255",
@@ -3313,8 +3313,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "091225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "256",
@@ -3326,8 +3326,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "091325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "257",
@@ -3339,8 +3339,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "091425",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "258",
@@ -3352,8 +3352,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "091525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "259",
@@ -3365,8 +3365,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "091625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "260",
@@ -3378,8 +3378,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "091725",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "261",
@@ -3391,8 +3391,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "091825",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "262",
@@ -3404,8 +3404,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "091925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "263",
@@ -3417,8 +3417,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "092025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "264",
@@ -3430,8 +3430,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "092125",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "265",
@@ -3443,8 +3443,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "092225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "266",
@@ -3456,8 +3456,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "092325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "267",
@@ -3469,8 +3469,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "092425",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "268",
@@ -3482,8 +3482,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "092525",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "269",
@@ -3495,8 +3495,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "092625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "270",
@@ -3508,8 +3508,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "092725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "271",
@@ -3521,8 +3521,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "092825",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "272",
@@ -3534,8 +3534,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "092925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "273",
@@ -3547,8 +3547,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "093025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "274",
@@ -3560,8 +3560,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "100125",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "275",
@@ -3573,8 +3573,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "100225",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "276",
@@ -3586,8 +3586,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "100325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "277",
@@ -3599,8 +3599,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "100425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "278",
@@ -3612,8 +3612,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "100525",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "279",
@@ -3625,8 +3625,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "100625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "280",
@@ -3638,8 +3638,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "100725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "281",
@@ -3651,8 +3651,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "100825",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "282",
@@ -3664,8 +3664,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "100925",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "283",
@@ -3677,8 +3677,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "101025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "284",
@@ -3690,8 +3690,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "101125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "285",
@@ -3703,8 +3703,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "101225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "286",
@@ -3716,8 +3716,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "101325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "287",
@@ -3729,8 +3729,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "101425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "288",
@@ -3742,8 +3742,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "101525",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "289",
@@ -3755,8 +3755,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "101625",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "290",
@@ -3768,8 +3768,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "101725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "291",
@@ -3781,8 +3781,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "101825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "292",
@@ -3794,8 +3794,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "101925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "293",
@@ -3807,8 +3807,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "102025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "294",
@@ -3820,8 +3820,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "102125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "295",
@@ -3833,8 +3833,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "102225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "296",
@@ -3846,8 +3846,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "102325",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "297",
@@ -3859,8 +3859,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "102425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "298",
@@ -3872,8 +3872,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "102525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "299",
@@ -3885,8 +3885,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "102625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "300",
@@ -3898,8 +3898,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "102725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "301",
@@ -3911,8 +3911,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "102825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "302",
@@ -3924,8 +3924,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "102925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "303",
@@ -3937,8 +3937,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "103025",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "304",
@@ -3950,8 +3950,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "103125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "305",
@@ -3963,8 +3963,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "110125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "306",
@@ -3976,8 +3976,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "110225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "307",
@@ -3989,8 +3989,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "110325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "308",
@@ -4002,8 +4002,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "110425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "309",
@@ -4015,8 +4015,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "110525",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "310",
@@ -4028,8 +4028,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "110625",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "311",
@@ -4041,8 +4041,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "110725",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "312",
@@ -4054,8 +4054,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "110825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "313",
@@ -4067,8 +4067,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "110925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "314",
@@ -4080,8 +4080,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "111025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "315",
@@ -4093,8 +4093,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "111125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "316",
@@ -4106,8 +4106,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "111225",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "317",
@@ -4119,8 +4119,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "111325",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "318",
@@ -4132,8 +4132,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "111425",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "319",
@@ -4145,8 +4145,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "111525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "320",
@@ -4158,8 +4158,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "111625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "321",
@@ -4171,8 +4171,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "111725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "322",
@@ -4184,8 +4184,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "111825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "323",
@@ -4197,8 +4197,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "111925",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "324",
@@ -4210,8 +4210,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "112025",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "325",
@@ -4223,8 +4223,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "112125",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "326",
@@ -4236,8 +4236,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "112225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "327",
@@ -4249,8 +4249,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "112325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "328",
@@ -4262,8 +4262,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "112425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "329",
@@ -4275,8 +4275,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "112525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "330",
@@ -4288,8 +4288,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "112625",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "331",
@@ -4301,8 +4301,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "112725",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "332",
@@ -4314,8 +4314,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "112825",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "333",
@@ -4327,8 +4327,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "112925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "334",
@@ -4340,8 +4340,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "113025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/jcXbywU9k_c",
-    "youtubeCode": "jcXbywU9k_c"
+    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
+    "youtubeCode": "Wk0A4O4_6ZM"
   },
   {
     "id": "335",
@@ -4353,8 +4353,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "120125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "336",
@@ -4366,8 +4366,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "120225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "337",
@@ -4379,8 +4379,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "120325",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "338",
@@ -4392,8 +4392,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "120425",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "339",
@@ -4405,8 +4405,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "120525",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "340",
@@ -4418,8 +4418,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "120625",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "341",
@@ -4431,8 +4431,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "120725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/jcXbywU9k_c",
-    "youtubeCode": "jcXbywU9k_c"
+    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
+    "youtubeCode": "Wk0A4O4_6ZM"
   },
   {
     "id": "342",
@@ -4444,8 +4444,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "120825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "343",
@@ -4457,8 +4457,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "120925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "344",
@@ -4470,8 +4470,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "121025",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "345",
@@ -4483,8 +4483,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "121125",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "346",
@@ -4496,8 +4496,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "121225",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "347",
@@ -4509,8 +4509,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "121325",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "348",
@@ -4522,8 +4522,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "121425",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/jcXbywU9k_c",
-    "youtubeCode": "jcXbywU9k_c"
+    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
+    "youtubeCode": "Wk0A4O4_6ZM"
   },
   {
     "id": "349",
@@ -4535,8 +4535,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "121525",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "350",
@@ -4548,8 +4548,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "121625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "351",
@@ -4561,8 +4561,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "121725",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "352",
@@ -4574,8 +4574,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "121825",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "353",
@@ -4587,8 +4587,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "121925",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "354",
@@ -4600,8 +4600,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "122025",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "355",
@@ -4613,8 +4613,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "122125",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/jcXbywU9k_c",
-    "youtubeCode": "jcXbywU9k_c"
+    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
+    "youtubeCode": "Wk0A4O4_6ZM"
   },
   {
     "id": "356",
@@ -4626,8 +4626,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "122225",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "357",
@@ -4639,8 +4639,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "122325",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "358",
@@ -4652,8 +4652,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "122425",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   },
   {
     "id": "359",
@@ -4665,8 +4665,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-luminous-mysteries.mp3",
     "dateMMDDYY": "122525",
     "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/CQHt47O3Sfc",
-    "youtubeCode": "CQHt47O3Sfc"
+    "youtubeLink": "https://youtu.be/l30jBtl1-as",
+    "youtubeCode": "l30jBtl1-as"
   },
   {
     "id": "360",
@@ -4678,8 +4678,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "122625",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "361",
@@ -4691,8 +4691,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "122725",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "362",
@@ -4704,8 +4704,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "122825",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/jcXbywU9k_c",
-    "youtubeCode": "jcXbywU9k_c"
+    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
+    "youtubeCode": "Wk0A4O4_6ZM"
   },
   {
     "id": "363",
@@ -4717,8 +4717,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-joyful-mysteries.mp3",
     "dateMMDDYY": "122925",
     "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/AkA2kxncBFk",
-    "youtubeCode": "AkA2kxncBFk"
+    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
+    "youtubeCode": "IRPGLPp0CB0"
   },
   {
     "id": "364",
@@ -4730,8 +4730,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-sorrowful-mysteries.mp3",
     "dateMMDDYY": "123025",
     "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Ih_H2XxXl7M",
-    "youtubeCode": "Ih_H2XxXl7M"
+    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
+    "youtubeCode": "Bmm7VGBdJ04"
   },
   {
     "id": "365",
@@ -4743,8 +4743,8 @@ const rosaryDataApi_2025 = [
     "mp3Link": "audio-rosary-glorious-mysteries.mp3",
     "dateMMDDYY": "123125",
     "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/uBWiupPzCCk",
-    "youtubeCode": "uBWiupPzCCk"
+    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
+    "youtubeCode": "IzGnBPOPXy8"
   }
 ]
   module.exports = rosaryDataApi_2025;
