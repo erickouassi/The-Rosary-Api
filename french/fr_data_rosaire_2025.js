@@ -7,8 +7,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps de Noël",
     "date_rosaire": "Mercredi 1er Janvier 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "010125"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "010125",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "2",
@@ -17,8 +19,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps de Noël",
     "date_rosaire": "Jeudi 2 Janvier 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "010225"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "010225",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "3",
@@ -27,8 +31,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
     "date_rosaire": "Vendredi 3 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "010325"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "010325",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "4",
@@ -37,8 +43,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
     "date_rosaire": "Samedi 4 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "010425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "010425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "5",
@@ -47,8 +55,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
     "date_rosaire": "Dimanche 5 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "010525"
+    "mp3Lien": "audio-rosary-mystere-joyeux-avent-Noel.fr.mp3",
+    "dateMMJJAA": "010525",
+    "youtubeLink": "https://youtu.be/yqBKr6MTses",
+    "youtubeCode": "yqBKr6MTses"
   },
   {
     "id": "6",
@@ -57,8 +67,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
     "date_rosaire": "Lundi 6 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "010625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "010625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "7",
@@ -67,8 +79,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
     "date_rosaire": "Mardi 7 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "010725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "010725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "8",
@@ -77,8 +91,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps de Noël",
     "date_rosaire": "Mercredi 8 Janvier 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "010825"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "010825",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "9",
@@ -87,8 +103,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps de Noël",
     "date_rosaire": "Jeudi 9 Janvier 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "010925"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "010925",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "10",
@@ -97,8 +115,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
     "date_rosaire": "Vendredi 10 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "011025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "011025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "11",
@@ -107,8 +127,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
     "date_rosaire": "Samedi 11 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "011125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "011125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "12",
@@ -117,8 +139,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
     "date_rosaire": "Dimanche 12 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "011225"
+    "mp3Lien": "audio-rosary-mystere-joyeux-avent-Noel.fr.mp3",
+    "dateMMJJAA": "011225",
+    "youtubeLink": "https://youtu.be/yqBKr6MTses",
+    "youtubeCode": "yqBKr6MTses"
   },
   {
     "id": "13",
@@ -127,8 +151,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 13 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "011325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "011325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "14",
@@ -137,8 +163,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 14 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "011425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "011425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "15",
@@ -147,8 +175,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 15 Janvier 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "011525"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "011525",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "16",
@@ -157,8 +187,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 16 Janvier 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "011625"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "011625",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "17",
@@ -167,8 +199,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 17 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "011725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "011725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "18",
@@ -177,8 +211,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 18 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "011825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "011825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "19",
@@ -187,8 +223,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 19 Janvier 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "011925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "011925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "20",
@@ -197,8 +235,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 20 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "012025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "012025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "21",
@@ -207,8 +247,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 21 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "012125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "012125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "22",
@@ -217,8 +259,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 22 Janvier 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "012225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "012225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "23",
@@ -227,8 +271,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 23 Janvier 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "012325"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "012325",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "24",
@@ -237,8 +283,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 24 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "012425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "012425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "25",
@@ -247,8 +295,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 25 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "012525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "012525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "26",
@@ -257,8 +307,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 26 Janvier 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "012625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "012625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "27",
@@ -267,8 +319,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 27 Janvier 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "012725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "012725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "28",
@@ -277,8 +331,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 28 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "012825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "012825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "29",
@@ -287,8 +343,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 29 Janvier 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "012925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "012925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "30",
@@ -297,8 +355,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 30 Janvier 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "013025"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "013025",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "31",
@@ -307,8 +367,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 31 Janvier 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "013125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "013125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "32",
@@ -317,8 +379,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 1Er Février 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "020125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "020125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "33",
@@ -327,8 +391,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 2 Février 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "020225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "020225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "34",
@@ -337,8 +403,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 3 Février 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "020325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "020325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "35",
@@ -347,8 +415,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 4 Février 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "020425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "020425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "36",
@@ -357,8 +427,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 5 Février 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "020525"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "020525",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "37",
@@ -367,8 +439,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 6 Février 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "020625"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "020625",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "38",
@@ -377,8 +451,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 7 Février 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "020725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "020725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "39",
@@ -387,8 +463,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 8 Février 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "020825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "020825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "40",
@@ -397,8 +475,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 9 Février 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "020925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "020925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "41",
@@ -407,8 +487,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 10 Février 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "021025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "021025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "42",
@@ -417,8 +499,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 11 Février 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "021125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "021125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "43",
@@ -427,8 +511,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 12 Février 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "021225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "021225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "44",
@@ -437,8 +523,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 13 Février 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "021325"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "021325",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "45",
@@ -447,8 +535,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 14 Février 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "021425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "021425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "46",
@@ -457,8 +547,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 15 Février 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "021525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "021525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "47",
@@ -467,8 +559,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 16 Février 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "021625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "021625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "48",
@@ -477,8 +571,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 17 Février 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "021725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "021725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "49",
@@ -487,8 +583,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 18 Février 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "021825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "021825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "50",
@@ -497,8 +595,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 19 Février 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "021925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "021925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "51",
@@ -507,8 +607,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 20 Février 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "022025"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "022025",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "52",
@@ -517,8 +619,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 21 Février 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "022125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "022125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "53",
@@ -527,8 +631,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 22 Février 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "022225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "022225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "54",
@@ -537,8 +643,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 23 Février 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "022325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "022325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "55",
@@ -547,8 +655,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 24 Février 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "022425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "022425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "56",
@@ -557,8 +667,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 25 Février 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "022525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "022525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "57",
@@ -567,8 +679,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 26 Février 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "022625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "022625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "58",
@@ -577,8 +691,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 27 Février 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "022725"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "022725",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "59",
@@ -587,8 +703,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 28 Février 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "022825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "022825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "60",
@@ -597,8 +715,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 1Er Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "030125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "030125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "61",
@@ -607,8 +727,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 2 Mars 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "030225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "030225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "62",
@@ -617,8 +739,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 3 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "030325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "030325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "63",
@@ -627,8 +751,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 4 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "030425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "030425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "64",
@@ -637,8 +763,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
     "date_rosaire": "Mercredi 5 Mars 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "030525"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "030525",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "65",
@@ -647,8 +775,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
     "date_rosaire": "Jeudi 6 Mars 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "030625"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "030625",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "66",
@@ -657,8 +787,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Vendredi 7 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "030725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "030725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "67",
@@ -667,8 +799,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Samedi 8 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "030825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "030825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "68",
@@ -677,8 +811,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Dimanche 9 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "030925"
+    "mp3Lien": "audio-rosary-mystere-douloureux-careme.fr.mp3",
+    "dateMMJJAA": "030925",
+    "youtubeLink": "https://youtu.be/gX6wZXEMKro",
+    "youtubeCode": "gX6wZXEMKro"
   },
   {
     "id": "69",
@@ -687,8 +823,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Lundi 10 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "031025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "031025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "70",
@@ -697,8 +835,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Mardi 11 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "031125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "031125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "71",
@@ -707,8 +847,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
     "date_rosaire": "Mercredi 12 Mars 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "031225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "031225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "72",
@@ -717,8 +859,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
     "date_rosaire": "Jeudi 13 Mars 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "031325"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "031325",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "73",
@@ -727,8 +871,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Vendredi 14 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "031425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "031425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "74",
@@ -737,8 +883,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Samedi 15 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "031525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "031525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "75",
@@ -747,8 +895,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Dimanche 16 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "031625"
+    "mp3Lien": "audio-rosary-mystere-douloureux-careme.fr.mp3",
+    "dateMMJJAA": "031625",
+    "youtubeLink": "https://youtu.be/gX6wZXEMKro",
+    "youtubeCode": "gX6wZXEMKro"
   },
   {
     "id": "76",
@@ -757,8 +907,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Lundi 17 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "031725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "031725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "77",
@@ -767,8 +919,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Mardi 18 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "031825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "031825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "78",
@@ -777,8 +931,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
     "date_rosaire": "Mercredi 19 Mars 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "031925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "031925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "79",
@@ -787,8 +943,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
     "date_rosaire": "Jeudi 20 Mars 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "032025"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "032025",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "80",
@@ -797,8 +955,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Vendredi 21 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "032125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "032125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "81",
@@ -807,8 +967,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Samedi 22 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "032225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "032225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "82",
@@ -817,8 +979,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Dimanche 23 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "032325"
+    "mp3Lien": "audio-rosary-mystere-douloureux-careme.fr.mp3",
+    "dateMMJJAA": "032325",
+    "youtubeLink": "https://youtu.be/gX6wZXEMKro",
+    "youtubeCode": "gX6wZXEMKro"
   },
   {
     "id": "83",
@@ -827,8 +991,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Lundi 24 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "032425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "032425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "84",
@@ -837,8 +1003,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Mardi 25 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "032525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "032525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "85",
@@ -847,8 +1015,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
     "date_rosaire": "Mercredi 26 Mars 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "032625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "032625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "86",
@@ -857,8 +1027,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
     "date_rosaire": "Jeudi 27 Mars 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "032725"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "032725",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "87",
@@ -867,8 +1039,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Vendredi 28 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "032825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "032825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "88",
@@ -877,8 +1051,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Samedi 29 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "032925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "032925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "89",
@@ -887,8 +1063,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Dimanche 30 Mars 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "033025"
+    "mp3Lien": "audio-rosary-mystere-douloureux-careme.fr.mp3",
+    "dateMMJJAA": "033025",
+    "youtubeLink": "https://youtu.be/gX6wZXEMKro",
+    "youtubeCode": "gX6wZXEMKro"
   },
   {
     "id": "90",
@@ -897,8 +1075,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Lundi 31 Mars 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "033125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "033125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "91",
@@ -907,8 +1087,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Mardi 1Er Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "040125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "040125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "92",
@@ -917,8 +1099,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
     "date_rosaire": "Mercredi 2 Avril 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "040225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "040225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "93",
@@ -927,8 +1111,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
     "date_rosaire": "Jeudi 3 Avril 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "040325"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "040325",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "94",
@@ -937,8 +1123,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Vendredi 4 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "040425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "040425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "95",
@@ -947,8 +1135,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Samedi 5 Avril 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "040525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "040525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "96",
@@ -957,8 +1147,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Dimanche 6 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "040625"
+    "mp3Lien": "audio-rosary-mystere-douloureux-careme.fr.mp3",
+    "dateMMJJAA": "040625",
+    "youtubeLink": "https://youtu.be/gX6wZXEMKro",
+    "youtubeCode": "gX6wZXEMKro"
   },
   {
     "id": "97",
@@ -967,8 +1159,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Lundi 7 Avril 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "040725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "040725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "98",
@@ -977,8 +1171,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Mardi 8 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "040825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "040825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "99",
@@ -987,8 +1183,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
     "date_rosaire": "Mercredi 9 Avril 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "040925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "040925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "100",
@@ -997,8 +1195,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Carêmes",
     "date_rosaire": "Jeudi 10 Avril 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "041025"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "041025",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "101",
@@ -1007,8 +1207,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Vendredi 11 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "041125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "041125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "102",
@@ -1017,8 +1219,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Samedi 12 Avril 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "041225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "041225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "103",
@@ -1027,8 +1231,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Dimanche 13 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "041325"
+    "mp3Lien": "audio-rosary-mystere-douloureux-careme.fr.mp3",
+    "dateMMJJAA": "041325",
+    "youtubeLink": "https://youtu.be/gX6wZXEMKro",
+    "youtubeCode": "gX6wZXEMKro"
   },
   {
     "id": "104",
@@ -1037,8 +1243,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Carêmes",
     "date_rosaire": "Lundi 14 Avril 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "041425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "041425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "105",
@@ -1047,8 +1255,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Carêmes",
     "date_rosaire": "Mardi 15 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "041525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "041525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "106",
@@ -1057,8 +1267,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Carêmes",
     "date_rosaire": "Mercredi 16 Avril 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "041625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "041625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "107",
@@ -1067,8 +1279,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Triduum pascal",
     "date_rosaire": "Jeudi 17 Avril 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "041725"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "041725",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "108",
@@ -1077,8 +1291,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Triduum pascal",
     "date_rosaire": "Vendredi 18 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "041825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "041825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "109",
@@ -1087,8 +1303,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Triduum pascal",
     "date_rosaire": "Samedi 19 Avril 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "041925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "041925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "110",
@@ -1097,8 +1315,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Dimanche 20 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "042025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "042025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "111",
@@ -1107,8 +1327,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Lundi 21 Avril 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "042125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "042125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "112",
@@ -1117,8 +1339,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Mardi 22 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "042225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "042225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "113",
@@ -1127,8 +1351,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
     "date_rosaire": "Mercredi 23 Avril 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "042325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "042325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "114",
@@ -1137,8 +1363,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
     "date_rosaire": "Jeudi 24 Avril 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "042425"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "042425",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "115",
@@ -1147,8 +1375,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Vendredi 25 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "042525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "042525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "116",
@@ -1157,8 +1387,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Samedi 26 Avril 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "042625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "042625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "117",
@@ -1167,8 +1399,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Dimanche 27 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "042725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "042725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "118",
@@ -1177,8 +1411,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Lundi 28 Avril 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "042825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "042825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "119",
@@ -1187,8 +1423,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Mardi 29 Avril 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "042925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "042925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "120",
@@ -1197,8 +1435,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
     "date_rosaire": "Mercredi 30 Avril 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "043025"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "043025",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "121",
@@ -1207,8 +1447,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
     "date_rosaire": "Jeudi 1Er Mai 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "050125"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "050125",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "122",
@@ -1217,8 +1459,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Vendredi 2 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "050225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "050225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "123",
@@ -1227,8 +1471,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Samedi 3 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "050325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "050325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "124",
@@ -1237,8 +1483,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Dimanche 4 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "050425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "050425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "125",
@@ -1247,8 +1495,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Lundi 5 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "050525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "050525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "126",
@@ -1257,8 +1507,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Mardi 6 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "050625"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "050625",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "127",
@@ -1267,8 +1519,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
     "date_rosaire": "Mercredi 7 Mai 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "050725"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "050725",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "128",
@@ -1277,8 +1531,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
     "date_rosaire": "Jeudi 8 Mai 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "050825"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "050825",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "129",
@@ -1287,8 +1543,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Vendredi 9 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "050925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "050925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "130",
@@ -1297,8 +1555,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Samedi 10 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "051025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "051025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "131",
@@ -1307,8 +1567,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Dimanche 11 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "051125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "051125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "132",
@@ -1317,8 +1579,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Lundi 12 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "051225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "051225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "133",
@@ -1327,8 +1591,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Mardi 13 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "051325"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "051325",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "134",
@@ -1337,8 +1603,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
     "date_rosaire": "Mercredi 14 Mai 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "051425"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "051425",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "135",
@@ -1347,8 +1615,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
     "date_rosaire": "Jeudi 15 Mai 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "051525"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "051525",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "136",
@@ -1357,8 +1627,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Vendredi 16 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "051625"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "051625",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "137",
@@ -1367,8 +1639,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Samedi 17 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "051725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "051725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "138",
@@ -1377,8 +1651,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Dimanche 18 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "051825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "051825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "139",
@@ -1387,8 +1663,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Lundi 19 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "051925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "051925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "140",
@@ -1397,8 +1675,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Mardi 20 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "052025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "052025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "141",
@@ -1407,8 +1687,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
     "date_rosaire": "Mercredi 21 Mai 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "052125"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "052125",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "142",
@@ -1417,8 +1699,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
     "date_rosaire": "Jeudi 22 Mai 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "052225"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "052225",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "143",
@@ -1427,8 +1711,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Vendredi 23 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "052325"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "052325",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "144",
@@ -1437,8 +1723,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Samedi 24 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "052425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "052425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "145",
@@ -1447,8 +1735,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Dimanche 25 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "052525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "052525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "146",
@@ -1457,8 +1747,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Lundi 26 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "052625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "052625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "147",
@@ -1467,8 +1759,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Mardi 27 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "052725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "052725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "148",
@@ -1477,8 +1771,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
     "date_rosaire": "Mercredi 28 Mai 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "052825"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "052825",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "149",
@@ -1487,8 +1783,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
     "date_rosaire": "Jeudi 29 Mai 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "052925"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "052925",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "150",
@@ -1497,8 +1795,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Vendredi 30 Mai 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "053025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "053025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "151",
@@ -1507,8 +1807,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Samedi 31 Mai 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "053125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "053125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "152",
@@ -1517,8 +1819,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Dimanche 1Er Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "060125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "060125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "153",
@@ -1527,8 +1831,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Lundi 2 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "060225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "060225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "154",
@@ -1537,8 +1843,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Mardi 3 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "060325"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "060325",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "155",
@@ -1547,8 +1855,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps pascal",
     "date_rosaire": "Mercredi 4 Juin 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "060425"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "060425",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "156",
@@ -1557,8 +1867,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps pascal",
     "date_rosaire": "Jeudi 5 Juin 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "060525"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "060525",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "157",
@@ -1567,8 +1879,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Vendredi 6 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "060625"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "060625",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "158",
@@ -1577,8 +1891,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps pascal",
     "date_rosaire": "Samedi 7 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "060725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "060725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "159",
@@ -1587,8 +1903,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps pascal",
     "date_rosaire": "Dimanche 8 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "060825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "060825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "160",
@@ -1597,8 +1915,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 9 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "060925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "060925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "161",
@@ -1607,8 +1927,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 10 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "061025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "061025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "162",
@@ -1617,8 +1939,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 11 Juin 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "061125"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "061125",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "163",
@@ -1627,8 +1951,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 12 Juin 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "061225"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "061225",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "164",
@@ -1637,8 +1963,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 13 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "061325"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "061325",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "165",
@@ -1647,8 +1975,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 14 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "061425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "061425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "166",
@@ -1657,8 +1987,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 15 Juin 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "061525"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "061525",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "167",
@@ -1667,8 +1999,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 16 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "061625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "061625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "168",
@@ -1677,8 +2011,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 17 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "061725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "061725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "169",
@@ -1687,8 +2023,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 18 Juin 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "061825"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "061825",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "170",
@@ -1697,8 +2035,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 19 Juin 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "061925"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "061925",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "171",
@@ -1707,8 +2047,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 20 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "062025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "062025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "172",
@@ -1717,8 +2059,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 21 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "062125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "062125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "173",
@@ -1727,8 +2071,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 22 Juin 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "062225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "062225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "174",
@@ -1737,8 +2083,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 23 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "062325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "062325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "175",
@@ -1747,8 +2095,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 24 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "062425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "062425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "176",
@@ -1757,8 +2107,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 25 Juin 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "062525"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "062525",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "177",
@@ -1767,8 +2119,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 26 Juin 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "062625"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "062625",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "178",
@@ -1777,8 +2131,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 27 Juin 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "062725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "062725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "179",
@@ -1787,8 +2143,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 28 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "062825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "062825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "180",
@@ -1797,8 +2155,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 29 Juin 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "062925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "062925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "181",
@@ -1807,8 +2167,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 30 Juin 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "063025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "063025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "182",
@@ -1817,8 +2179,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 1Er Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "070125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "070125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "183",
@@ -1827,8 +2191,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 2 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "070225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "070225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "184",
@@ -1837,8 +2203,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 3 Juillet 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "070325"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "070325",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "185",
@@ -1847,8 +2215,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 4 Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "070425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "070425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "186",
@@ -1857,8 +2227,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 5 Juillet 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "070525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "070525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "187",
@@ -1867,8 +2239,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 6 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "070625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "070625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "188",
@@ -1877,8 +2251,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 7 Juillet 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "070725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "070725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "189",
@@ -1887,8 +2263,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 8 Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "070825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "070825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "190",
@@ -1897,8 +2275,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 9 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "070925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "070925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "191",
@@ -1907,8 +2287,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 10 Juillet 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "071025"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "071025",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "192",
@@ -1917,8 +2299,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 11 Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "071125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "071125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "193",
@@ -1927,8 +2311,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 12 Juillet 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "071225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "071225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "194",
@@ -1937,8 +2323,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 13 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "071325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "071325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "195",
@@ -1947,8 +2335,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 14 Juillet 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "071425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "071425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "196",
@@ -1957,8 +2347,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 15 Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "071525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "071525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "197",
@@ -1967,8 +2359,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 16 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "071625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "071625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "198",
@@ -1977,8 +2371,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 17 Juillet 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "071725"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "071725",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "199",
@@ -1987,8 +2383,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 18 Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "071825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "071825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "200",
@@ -1997,8 +2395,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 19 Juillet 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "071925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "071925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "201",
@@ -2007,8 +2407,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 20 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "072025"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "072025",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "202",
@@ -2017,8 +2419,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 21 Juillet 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "072125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "072125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "203",
@@ -2027,8 +2431,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 22 Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "072225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "072225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "204",
@@ -2037,8 +2443,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 23 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "072325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "072325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "205",
@@ -2047,8 +2455,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 24 Juillet 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "072425"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "072425",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "206",
@@ -2057,8 +2467,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 25 Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "072525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "072525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "207",
@@ -2067,8 +2479,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 26 Juillet 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "072625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "072625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "208",
@@ -2077,8 +2491,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 27 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "072725"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "072725",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "209",
@@ -2087,8 +2503,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 28 Juillet 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "072825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "072825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "210",
@@ -2097,8 +2515,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 29 Juillet 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "072925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "072925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "211",
@@ -2107,8 +2527,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 30 Juillet 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "073025"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "073025",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "212",
@@ -2117,8 +2539,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 31 Juillet 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "073125"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "073125",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "213",
@@ -2127,8 +2551,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 1Er Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "080125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "080125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "214",
@@ -2137,8 +2563,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 2 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "080225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "080225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "215",
@@ -2147,8 +2575,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 3 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "080325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "080325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "216",
@@ -2157,8 +2587,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 4 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "080425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "080425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "217",
@@ -2167,8 +2599,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 5 Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "080525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "080525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "218",
@@ -2177,8 +2611,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 6 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "080625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "080625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "219",
@@ -2187,8 +2623,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 7 Août 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "080725"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "080725",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "220",
@@ -2197,8 +2635,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 8 Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "080825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "080825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "221",
@@ -2207,8 +2647,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 9 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "080925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "080925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "222",
@@ -2217,8 +2659,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 10 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "081025"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "081025",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "223",
@@ -2227,8 +2671,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 11 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "081125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "081125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "224",
@@ -2237,8 +2683,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 12 Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "081225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "081225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "225",
@@ -2247,8 +2695,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 13 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "081325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "081325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "226",
@@ -2257,8 +2707,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 14 Août 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "081425"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "081425",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "227",
@@ -2267,8 +2719,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 15 Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "081525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "081525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "228",
@@ -2277,8 +2731,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 16 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "081625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "081625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "229",
@@ -2287,8 +2743,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 17 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "081725"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "081725",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "230",
@@ -2297,8 +2755,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 18 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "081825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "081825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "231",
@@ -2307,8 +2767,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 19 Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "081925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "081925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "232",
@@ -2317,8 +2779,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 20 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "082025"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "082025",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "233",
@@ -2327,8 +2791,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 21 Août 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "082125"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "082125",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "234",
@@ -2337,8 +2803,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 22 Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "082225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "082225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "235",
@@ -2347,8 +2815,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 23 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "082325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "082325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "236",
@@ -2357,8 +2827,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 24 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "082425"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "082425",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "237",
@@ -2367,8 +2839,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 25 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "082525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "082525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "238",
@@ -2377,8 +2851,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 26 Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "082625"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "082625",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "239",
@@ -2387,8 +2863,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 27 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "082725"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "082725",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "240",
@@ -2397,8 +2875,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 28 Août 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "082825"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "082825",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "241",
@@ -2407,8 +2887,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 29 Août 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "082925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "082925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "242",
@@ -2417,8 +2899,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 30 Août 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "083025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "083025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "243",
@@ -2427,8 +2911,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 31 Août 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "083125"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "083125",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "244",
@@ -2437,8 +2923,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 1Er Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "090125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "090125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "245",
@@ -2447,8 +2935,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 2 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "090225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "090225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "246",
@@ -2457,8 +2947,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 3 Septembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "090325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "090325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "247",
@@ -2467,8 +2959,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 4 Septembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "090425"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "090425",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "248",
@@ -2477,8 +2971,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 5 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "090525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "090525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "249",
@@ -2487,8 +2983,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 6 Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "090625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "090625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "250",
@@ -2497,8 +2995,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 7 Septembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "090725"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "090725",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "251",
@@ -2507,8 +3007,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 8 Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "090825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "090825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "252",
@@ -2517,8 +3019,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 9 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "090925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "090925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "253",
@@ -2527,8 +3031,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 10 Septembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "091025"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "091025",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "254",
@@ -2537,8 +3043,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 11 Septembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "091125"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "091125",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "255",
@@ -2547,8 +3055,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 12 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "091225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "091225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "256",
@@ -2557,8 +3067,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 13 Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "091325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "091325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "257",
@@ -2567,8 +3079,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 14 Septembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "091425"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "091425",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "258",
@@ -2577,8 +3091,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 15 Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "091525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "091525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "259",
@@ -2587,8 +3103,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 16 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "091625"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "091625",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "260",
@@ -2597,8 +3115,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 17 Septembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "091725"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "091725",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "261",
@@ -2607,8 +3127,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 18 Septembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "091825"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "091825",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "262",
@@ -2617,8 +3139,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 19 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "091925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "091925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "263",
@@ -2627,8 +3151,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 20 Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "092025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "092025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "264",
@@ -2637,8 +3163,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 21 Septembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "092125"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "092125",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "265",
@@ -2647,8 +3175,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 22 Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "092225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "092225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "266",
@@ -2657,8 +3187,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 23 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "092325"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "092325",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "267",
@@ -2667,8 +3199,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 24 Septembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "092425"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "092425",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "268",
@@ -2677,8 +3211,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 25 Septembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "092525"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "092525",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "269",
@@ -2687,8 +3223,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 26 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "092625"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "092625",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "270",
@@ -2697,8 +3235,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 27 Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "092725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "092725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "271",
@@ -2707,8 +3247,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 28 Septembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "092825"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "092825",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "272",
@@ -2717,8 +3259,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 29 Septembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "092925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "092925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "273",
@@ -2727,8 +3271,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 30 Septembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "093025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "093025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "274",
@@ -2737,8 +3283,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 1Er Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "100125"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "100125",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "275",
@@ -2747,8 +3295,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 2 Octobre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "100225"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "100225",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "276",
@@ -2757,8 +3307,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 3 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "100325"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "100325",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "277",
@@ -2767,8 +3319,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 4 Octobre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "100425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "100425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "278",
@@ -2777,8 +3331,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 5 Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "100525"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "100525",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "279",
@@ -2787,8 +3343,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 6 Octobre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "100625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "100625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "280",
@@ -2797,8 +3355,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 7 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "100725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "100725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "281",
@@ -2807,8 +3367,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 8 Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "100825"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "100825",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "282",
@@ -2817,8 +3379,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 9 Octobre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "100925"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "100925",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "283",
@@ -2827,8 +3391,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 10 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "101025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "101025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "284",
@@ -2837,8 +3403,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 11 Octobre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "101125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "101125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "285",
@@ -2847,8 +3415,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 12 Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "101225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "101225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "286",
@@ -2857,8 +3427,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 13 Octobre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "101325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "101325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "287",
@@ -2867,8 +3439,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 14 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "101425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "101425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "288",
@@ -2877,8 +3451,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 15 Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "101525"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "101525",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "289",
@@ -2887,8 +3463,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 16 Octobre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "101625"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "101625",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "290",
@@ -2897,8 +3475,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 17 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "101725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "101725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "291",
@@ -2907,8 +3487,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 18 Octobre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "101825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "101825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "292",
@@ -2917,8 +3499,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 19 Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "101925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "101925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "293",
@@ -2927,8 +3511,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 20 Octobre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "102025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "102025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "294",
@@ -2937,8 +3523,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 21 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "102125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "102125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "295",
@@ -2947,8 +3535,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 22 Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "102225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "102225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "296",
@@ -2957,8 +3547,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 23 Octobre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "102325"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "102325",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "297",
@@ -2967,8 +3559,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 24 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "102425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "102425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "298",
@@ -2977,8 +3571,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 25 Octobre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "102525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "102525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "299",
@@ -2987,8 +3583,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 26 Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "102625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "102625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "300",
@@ -2997,8 +3595,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 27 Octobre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "102725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "102725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "301",
@@ -3007,8 +3607,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 28 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "102825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "102825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "302",
@@ -3017,8 +3619,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 29 Octobre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "102925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "102925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "303",
@@ -3027,8 +3631,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 30 Octobre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "103025"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "103025",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "304",
@@ -3037,8 +3643,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 31 Octobre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "103125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "103125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "305",
@@ -3047,8 +3655,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 1Er Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "110125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "110125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "306",
@@ -3057,8 +3667,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 2 Novembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "110225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "110225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "307",
@@ -3067,8 +3679,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 3 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "110325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "110325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "308",
@@ -3077,8 +3691,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 4 Novembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "110425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "110425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "309",
@@ -3087,8 +3703,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 5 Novembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "110525"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "110525",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "310",
@@ -3097,8 +3715,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 6 Novembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "110625"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "110625",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "311",
@@ -3107,8 +3727,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 7 Novembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "110725"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "110725",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "312",
@@ -3117,8 +3739,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 8 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "110825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "110825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "313",
@@ -3127,8 +3751,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 9 Novembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "110925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "110925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "314",
@@ -3137,8 +3763,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 10 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "111025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "111025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "315",
@@ -3147,8 +3775,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 11 Novembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "111125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "111125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "316",
@@ -3157,8 +3787,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 12 Novembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "111225"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "111225",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "317",
@@ -3167,8 +3799,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 13 Novembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "111325"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "111325",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "318",
@@ -3177,8 +3811,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 14 Novembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "111425"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "111425",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "319",
@@ -3187,8 +3823,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 15 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "111525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "111525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "320",
@@ -3197,8 +3835,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 16 Novembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "111625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "111625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "321",
@@ -3207,8 +3847,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 17 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "111725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "111725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "322",
@@ -3217,8 +3859,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 18 Novembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "111825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "111825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "323",
@@ -3227,8 +3871,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 19 Novembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "111925"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "111925",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "324",
@@ -3237,8 +3883,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 20 Novembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "112025"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "112025",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "325",
@@ -3247,8 +3895,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 21 Novembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "112125"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "112125",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "326",
@@ -3257,8 +3907,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 22 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "112225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "112225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "327",
@@ -3267,8 +3919,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Dimanche 23 Novembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "112325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "112325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "328",
@@ -3277,8 +3931,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Lundi 24 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "112425"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "112425",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "329",
@@ -3287,8 +3943,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mardi 25 Novembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "112525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "112525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "330",
@@ -3297,8 +3955,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Mercredi 26 Novembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "112625"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "112625",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "331",
@@ -3307,8 +3967,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Jeudi 27 Novembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "112725"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "112725",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "332",
@@ -3317,8 +3979,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Vendredi 28 Novembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "112825"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "112825",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "333",
@@ -3327,8 +3991,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps Ordinaire",
     "date_rosaire": "Samedi 29 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "112925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "112925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "334",
@@ -3337,8 +4003,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Dimanche 30 Novembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "113025"
+    "mp3Lien": "audio-rosary-mystere-joyeux-avent-Noel.fr.mp3",
+    "dateMMJJAA": "113025",
+    "youtubeLink": "https://youtu.be/yqBKr6MTses",
+    "youtubeCode": "yqBKr6MTses"
   },
   {
     "id": "335",
@@ -3347,8 +4015,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Lundi 1Er Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "120125"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "120125",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "336",
@@ -3357,8 +4027,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Avent",
     "date_rosaire": "Mardi 2 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "120225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "120225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "337",
@@ -3367,8 +4039,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Avent",
     "date_rosaire": "Mercredi 3 Décembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "120325"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "120325",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "338",
@@ -3377,8 +4051,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Avent",
     "date_rosaire": "Jeudi 4 Décembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "120425"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "120425",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "339",
@@ -3387,8 +4063,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Avent",
     "date_rosaire": "Vendredi 5 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "120525"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "120525",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "340",
@@ -3397,8 +4075,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Samedi 6 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "120625"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "120625",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "341",
@@ -3407,8 +4087,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Dimanche 7 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "120725"
+    "mp3Lien": "audio-rosary-mystere-joyeux-avent-Noel.fr.mp3",
+    "dateMMJJAA": "120725",
+    "youtubeLink": "https://youtu.be/yqBKr6MTses",
+    "youtubeCode": "yqBKr6MTses"
   },
   {
     "id": "342",
@@ -3417,8 +4099,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Lundi 8 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "120825"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "120825",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "343",
@@ -3427,8 +4111,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Avent",
     "date_rosaire": "Mardi 9 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "120925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "120925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "344",
@@ -3437,8 +4123,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Avent",
     "date_rosaire": "Mercredi 10 Décembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "121025"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "121025",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "345",
@@ -3447,8 +4135,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Avent",
     "date_rosaire": "Jeudi 11 Décembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "121125"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "121125",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "346",
@@ -3457,8 +4147,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Avent",
     "date_rosaire": "Vendredi 12 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "121225"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "121225",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "347",
@@ -3467,8 +4159,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Samedi 13 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "121325"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "121325",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "348",
@@ -3477,8 +4171,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Dimanche 14 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "121425"
+    "mp3Lien": "audio-rosary-mystere-joyeux-avent-Noel.fr.mp3",
+    "dateMMJJAA": "121425",
+    "youtubeLink": "https://youtu.be/yqBKr6MTses",
+    "youtubeCode": "yqBKr6MTses"
   },
   {
     "id": "349",
@@ -3487,8 +4183,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Lundi 15 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "121525"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "121525",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "350",
@@ -3497,8 +4195,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Avent",
     "date_rosaire": "Mardi 16 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "121625"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "121625",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "351",
@@ -3507,8 +4207,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Avent",
     "date_rosaire": "Mercredi 17 Décembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "121725"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "121725",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "352",
@@ -3517,8 +4219,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Avent",
     "date_rosaire": "Jeudi 18 Décembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "121825"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "121825",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "353",
@@ -3527,8 +4231,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Avent",
     "date_rosaire": "Vendredi 19 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "121925"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "121925",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "354",
@@ -3537,8 +4243,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Samedi 20 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "122025"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "122025",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "355",
@@ -3547,8 +4255,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Dimanche 21 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "122125"
+    "mp3Lien": "audio-rosary-mystere-joyeux-avent-Noel.fr.mp3",
+    "dateMMJJAA": "122125",
+    "youtubeLink": "https://youtu.be/yqBKr6MTses",
+    "youtubeCode": "yqBKr6MTses"
   },
   {
     "id": "356",
@@ -3557,8 +4267,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Avent",
     "date_rosaire": "Lundi 22 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "122225"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "122225",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "357",
@@ -3567,8 +4279,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Avent",
     "date_rosaire": "Mardi 23 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "122325"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "122325",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "358",
@@ -3577,8 +4291,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Avent",
     "date_rosaire": "Mercredi 24 Décembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "122425"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "122425",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   },
   {
     "id": "359",
@@ -3587,8 +4303,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Lumineux",
     "saison": "Temps de Noël",
     "date_rosaire": "Jeudi 25 Décembre 2025",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "122525"
+    "mp3Lien": "audio-rosary-mystère-lumineux.fr.mp3",
+    "dateMMJJAA": "122525",
+    "youtubeLink": "https://youtu.be/yKqr_W_0-3U",
+    "youtubeCode": "yKqr_W_0-3U"
   },
   {
     "id": "360",
@@ -3597,8 +4315,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
     "date_rosaire": "Vendredi 26 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "122625"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "122625",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "361",
@@ -3607,8 +4327,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
     "date_rosaire": "Samedi 27 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "122725"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "122725",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "362",
@@ -3617,8 +4339,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
     "date_rosaire": "Dimanche 28 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "122825"
+    "mp3Lien": "audio-rosary-mystere-joyeux-avent-Noel.fr.mp3",
+    "dateMMJJAA": "122825",
+    "youtubeLink": "https://youtu.be/yqBKr6MTses",
+    "youtubeCode": "yqBKr6MTses"
   },
   {
     "id": "363",
@@ -3627,8 +4351,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Joyeux ",
     "saison": "Temps de Noël",
     "date_rosaire": "Lundi 29 Décembre 2025",
-    "mp3_lien": "mysteres_joyeux_v1.mp3",
-    "dateMMJJAA": "122925"
+    "mp3Lien": "audio-rosary-mystere-joyeux.fr.mp3",
+    "dateMMJJAA": "122925",
+    "youtubeLink": "https://youtu.be/D09gMRsmHBg",
+    "youtubeCode": "D09gMRsmHBg"
   },
   {
     "id": "364",
@@ -3637,8 +4363,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Douloureux",
     "saison": "Temps de Noël",
     "date_rosaire": "Mardi 30 Décembre 2025",
-    "mp3_lien": "mysteres_douloureux_v1.mp3",
-    "dateMMJJAA": "123025"
+    "mp3Lien": "audio-rosary-mystere-douloureux.fr.mp3",
+    "dateMMJJAA": "123025",
+    "youtubeLink": "https://youtu.be/qrdIVQU9WVk",
+    "youtubeCode": "qrdIVQU9WVk"
   },
   {
     "id": "365",
@@ -3647,18 +4375,10 @@ const rosaireDataApi_2025 = [
     "le_mystere": "Glorieux",
     "saison": "Temps de Noël",
     "date_rosaire": "Mercredi 31 Décembre 2025",
-    "mp3_lien": "mysteres_glorieux_v1.mp3",
-    "dateMMJJAA": "123125"
-  },
-  {
-    "id": "366",
-    "j_rosaire": "1/1/2026",
-    "jour_rosaire": "Jeudi",
-    "le_mystere": "Lumineux",
-    "saison": "Temps de Noël",
-    "date_rosaire": "Jeudi 1 Janvier 2026",
-    "mp3_lien": "mysteres_lumineux_v1.mp3",
-    "dateMMJJAA": "010126"
+    "mp3Lien": "audio-rosary-mystère-glorieux.fr.mp3",
+    "dateMMJJAA": "123125",
+    "youtubeLink": "https://youtu.be/-tbxVK0c6vI",
+    "youtubeCode": "-tbxVK0c6vI"
   }
 ]
   module.exports = rosaireDataApi_2025;
