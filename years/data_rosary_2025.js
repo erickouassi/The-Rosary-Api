@@ -8,11 +8,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Christmas",
     "currentDate": "January 1, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "010125",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "2",
@@ -21,11 +21,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Christmas",
     "currentDate": "January 2, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "010225",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "3",
@@ -34,11 +34,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Christmas",
     "currentDate": "January 3, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "010325",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "4",
@@ -47,11 +47,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Christmas",
     "currentDate": "January 4, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "010425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "5",
@@ -60,11 +60,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Christmas",
     "currentDate": "January 5, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries-advent-christmas.txt.wav",
+    "mp3Link": "sunday–joyful_mysteries_christmas.mp3",
     "dateMMDDYY": "010525",
-    "class": "audio-rosary-joyful-mysteries-advent-christmas",
-    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
-    "youtubeCode": "Wk0A4O4_6ZM"
+    "class": "sunday–joyful_mysteries_christmas",
+    "youtubeLink": "https://youtu.be/oNauhYruY64",
+    "youtubeCode": "oNauhYruY64"
   },
   {
     "id": "6",
@@ -73,11 +73,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Christmas",
     "currentDate": "January 6, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "010625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "7",
@@ -86,11 +86,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Christmas",
     "currentDate": "January 7, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "010725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "8",
@@ -99,11 +99,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Christmas",
     "currentDate": "January 8, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "010825",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "9",
@@ -112,11 +112,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Christmas",
     "currentDate": "January 9, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "010925",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "10",
@@ -125,11 +125,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Christmas",
     "currentDate": "January 10, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "011025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "11",
@@ -138,11 +138,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Christmas",
     "currentDate": "January 11, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "011125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "12",
@@ -151,11 +151,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Christmas",
     "currentDate": "January 12, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries-advent-christmas.txt.wav",
+    "mp3Link": "sunday–joyful_mysteries_christmas.mp3",
     "dateMMDDYY": "011225",
-    "class": "audio-rosary-joyful-mysteries-advent-christmas",
-    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
-    "youtubeCode": "Wk0A4O4_6ZM"
+    "class": "sunday–joyful_mysteries_christmas",
+    "youtubeLink": "https://youtu.be/oNauhYruY64",
+    "youtubeCode": "oNauhYruY64"
   },
   {
     "id": "13",
@@ -164,11 +164,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "January 13, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "011325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "14",
@@ -177,11 +177,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "January 14, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "011425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "15",
@@ -190,11 +190,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "January 15, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "011525",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "16",
@@ -203,11 +203,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "January 16, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "011625",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "17",
@@ -216,11 +216,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "January 17, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "011725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "18",
@@ -229,11 +229,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "January 18, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "011825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "19",
@@ -242,11 +242,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "January 19, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "011925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "20",
@@ -255,11 +255,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "January 20, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "012025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "21",
@@ -268,11 +268,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "January 21, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "012125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "22",
@@ -281,11 +281,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "January 22, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "012225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "23",
@@ -294,11 +294,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "January 23, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "012325",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "24",
@@ -307,11 +307,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "January 24, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "012425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "25",
@@ -320,11 +320,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "January 25, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "012525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "26",
@@ -333,11 +333,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "January 26, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "012625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "27",
@@ -346,11 +346,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "January 27, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "012725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "28",
@@ -359,11 +359,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "January 28, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "012825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "29",
@@ -372,11 +372,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "January 29, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "012925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "30",
@@ -385,11 +385,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "January 30, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "013025",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "31",
@@ -398,11 +398,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "January 31, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "013125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "32",
@@ -411,11 +411,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "February 1, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "020125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "33",
@@ -424,11 +424,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "February 2, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "020225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "34",
@@ -437,11 +437,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "February 3, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "020325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "35",
@@ -450,11 +450,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "February 4, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "020425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "36",
@@ -463,11 +463,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "February 5, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "020525",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "37",
@@ -476,11 +476,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "February 6, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "020625",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "38",
@@ -489,11 +489,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "February 7, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "020725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "39",
@@ -502,11 +502,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "February 8, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "020825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "40",
@@ -515,11 +515,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "February 9, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "020925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "41",
@@ -528,11 +528,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "February 10, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "021025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "42",
@@ -541,11 +541,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "February 11, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "021125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "43",
@@ -554,11 +554,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "February 12, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "021225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "44",
@@ -567,11 +567,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "February 13, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "021325",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "45",
@@ -580,11 +580,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "February 14, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "021425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "46",
@@ -593,11 +593,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "February 15, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "021525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "47",
@@ -606,11 +606,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "February 16, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "021625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "48",
@@ -619,11 +619,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "February 17, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "021725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "49",
@@ -632,11 +632,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "February 18, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "021825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "50",
@@ -645,11 +645,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "February 19, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "021925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "51",
@@ -658,11 +658,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "February 20, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "022025",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "52",
@@ -671,11 +671,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "February 21, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "022125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "53",
@@ -684,11 +684,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "February 22, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "022225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "54",
@@ -697,11 +697,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "February 23, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "022325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "55",
@@ -710,11 +710,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "February 24, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "022425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "56",
@@ -723,11 +723,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "February 25, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "022525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "57",
@@ -736,11 +736,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "February 26, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "022625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "58",
@@ -749,11 +749,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "February 27, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "022725",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "59",
@@ -762,11 +762,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "February 28, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "022825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "60",
@@ -775,11 +775,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "March 1, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "030125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "61",
@@ -788,11 +788,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "March 2, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "030225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "62",
@@ -801,11 +801,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "March 3, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "030325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "63",
@@ -814,11 +814,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "March 4, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "030425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "64",
@@ -827,11 +827,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Lent",
     "currentDate": "March 5, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "030525",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "65",
@@ -840,11 +840,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Lent",
     "currentDate": "March 6, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "030625",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "66",
@@ -853,11 +853,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 7, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "030725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "67",
@@ -866,11 +866,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "March 8, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "030825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "68",
@@ -879,11 +879,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 9, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries-lent.txt.wav",
+    "mp3Link": "sunday–sorrowful_mysteries_lent.mp3",
     "dateMMDDYY": "030925",
-    "class": "audio-rosary-sorrowful-mysteries-lent",
-    "youtubeLink": "https://youtu.be/ffauILN-L5M",
-    "youtubeCode": "ffauILN-L5M"
+    "class": "sunday–sorrowful_mysteries_lent",
+    "youtubeLink": "https://youtu.be/6t1u8Cin75Q",
+    "youtubeCode": "6t1u8Cin75Q"
   },
   {
     "id": "69",
@@ -892,11 +892,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "March 10, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "031025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "70",
@@ -905,11 +905,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 11, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "031125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "71",
@@ -918,11 +918,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Lent",
     "currentDate": "March 12, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "031225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "72",
@@ -931,11 +931,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Lent",
     "currentDate": "March 13, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "031325",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "73",
@@ -944,11 +944,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 14, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "031425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "74",
@@ -957,11 +957,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "March 15, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "031525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "75",
@@ -970,11 +970,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 16, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries-lent.txt.wav",
+    "mp3Link": "sunday–sorrowful_mysteries_lent.mp3",
     "dateMMDDYY": "031625",
-    "class": "audio-rosary-sorrowful-mysteries-lent",
-    "youtubeLink": "https://youtu.be/ffauILN-L5M",
-    "youtubeCode": "ffauILN-L5M"
+    "class": "sunday–sorrowful_mysteries_lent",
+    "youtubeLink": "https://youtu.be/6t1u8Cin75Q",
+    "youtubeCode": "6t1u8Cin75Q"
   },
   {
     "id": "76",
@@ -983,11 +983,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "March 17, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "031725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "77",
@@ -996,11 +996,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 18, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "031825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "78",
@@ -1009,11 +1009,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Lent",
     "currentDate": "March 19, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "031925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "79",
@@ -1022,11 +1022,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Lent",
     "currentDate": "March 20, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "032025",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "80",
@@ -1035,11 +1035,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 21, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "032125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "81",
@@ -1048,11 +1048,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "March 22, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "032225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "82",
@@ -1061,11 +1061,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 23, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries-lent.txt.wav",
+    "mp3Link": "sunday–sorrowful_mysteries_lent.mp3",
     "dateMMDDYY": "032325",
-    "class": "audio-rosary-sorrowful-mysteries-lent",
-    "youtubeLink": "https://youtu.be/ffauILN-L5M",
-    "youtubeCode": "ffauILN-L5M"
+    "class": "sunday–sorrowful_mysteries_lent",
+    "youtubeLink": "https://youtu.be/6t1u8Cin75Q",
+    "youtubeCode": "6t1u8Cin75Q"
   },
   {
     "id": "83",
@@ -1074,11 +1074,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "March 24, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "032425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "84",
@@ -1087,11 +1087,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 25, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "032525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "85",
@@ -1100,11 +1100,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Lent",
     "currentDate": "March 26, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "032625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "86",
@@ -1113,11 +1113,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Lent",
     "currentDate": "March 27, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "032725",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "87",
@@ -1126,11 +1126,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 28, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "032825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "88",
@@ -1139,11 +1139,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "March 29, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "032925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "89",
@@ -1152,11 +1152,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "March 30, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries-lent.txt.wav",
+    "mp3Link": "sunday–sorrowful_mysteries_lent.mp3",
     "dateMMDDYY": "033025",
-    "class": "audio-rosary-sorrowful-mysteries-lent",
-    "youtubeLink": "https://youtu.be/ffauILN-L5M",
-    "youtubeCode": "ffauILN-L5M"
+    "class": "sunday–sorrowful_mysteries_lent",
+    "youtubeLink": "https://youtu.be/6t1u8Cin75Q",
+    "youtubeCode": "6t1u8Cin75Q"
   },
   {
     "id": "90",
@@ -1165,11 +1165,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "March 31, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "033125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "91",
@@ -1178,11 +1178,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "April 1, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "040125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "92",
@@ -1191,11 +1191,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Lent",
     "currentDate": "April 2, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "040225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "93",
@@ -1204,11 +1204,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Lent",
     "currentDate": "April 3, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "040325",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "94",
@@ -1217,11 +1217,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "April 4, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "040425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "95",
@@ -1230,11 +1230,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "April 5, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "040525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "96",
@@ -1243,11 +1243,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "April 6, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries-lent.txt.wav",
+    "mp3Link": "sunday–sorrowful_mysteries_lent.mp3",
     "dateMMDDYY": "040625",
-    "class": "audio-rosary-sorrowful-mysteries-lent",
-    "youtubeLink": "https://youtu.be/ffauILN-L5M",
-    "youtubeCode": "ffauILN-L5M"
+    "class": "sunday–sorrowful_mysteries_lent",
+    "youtubeLink": "https://youtu.be/6t1u8Cin75Q",
+    "youtubeCode": "6t1u8Cin75Q"
   },
   {
     "id": "97",
@@ -1256,11 +1256,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "April 7, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "040725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "98",
@@ -1269,11 +1269,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "April 8, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "040825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "99",
@@ -1282,11 +1282,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Lent",
     "currentDate": "April 9, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "040925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "100",
@@ -1295,11 +1295,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Lent",
     "currentDate": "April 10, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "041025",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "101",
@@ -1308,11 +1308,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "April 11, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "041125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "102",
@@ -1321,11 +1321,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "April 12, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "041225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "103",
@@ -1334,11 +1334,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "April 13, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries-lent.txt.wav",
+    "mp3Link": "sunday–sorrowful_mysteries_lent.mp3",
     "dateMMDDYY": "041325",
-    "class": "audio-rosary-sorrowful-mysteries-lent",
-    "youtubeLink": "https://youtu.be/ffauILN-L5M",
-    "youtubeCode": "ffauILN-L5M"
+    "class": "sunday–sorrowful_mysteries_lent",
+    "youtubeLink": "https://youtu.be/6t1u8Cin75Q",
+    "youtubeCode": "6t1u8Cin75Q"
   },
   {
     "id": "104",
@@ -1347,11 +1347,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Lent",
     "currentDate": "April 14, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "041425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "105",
@@ -1360,11 +1360,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Lent",
     "currentDate": "April 15, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "041525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "106",
@@ -1373,11 +1373,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Lent",
     "currentDate": "April 16, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "041625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "107",
@@ -1386,11 +1386,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Triduum",
     "currentDate": "April 17, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "041725",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "108",
@@ -1399,11 +1399,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Triduum",
     "currentDate": "April 18, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "041825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "109",
@@ -1412,11 +1412,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Triduum",
     "currentDate": "April 19, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "041925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "110",
@@ -1425,11 +1425,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "April 20, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "042025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "111",
@@ -1438,11 +1438,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "April 21, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "042125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "112",
@@ -1451,11 +1451,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "April 22, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "042225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "113",
@@ -1464,11 +1464,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Easter",
     "currentDate": "April 23, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "042325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "114",
@@ -1477,11 +1477,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Easter",
     "currentDate": "April 24, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "042425",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "115",
@@ -1490,11 +1490,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "April 25, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "042525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "116",
@@ -1503,11 +1503,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "April 26, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "042625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "117",
@@ -1516,11 +1516,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "April 27, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "042725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "118",
@@ -1529,11 +1529,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "April 28, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "042825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "119",
@@ -1542,11 +1542,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "April 29, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "042925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "120",
@@ -1555,11 +1555,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Easter",
     "currentDate": "April 30, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "043025",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "121",
@@ -1568,11 +1568,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Easter",
     "currentDate": "May 1, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "050125",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "122",
@@ -1581,11 +1581,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 2, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "050225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "123",
@@ -1594,11 +1594,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 3, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "050325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "124",
@@ -1607,11 +1607,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 4, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "050425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "125",
@@ -1620,11 +1620,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 5, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "050525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "126",
@@ -1633,11 +1633,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 6, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "050625",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "127",
@@ -1646,11 +1646,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Easter",
     "currentDate": "May 7, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "050725",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "128",
@@ -1659,11 +1659,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Easter",
     "currentDate": "May 8, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "050825",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "129",
@@ -1672,11 +1672,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 9, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "050925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "130",
@@ -1685,11 +1685,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 10, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "051025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "131",
@@ -1698,11 +1698,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 11, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "051125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "132",
@@ -1711,11 +1711,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 12, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "051225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "133",
@@ -1724,11 +1724,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 13, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "051325",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "134",
@@ -1737,11 +1737,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Easter",
     "currentDate": "May 14, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "051425",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "135",
@@ -1750,11 +1750,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Easter",
     "currentDate": "May 15, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "051525",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "136",
@@ -1763,11 +1763,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 16, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "051625",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "137",
@@ -1776,11 +1776,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 17, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "051725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "138",
@@ -1789,11 +1789,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 18, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "051825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "139",
@@ -1802,11 +1802,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 19, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "051925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "140",
@@ -1815,11 +1815,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 20, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "052025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "141",
@@ -1828,11 +1828,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Easter",
     "currentDate": "May 21, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "052125",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "142",
@@ -1841,11 +1841,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Easter",
     "currentDate": "May 22, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "052225",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "143",
@@ -1854,11 +1854,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 23, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "052325",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "144",
@@ -1867,11 +1867,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 24, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "052425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "145",
@@ -1880,11 +1880,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 25, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "052525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "146",
@@ -1893,11 +1893,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 26, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "052625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "147",
@@ -1906,11 +1906,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 27, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "052725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "148",
@@ -1919,11 +1919,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Easter",
     "currentDate": "May 28, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "052825",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "149",
@@ -1932,11 +1932,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Easter",
     "currentDate": "May 29, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "052925",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "150",
@@ -1945,11 +1945,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "May 30, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "053025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "151",
@@ -1958,11 +1958,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "May 31, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "053125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "152",
@@ -1971,11 +1971,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "June 1, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "060125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "153",
@@ -1984,11 +1984,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "June 2, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "060225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "154",
@@ -1997,11 +1997,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "June 3, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "060325",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "155",
@@ -2010,11 +2010,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Easter",
     "currentDate": "June 4, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "060425",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "156",
@@ -2023,11 +2023,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Easter",
     "currentDate": "June 5, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "060525",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "157",
@@ -2036,11 +2036,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "June 6, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "060625",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "158",
@@ -2049,11 +2049,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Easter",
     "currentDate": "June 7, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "060725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "159",
@@ -2062,11 +2062,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Easter",
     "currentDate": "June 8, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "060825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "160",
@@ -2075,11 +2075,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "June 9, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "060925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "161",
@@ -2088,11 +2088,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "June 10, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "061025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "162",
@@ -2101,11 +2101,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "June 11, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "061125",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "163",
@@ -2114,11 +2114,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "June 12, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "061225",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "164",
@@ -2127,11 +2127,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "June 13, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "061325",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "165",
@@ -2140,11 +2140,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "June 14, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "061425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "166",
@@ -2153,11 +2153,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "June 15, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "061525",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "167",
@@ -2166,11 +2166,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "June 16, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "061625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "168",
@@ -2179,11 +2179,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "June 17, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "061725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "169",
@@ -2192,11 +2192,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "June 18, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "061825",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "170",
@@ -2205,11 +2205,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "June 19, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "061925",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "171",
@@ -2218,11 +2218,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "June 20, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "062025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "172",
@@ -2231,11 +2231,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "June 21, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "062125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "173",
@@ -2244,11 +2244,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "June 22, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "062225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "174",
@@ -2257,11 +2257,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "June 23, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "062325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "175",
@@ -2270,11 +2270,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "June 24, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "062425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "176",
@@ -2283,11 +2283,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "June 25, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "062525",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "177",
@@ -2296,11 +2296,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "June 26, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "062625",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "178",
@@ -2309,11 +2309,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "June 27, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "062725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "179",
@@ -2322,11 +2322,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "June 28, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "062825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "180",
@@ -2335,11 +2335,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "June 29, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "062925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "181",
@@ -2348,11 +2348,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "June 30, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "063025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "182",
@@ -2361,11 +2361,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 1, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "070125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "183",
@@ -2374,11 +2374,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 2, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "070225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "184",
@@ -2387,11 +2387,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "July 3, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "070325",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "185",
@@ -2400,11 +2400,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 4, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "070425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "186",
@@ -2413,11 +2413,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "July 5, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "070525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "187",
@@ -2426,11 +2426,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 6, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "070625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "188",
@@ -2439,11 +2439,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "July 7, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "070725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "189",
@@ -2452,11 +2452,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 8, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "070825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "190",
@@ -2465,11 +2465,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 9, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "070925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "191",
@@ -2478,11 +2478,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "July 10, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "071025",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "192",
@@ -2491,11 +2491,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 11, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "071125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "193",
@@ -2504,11 +2504,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "July 12, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "071225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "194",
@@ -2517,11 +2517,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 13, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "071325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "195",
@@ -2530,11 +2530,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "July 14, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "071425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "196",
@@ -2543,11 +2543,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 15, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "071525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "197",
@@ -2556,11 +2556,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 16, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "071625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "198",
@@ -2569,11 +2569,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "July 17, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "071725",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "199",
@@ -2582,11 +2582,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 18, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "071825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "200",
@@ -2595,11 +2595,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "July 19, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "071925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "201",
@@ -2608,11 +2608,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 20, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "072025",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "202",
@@ -2621,11 +2621,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "July 21, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "072125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "203",
@@ -2634,11 +2634,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 22, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "072225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "204",
@@ -2647,11 +2647,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 23, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "072325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "205",
@@ -2660,11 +2660,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "July 24, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "072425",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "206",
@@ -2673,11 +2673,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 25, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "072525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "207",
@@ -2686,11 +2686,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "July 26, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "072625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "208",
@@ -2699,11 +2699,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 27, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "072725",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "209",
@@ -2712,11 +2712,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "July 28, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "072825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "210",
@@ -2725,11 +2725,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "July 29, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "072925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "211",
@@ -2738,11 +2738,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "July 30, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "073025",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "212",
@@ -2751,11 +2751,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "July 31, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "073125",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "213",
@@ -2764,11 +2764,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 1, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "080125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "214",
@@ -2777,11 +2777,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 2, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "080225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "215",
@@ -2790,11 +2790,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 3, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "080325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "216",
@@ -2803,11 +2803,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 4, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "080425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "217",
@@ -2816,11 +2816,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 5, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "080525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "218",
@@ -2829,11 +2829,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 6, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "080625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "219",
@@ -2842,11 +2842,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "August 7, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "080725",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "220",
@@ -2855,11 +2855,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 8, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "080825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "221",
@@ -2868,11 +2868,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 9, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "080925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "222",
@@ -2881,11 +2881,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 10, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "081025",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "223",
@@ -2894,11 +2894,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 11, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "081125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "224",
@@ -2907,11 +2907,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 12, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "081225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "225",
@@ -2920,11 +2920,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 13, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "081325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "226",
@@ -2933,11 +2933,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "August 14, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "081425",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "227",
@@ -2946,11 +2946,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 15, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "081525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "228",
@@ -2959,11 +2959,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 16, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "081625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "229",
@@ -2972,11 +2972,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 17, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "081725",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "230",
@@ -2985,11 +2985,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 18, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "081825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "231",
@@ -2998,11 +2998,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 19, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "081925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "232",
@@ -3011,11 +3011,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 20, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "082025",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "233",
@@ -3024,11 +3024,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "August 21, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "082125",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "234",
@@ -3037,11 +3037,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 22, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "082225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "235",
@@ -3050,11 +3050,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 23, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "082325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "236",
@@ -3063,11 +3063,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 24, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "082425",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "237",
@@ -3076,11 +3076,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 25, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "082525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "238",
@@ -3089,11 +3089,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 26, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "082625",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "239",
@@ -3102,11 +3102,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 27, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "082725",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "240",
@@ -3115,11 +3115,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "August 28, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "082825",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "241",
@@ -3128,11 +3128,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "August 29, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "082925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "242",
@@ -3141,11 +3141,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "August 30, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "083025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "243",
@@ -3154,11 +3154,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "August 31, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "083125",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "244",
@@ -3167,11 +3167,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 1, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "090125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "245",
@@ -3180,11 +3180,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 2, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "090225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "246",
@@ -3193,11 +3193,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "September 3, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "090325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "247",
@@ -3206,11 +3206,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "September 4, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "090425",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "248",
@@ -3219,11 +3219,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 5, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "090525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "249",
@@ -3232,11 +3232,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 6, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "090625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "250",
@@ -3245,11 +3245,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "September 7, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "090725",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "251",
@@ -3258,11 +3258,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 8, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "090825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "252",
@@ -3271,11 +3271,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 9, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "090925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "253",
@@ -3284,11 +3284,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "September 10, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "091025",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "254",
@@ -3297,11 +3297,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "September 11, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "091125",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "255",
@@ -3310,11 +3310,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 12, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "091225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "256",
@@ -3323,11 +3323,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 13, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "091325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "257",
@@ -3336,11 +3336,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "September 14, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "091425",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "258",
@@ -3349,11 +3349,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 15, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "091525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "259",
@@ -3362,11 +3362,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 16, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "091625",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "260",
@@ -3375,11 +3375,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "September 17, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "091725",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "261",
@@ -3388,11 +3388,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "September 18, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "091825",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "262",
@@ -3401,11 +3401,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 19, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "091925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "263",
@@ -3414,11 +3414,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 20, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "092025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "264",
@@ -3427,11 +3427,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "September 21, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "092125",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "265",
@@ -3440,11 +3440,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 22, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "092225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "266",
@@ -3453,11 +3453,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 23, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "092325",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "267",
@@ -3466,11 +3466,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "September 24, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "092425",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "268",
@@ -3479,11 +3479,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "September 25, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "092525",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "269",
@@ -3492,11 +3492,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 26, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "092625",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "270",
@@ -3505,11 +3505,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 27, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "092725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "271",
@@ -3518,11 +3518,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "September 28, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "092825",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "272",
@@ -3531,11 +3531,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "September 29, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "092925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "273",
@@ -3544,11 +3544,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "September 30, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "093025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "274",
@@ -3557,11 +3557,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 1, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "100125",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "275",
@@ -3570,11 +3570,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "October 2, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "100225",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "276",
@@ -3583,11 +3583,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 3, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "100325",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "277",
@@ -3596,11 +3596,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "October 4, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "100425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "278",
@@ -3609,11 +3609,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 5, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "100525",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "279",
@@ -3622,11 +3622,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "October 6, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "100625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "280",
@@ -3635,11 +3635,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 7, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "100725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "281",
@@ -3648,11 +3648,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 8, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "100825",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "282",
@@ -3661,11 +3661,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "October 9, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "100925",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "283",
@@ -3674,11 +3674,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 10, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "101025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "284",
@@ -3687,11 +3687,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "October 11, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "101125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "285",
@@ -3700,11 +3700,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 12, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "101225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "286",
@@ -3713,11 +3713,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "October 13, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "101325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "287",
@@ -3726,11 +3726,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 14, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "101425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "288",
@@ -3739,11 +3739,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 15, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "101525",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "289",
@@ -3752,11 +3752,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "October 16, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "101625",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "290",
@@ -3765,11 +3765,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 17, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "101725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "291",
@@ -3778,11 +3778,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "October 18, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "101825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "292",
@@ -3791,11 +3791,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 19, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "101925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "293",
@@ -3804,11 +3804,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "October 20, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "102025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "294",
@@ -3817,11 +3817,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 21, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "102125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "295",
@@ -3830,11 +3830,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 22, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "102225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "296",
@@ -3843,11 +3843,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "October 23, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "102325",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "297",
@@ -3856,11 +3856,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 24, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "102425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "298",
@@ -3869,11 +3869,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "October 25, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "102525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "299",
@@ -3882,11 +3882,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 26, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "102625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "300",
@@ -3895,11 +3895,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "October 27, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "102725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "301",
@@ -3908,11 +3908,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 28, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "102825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "302",
@@ -3921,11 +3921,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "October 29, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "102925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "303",
@@ -3934,11 +3934,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "October 30, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "103025",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "304",
@@ -3947,11 +3947,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "October 31, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "103125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "305",
@@ -3960,11 +3960,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 1, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "110125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "306",
@@ -3973,11 +3973,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "November 2, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "110225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "307",
@@ -3986,11 +3986,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 3, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "110325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "308",
@@ -3999,11 +3999,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "November 4, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "110425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "309",
@@ -4012,11 +4012,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "November 5, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "110525",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "310",
@@ -4025,11 +4025,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "November 6, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "110625",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "311",
@@ -4038,11 +4038,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "November 7, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "110725",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "312",
@@ -4051,11 +4051,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 8, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "110825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "313",
@@ -4064,11 +4064,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "November 9, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "110925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "314",
@@ -4077,11 +4077,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 10, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "111025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "315",
@@ -4090,11 +4090,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "November 11, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "111125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "316",
@@ -4103,11 +4103,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "November 12, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "111225",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "317",
@@ -4116,11 +4116,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "November 13, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "111325",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "318",
@@ -4129,11 +4129,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "November 14, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "111425",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "319",
@@ -4142,11 +4142,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 15, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "111525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "320",
@@ -4155,11 +4155,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "November 16, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "111625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "321",
@@ -4168,11 +4168,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 17, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "111725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "322",
@@ -4181,11 +4181,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "November 18, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "111825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "323",
@@ -4194,11 +4194,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "November 19, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "111925",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "324",
@@ -4207,11 +4207,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "November 20, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "112025",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "325",
@@ -4220,11 +4220,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "November 21, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "112125",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "326",
@@ -4233,11 +4233,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 22, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "112225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "327",
@@ -4246,11 +4246,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "November 23, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "sunday–glorious_mysteries.mp3",
     "dateMMDDYY": "112325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "sunday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/fYd2JIUUqyo",
+    "youtubeCode": "fYd2JIUUqyo"
   },
   {
     "id": "328",
@@ -4259,11 +4259,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 24, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "112425",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "329",
@@ -4272,11 +4272,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "November 25, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "112525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "330",
@@ -4285,11 +4285,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Ordinary Time",
     "currentDate": "November 26, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "112625",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "331",
@@ -4298,11 +4298,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Ordinary Time",
     "currentDate": "November 27, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "112725",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "332",
@@ -4311,11 +4311,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Ordinary Time",
     "currentDate": "November 28, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "112825",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "333",
@@ -4324,11 +4324,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Ordinary Time",
     "currentDate": "November 29, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "112925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "334",
@@ -4337,11 +4337,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "November 30, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries-advent-christmas.txt.wav",
+    "mp3Link": "sunday–joyful_mysteries_advent.mp3",
     "dateMMDDYY": "113025",
-    "class": "audio-rosary-joyful-mysteries-advent-christmas",
-    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
-    "youtubeCode": "Wk0A4O4_6ZM"
+    "class": "sunday–joyful_mysteries_advent",
+    "youtubeLink": "https://youtu.be/L9nPLaOjuuk",
+    "youtubeCode": "L9nPLaOjuuk"
   },
   {
     "id": "335",
@@ -4350,11 +4350,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 1, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "120125",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "336",
@@ -4363,11 +4363,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Advent",
     "currentDate": "December 2, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "120225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "337",
@@ -4376,11 +4376,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Advent",
     "currentDate": "December 3, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "120325",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "338",
@@ -4389,11 +4389,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Advent",
     "currentDate": "December 4, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "120425",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "339",
@@ -4402,11 +4402,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Advent",
     "currentDate": "December 5, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "120525",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "340",
@@ -4415,11 +4415,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 6, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "120625",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "341",
@@ -4428,11 +4428,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 7, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries-advent-christmas.txt.wav",
+    "mp3Link": "sunday–joyful_mysteries_advent.mp3",
     "dateMMDDYY": "120725",
-    "class": "audio-rosary-joyful-mysteries-advent-christmas",
-    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
-    "youtubeCode": "Wk0A4O4_6ZM"
+    "class": "sunday–joyful_mysteries_advent",
+    "youtubeLink": "https://youtu.be/L9nPLaOjuuk",
+    "youtubeCode": "L9nPLaOjuuk"
   },
   {
     "id": "342",
@@ -4441,11 +4441,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 8, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "120825",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "343",
@@ -4454,11 +4454,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Advent",
     "currentDate": "December 9, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "120925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "344",
@@ -4467,11 +4467,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Advent",
     "currentDate": "December 10, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "121025",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "345",
@@ -4480,11 +4480,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Advent",
     "currentDate": "December 11, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "121125",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "346",
@@ -4493,11 +4493,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Advent",
     "currentDate": "December 12, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "121225",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "347",
@@ -4506,11 +4506,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 13, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "121325",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "348",
@@ -4519,11 +4519,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 14, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries-advent-christmas.txt.wav",
+    "mp3Link": "sunday–joyful_mysteries_advent.mp3",
     "dateMMDDYY": "121425",
-    "class": "audio-rosary-joyful-mysteries-advent-christmas",
-    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
-    "youtubeCode": "Wk0A4O4_6ZM"
+    "class": "sunday–joyful_mysteries_advent",
+    "youtubeLink": "https://youtu.be/L9nPLaOjuuk",
+    "youtubeCode": "L9nPLaOjuuk"
   },
   {
     "id": "349",
@@ -4532,11 +4532,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 15, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "121525",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "350",
@@ -4545,11 +4545,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Advent",
     "currentDate": "December 16, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "121625",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "351",
@@ -4558,11 +4558,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Advent",
     "currentDate": "December 17, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "121725",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "352",
@@ -4571,11 +4571,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Advent",
     "currentDate": "December 18, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "121825",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "353",
@@ -4584,11 +4584,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Advent",
     "currentDate": "December 19, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "121925",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "354",
@@ -4597,11 +4597,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 20, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "122025",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "355",
@@ -4610,11 +4610,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 21, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries-advent-christmas.txt.wav",
+    "mp3Link": "sunday–joyful_mysteries_advent.mp3",
     "dateMMDDYY": "122125",
-    "class": "audio-rosary-joyful-mysteries-advent-christmas",
-    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
-    "youtubeCode": "Wk0A4O4_6ZM"
+    "class": "sunday–joyful_mysteries_advent",
+    "youtubeLink": "https://youtu.be/L9nPLaOjuuk",
+    "youtubeCode": "L9nPLaOjuuk"
   },
   {
     "id": "356",
@@ -4623,11 +4623,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Advent",
     "currentDate": "December 22, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "122225",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "357",
@@ -4636,11 +4636,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Advent",
     "currentDate": "December 23, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "122325",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "358",
@@ -4649,11 +4649,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Advent",
     "currentDate": "December 24, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "122425",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   },
   {
     "id": "359",
@@ -4662,11 +4662,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Luminous",
     "season": "Christmas",
     "currentDate": "December 25, 2025",
-    "mp3Link": "audio-rosary-luminous-mysteries.txt.wav",
+    "mp3Link": "thursday–luminous_mysteries.mp3",
     "dateMMDDYY": "122525",
-    "class": "audio-rosary-luminous-mysteries",
-    "youtubeLink": "https://youtu.be/l30jBtl1-as",
-    "youtubeCode": "l30jBtl1-as"
+    "class": "thursday–luminous_mysteries",
+    "youtubeLink": "https://youtu.be/5F7ccESsXBI",
+    "youtubeCode": "5F7ccESsXBI"
   },
   {
     "id": "360",
@@ -4675,11 +4675,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Christmas",
     "currentDate": "December 26, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "friday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "122625",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "friday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/5f9g3I4LT1k",
+    "youtubeCode": "5f9g3I4LT1k"
   },
   {
     "id": "361",
@@ -4688,11 +4688,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Christmas",
     "currentDate": "December 27, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "saturday–joyful_mysteries.mp3",
     "dateMMDDYY": "122725",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "saturday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/yAd0GClzxMg",
+    "youtubeCode": "yAd0GClzxMg"
   },
   {
     "id": "362",
@@ -4701,11 +4701,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Christmas",
     "currentDate": "December 28, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries-advent-christmas.txt.wav",
+    "mp3Link": "sunday–joyful_mysteries_christmas.mp3",
     "dateMMDDYY": "122825",
-    "class": "audio-rosary-joyful-mysteries-advent-christmas",
-    "youtubeLink": "https://youtu.be/Wk0A4O4_6ZM",
-    "youtubeCode": "Wk0A4O4_6ZM"
+    "class": "sunday–joyful_mysteries_christmas",
+    "youtubeLink": "https://youtu.be/oNauhYruY64",
+    "youtubeCode": "oNauhYruY64"
   },
   {
     "id": "363",
@@ -4714,11 +4714,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Joyful",
     "season": "Christmas",
     "currentDate": "December 29, 2025",
-    "mp3Link": "audio-rosary-joyful-mysteries.txt.wav",
+    "mp3Link": "monday–joyful_mysteries.mp3",
     "dateMMDDYY": "122925",
-    "class": "audio-rosary-joyful-mysteries",
-    "youtubeLink": "https://youtu.be/IRPGLPp0CB0",
-    "youtubeCode": "IRPGLPp0CB0"
+    "class": "monday–joyful_mysteries",
+    "youtubeLink": "https://youtu.be/Pttaww3Z0ac",
+    "youtubeCode": "Pttaww3Z0ac"
   },
   {
     "id": "364",
@@ -4727,11 +4727,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Sorrowful",
     "season": "Christmas",
     "currentDate": "December 30, 2025",
-    "mp3Link": "audio-rosary-sorrowful-mysteries.txt.wav",
+    "mp3Link": "tuesday–sorrowful_mysteries.mp3",
     "dateMMDDYY": "123025",
-    "class": "audio-rosary-sorrowful-mysteries",
-    "youtubeLink": "https://youtu.be/Bmm7VGBdJ04",
-    "youtubeCode": "Bmm7VGBdJ04"
+    "class": "tuesday–sorrowful_mysteries",
+    "youtubeLink": "https://youtu.be/oj-T-wSFEXg",
+    "youtubeCode": "oj-T-wSFEXg"
   },
   {
     "id": "365",
@@ -4740,11 +4740,11 @@ const rosaryDataApi_2025 = [
     "mystery": "Glorious",
     "season": "Christmas",
     "currentDate": "December 31, 2025",
-    "mp3Link": "audio-rosary-glorious-mysteries.txt.wav",
+    "mp3Link": "wednesday–glorious_mysteries.mp3",
     "dateMMDDYY": "123125",
-    "class": "audio-rosary-glorious-mysteries",
-    "youtubeLink": "https://youtu.be/IzGnBPOPXy8",
-    "youtubeCode": "IzGnBPOPXy8"
+    "class": "wednesday–glorious_mysteries",
+    "youtubeLink": "https://youtu.be/QoF0cATPYpY",
+    "youtubeCode": "QoF0cATPYpY"
   }
 ]
   module.exports = rosaryDataApi_2025;
