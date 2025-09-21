@@ -1,3 +1,4 @@
+// const dataFr = require("./french/fr_data_rosaire_2026");  // Change for year 2026
 const dataFr = require("./french/fr_data_rosaire_2025");   // For active year (this year)
 const an2023Data = require("./french/fr_data_rosaire_2023.js");
 
