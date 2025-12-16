@@ -22,12 +22,11 @@ This makes it easy to integrate daily Rosary content into apps, websites, or dev
 
 ## Installation (Optional for Local Development)
 
-```js
-git clone https://github.com/erickouassi/The-Rosary-Api.git
-cd The-Rosary-Api
-npm install
+
+git clone https://github.com/erickouassi/The-Rosary-Api.git <br>
+cd The-Rosary-Api<br>
+npm install<br>
 npm start
-```
 
 
 ## API Usage
