@@ -31,7 +31,7 @@ npm start
 
 
 ## Endpoint & API Usage
-Go to: [https://therosaryapi.cf/]https://therosaryapi.cf/)
+Go to: [https://therosaryapi.cf/](https://therosaryapi.cf/)
 
 ## Contributing
 
