@@ -38,15 +38,13 @@ npm start
 
 Contributions are welcome!
 
-- Fork the repository
-
-- Create a feature branch
-
+- Fork the repository <br>
+- Create a feature branch<br>
 - Submit a pull request
 
 ## Quick Start
 
-You can call the Rosary API from any JavaScript or Node.js application using `fetch` or a library like `axios`.
+You can call the Rosary API from any JavaScript or Node.js application using `fetch`.
 
 ### Example with `fetch`
 
