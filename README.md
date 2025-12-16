@@ -30,9 +30,8 @@ npm start
 ```
 
 
-## API Usage
-
-### Endpoint
+## Endpoint & API Usage
+Go to: [https://therosaryapi.cf/]https://therosaryapi.cf/)
 
 ## Contributing
 
@@ -69,7 +68,7 @@ Mystery Set: Sorrowful
 
 ## Prototype Reference
 
-The Rosary API powers devotional tools like [Daily Rosary](https://dailyrosary.cf/), a prototype web app that demonstrates how the API can be used to:
+The Rosary API powers devotional tools like [https://dailyrosary.cf](https://dailyrosary.cf/), a prototype web app that demonstrates how the API can be used to:
 
 - Fetch the daily Rosary prayers automatically
 - Detect the liturgical season (Advent, Christmas, Lent, Easter, etc.)
