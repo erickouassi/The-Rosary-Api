@@ -51,14 +51,18 @@ You can call the Rosary API from any JavaScript or Node.js application using `fe
 
 ```js
 // Fetch today's Rosary in English
-fetch('https://the-rosary-api.vercel.app/v1/today)')
+// Fetch today's Rosary in English
+fetch('https://the-rosary-api.vercel.app/v1/today')
   .then(res => res.json())
   .then(data => {
-    console.log('Today date:', data.currentDate);
-    console.log('Season:', data.season);
-    console.log('Mystery Set:', data.mystery);
+    if (data && data.length > 0) {
+      const today = data[0]; // first item in the array
+      console.log('Today date:', today.rosary_date);   // or today.currentDate for full text
+      console.log('Season:', today.season);
+      console.log('Mystery Set:', today.mystery);
+    }
   })
-  .catch(err => console.error(err));
+  .catch(err => console.error('API fetch error:', err));
 ```
 ### Output Example
 Today date: 2025-12-16<br>
