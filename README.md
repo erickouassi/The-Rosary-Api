@@ -22,11 +22,12 @@ This makes it easy to integrate daily Rosary content into apps, websites, or dev
 
 ## Installation (Optional for Local Development)
 
-
-git clone https://github.com/erickouassi/The-Rosary-Api.git <br>
-cd The-Rosary-Api<br>
-npm install<br>
+```js
+git clone https://github.com/erickouassi/The-Rosary-Api.git
+cd The-Rosary-Api
+npm install
 npm start
+```
 
 
 ## API Usage
@@ -50,7 +51,6 @@ You can call the Rosary API from any JavaScript or Node.js application using `fe
 ### Example with `fetch`
 
 ```js
-// Fetch today's Rosary in English
 // Fetch today's Rosary in English
 fetch('https://the-rosary-api.vercel.app/v1/today')
   .then(res => res.json())
