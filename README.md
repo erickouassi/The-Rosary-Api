@@ -22,8 +22,9 @@ This makes it easy to integrate daily Rosary content into apps, websites, or dev
 
 ## Installation (Optional for Local Development)
 
+```bash
 git clone https://github.com/erickouassi/The-Rosary-Api.git
-cd therosaryapi
+cd The-Rosary-Api
 npm install
 npm start
 
@@ -60,8 +61,8 @@ fetch('https://the-rosary-api.vercel.app/v1/today)')
   .catch(err => console.error(err));
 ```
 ### Output Example
-Today date: 2025-12-16
-Season: Advent
+Today date: 2025-12-16<br>
+Season: Advent<br>
 Mystery Set: Sorrowful
 
 ## Prototype Reference
