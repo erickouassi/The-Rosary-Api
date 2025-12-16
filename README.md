@@ -26,7 +26,7 @@ This makes it easy to integrate daily Rosary content into apps, websites, or dev
 git clone https://github.com/erickouassi/The-Rosary-Api.git
 cd The-Rosary-Api
 npm install
-npm start
+npm start```
 
 
 ## API Usage
