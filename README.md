@@ -75,11 +75,13 @@ fetch('https://the-rosary-api.vercel.app/v1/today')
     }
   })
   .catch(err => console.error('API fetch error:', err));
-```
+
 ### Output Example
 Today date: 2025-12-16<br>
 Season: Advent<br>
 Mystery Set: Sorrowful
+
+```
 
 ## Prototype Reference
 
