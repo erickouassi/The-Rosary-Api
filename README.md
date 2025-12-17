@@ -11,19 +11,18 @@ It automatically selects the appropriate set of mysteries according to:
 - **Liturgical season** (Advent, Christmas, Epiphany, Ordinary Time, Lent, Easter)
 
 ## Core behavior
-### Default mystery by weekday:
+Here’s the Rosary mysteries schedule organized by day, with Sundays adapting to the liturgical season for deeper reflection:
 
-- Monday, Saturday: Joyful
-- Tuesday, Friday: Sorrowful
-- Wednesday, Sunday: Glorious
-- Thursday: Luminous
-
-### Optional seasonal overrides (toggleable):
-
-- Advent, Christmas, Epiphany: prioritize Joyful
-- Lent: prioritize Sorrowful
-- Easter Season: prioritize Glorious
-- Ordinary Time: use weekday defaults
+- **Monday**: Joyful Mysteries
+- **Tuesday**: Sorrowful Mysteries
+- **Wednesday**: Glorious Mysteries
+- **Thursday**: Luminous Mysteries
+- **Friday**: Sorrowful Mysteries
+- **Saturday**: Joyful Mysteries
+- **Sunday (Ordinary Time)**: Glorious Mysteries
+- **Sunday (Advent)**: Joyful Mysteries
+- **Sunday (Christmas)**: Joyful Mysteries
+- **Sunday (Lent)**: Sorrowful Mysteries
 
 This makes it easy to integrate daily Rosary content into apps, websites, or devotional tools.
 
