@@ -20,6 +20,12 @@ It automatically selects the appropriate set of mysteries according to:
 | **Easter** | Easter Octave, Weeks 2–7, Ascension, Pentecost |
 | **Ordinary Time II** | Weeks 7/8–34, Trinity, Corpus Christi, Sacred Heart, Christ the King |
 
+### Key Transitions
+
+* **The Triduum:** Though short, this is the **"summit"** of the liturgical year, bridging the end of Lent and the beginning of the Easter season.
+* **Ordinary Time:** This season is divided into two parts by the movable dates of Lent and Easter, focusing on the **life and teachings of Christ**.
+* **The O Antiphons:** These occur in the final week of Advent (**December 17–23**), marking the immediate preparation for the Nativity.
+
 
 ## Core behavior
 Here’s the Rosary mysteries schedule organized by day, with Sundays adapting to the liturgical season for deeper reflection:
