@@ -10,6 +10,17 @@ It automatically selects the appropriate set of mysteries according to:
 - **Weekday tradition** (Joyful, Sorrowful, Glorious, Luminous)
 - **Liturgical season** (Advent, Christmas, Epiphany, Ordinary Time, Lent, Easter)
 
+| Season | Sub-Periods |
+| :--- | :--- |
+| **Advent** | Early Advent, Late Advent (O Antiphons) |
+| **Christmas** | Christmas Octave, Post-Octave, Epiphanytide, Baptism of the Lord |
+| **Ordinary Time I** | Weeks 1–6 |
+| **Lent** | Early Lent, Weeks 1–5, Holy Week, ends before Holy Thursday evening |
+| **Triduum** | Holy Thursday evening, Good Friday, Holy Saturday, Easter Vigil |
+| **Easter** | Easter Octave, Weeks 2–7, Ascension, Pentecost |
+| **Ordinary Time II** | Weeks 7/8–34, Trinity, Corpus Christi, Sacred Heart, Christ the King |
+
+
 ## Core behavior
 Here’s the Rosary mysteries schedule organized by day, with Sundays adapting to the liturgical season for deeper reflection:
 
