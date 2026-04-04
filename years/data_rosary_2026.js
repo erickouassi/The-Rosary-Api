@@ -12,7 +12,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010126",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "2",
@@ -25,7 +26,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010226",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "3",
@@ -38,7 +40,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010326",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "4",
@@ -51,7 +54,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010426",
     "class": "sunday–joyful_mysteries_christmas",
     "youtubeLink": "https://youtu.be/1QwjZM0m7sY",
-    "youtubeCode": "1QwjZM0m7sY"
+    "youtubeCode": "1QwjZM0m7sY",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_joyful_mysteries_christmas.mp3"
   },
   {
     "id": "5",
@@ -64,7 +68,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010526",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "6",
@@ -77,7 +82,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010626",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "7",
@@ -90,7 +96,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010726",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "8",
@@ -103,7 +110,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010826",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "9",
@@ -116,7 +124,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "010926",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "10",
@@ -129,7 +138,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011026",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "11",
@@ -142,7 +152,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011126",
     "class": "sunday–joyful_mysteries_christmas",
     "youtubeLink": "https://youtu.be/1QwjZM0m7sY",
-    "youtubeCode": "1QwjZM0m7sY"
+    "youtubeCode": "1QwjZM0m7sY",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_joyful_mysteries_christmas.mp3"
   },
   {
     "id": "12",
@@ -155,7 +166,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011226",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "13",
@@ -168,7 +180,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011326",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "14",
@@ -181,7 +194,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011426",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "15",
@@ -194,7 +208,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011526",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "16",
@@ -207,7 +222,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011626",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "17",
@@ -220,7 +236,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011726",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "18",
@@ -233,7 +250,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011826",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "19",
@@ -246,7 +264,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "011926",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "20",
@@ -259,7 +278,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012026",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "21",
@@ -272,7 +292,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012126",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "22",
@@ -285,7 +306,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012226",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "23",
@@ -298,7 +320,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012326",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "24",
@@ -311,7 +334,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012426",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "25",
@@ -324,7 +348,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012526",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "26",
@@ -337,7 +362,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012626",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "27",
@@ -350,7 +376,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012726",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "28",
@@ -363,7 +390,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012826",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "29",
@@ -376,7 +404,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "012926",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "30",
@@ -389,7 +418,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "013026",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "31",
@@ -402,7 +432,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "013126",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "32",
@@ -415,7 +446,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020126",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "33",
@@ -428,7 +460,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020226",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "34",
@@ -441,7 +474,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020326",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "35",
@@ -454,7 +488,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020426",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "36",
@@ -467,7 +502,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020526",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "37",
@@ -480,7 +516,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020626",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "38",
@@ -493,7 +530,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020726",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "39",
@@ -506,7 +544,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020826",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "40",
@@ -519,7 +558,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "020926",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "41",
@@ -532,7 +572,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021026",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "42",
@@ -545,7 +586,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021126",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "43",
@@ -558,7 +600,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021226",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "44",
@@ -571,7 +614,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021326",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "45",
@@ -584,7 +628,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021426",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "46",
@@ -597,7 +642,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021526",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "47",
@@ -610,7 +656,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021626",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "48",
@@ -623,7 +670,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021726",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "49",
@@ -636,7 +684,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021826",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "50",
@@ -649,7 +698,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "021926",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "51",
@@ -662,7 +712,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022026",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "52",
@@ -675,7 +726,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022126",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "53",
@@ -688,7 +740,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022226",
     "class": "sunday–sorrowful_mysteries_lent",
     "youtubeLink": "https://youtu.be/oo5612oI_SE",
-    "youtubeCode": "oo5612oI_SE"
+    "youtubeCode": "oo5612oI_SE",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_sorrowful_mysteries_lent.mp3"
   },
   {
     "id": "54",
@@ -701,7 +754,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022326",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "55",
@@ -714,7 +768,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022426",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "56",
@@ -727,7 +782,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022526",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "57",
@@ -740,7 +796,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022626",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "58",
@@ -753,7 +810,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022726",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "59",
@@ -766,7 +824,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "022826",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "60",
@@ -779,7 +838,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030126",
     "class": "sunday–sorrowful_mysteries_lent",
     "youtubeLink": "https://youtu.be/oo5612oI_SE",
-    "youtubeCode": "oo5612oI_SE"
+    "youtubeCode": "oo5612oI_SE",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_sorrowful_mysteries_lent.mp3"
   },
   {
     "id": "61",
@@ -792,7 +852,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030226",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "62",
@@ -805,7 +866,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030326",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "63",
@@ -818,7 +880,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030426",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "64",
@@ -831,7 +894,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030526",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "65",
@@ -844,7 +908,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030626",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "66",
@@ -857,7 +922,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030726",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "67",
@@ -870,7 +936,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030826",
     "class": "sunday–sorrowful_mysteries_lent",
     "youtubeLink": "https://youtu.be/oo5612oI_SE",
-    "youtubeCode": "oo5612oI_SE"
+    "youtubeCode": "oo5612oI_SE",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_sorrowful_mysteries_lent.mp3"
   },
   {
     "id": "68",
@@ -883,7 +950,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "030926",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "69",
@@ -896,7 +964,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031026",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "70",
@@ -909,7 +978,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031126",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "71",
@@ -922,7 +992,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031226",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "72",
@@ -935,7 +1006,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031326",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "73",
@@ -948,7 +1020,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031426",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "74",
@@ -961,7 +1034,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031526",
     "class": "sunday–sorrowful_mysteries_lent",
     "youtubeLink": "https://youtu.be/oo5612oI_SE",
-    "youtubeCode": "oo5612oI_SE"
+    "youtubeCode": "oo5612oI_SE",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_sorrowful_mysteries_lent.mp3"
   },
   {
     "id": "75",
@@ -974,7 +1048,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031626",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "76",
@@ -987,7 +1062,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031726",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "77",
@@ -1000,7 +1076,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031826",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "78",
@@ -1013,7 +1090,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "031926",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "79",
@@ -1026,7 +1104,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032026",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "80",
@@ -1039,7 +1118,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032126",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "81",
@@ -1052,7 +1132,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032226",
     "class": "sunday–sorrowful_mysteries_lent",
     "youtubeLink": "https://youtu.be/oo5612oI_SE",
-    "youtubeCode": "oo5612oI_SE"
+    "youtubeCode": "oo5612oI_SE",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_sorrowful_mysteries_lent.mp3"
   },
   {
     "id": "82",
@@ -1065,7 +1146,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032326",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "83",
@@ -1078,7 +1160,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032426",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "84",
@@ -1091,7 +1174,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032526",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "85",
@@ -1104,7 +1188,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032626",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "86",
@@ -1117,7 +1202,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032726",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "87",
@@ -1130,7 +1216,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032826",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "88",
@@ -1143,7 +1230,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "032926",
     "class": "sunday–sorrowful_mysteries_lent",
     "youtubeLink": "https://youtu.be/oo5612oI_SE",
-    "youtubeCode": "oo5612oI_SE"
+    "youtubeCode": "oo5612oI_SE",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_sorrowful_mysteries_lent.mp3"
   },
   {
     "id": "89",
@@ -1156,7 +1244,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "033026",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "90",
@@ -1169,7 +1258,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "033126",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "91",
@@ -1182,7 +1272,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040126",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "92",
@@ -1195,7 +1286,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040226",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "93",
@@ -1208,7 +1300,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040326",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "94",
@@ -1221,7 +1314,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040426",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "95",
@@ -1234,7 +1328,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040526",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "96",
@@ -1247,7 +1342,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040626",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "97",
@@ -1260,7 +1356,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040726",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "98",
@@ -1273,7 +1370,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040826",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "99",
@@ -1286,7 +1384,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "040926",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "100",
@@ -1299,7 +1398,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041026",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "101",
@@ -1312,7 +1412,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041126",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "102",
@@ -1325,7 +1426,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041226",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "103",
@@ -1338,7 +1440,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041326",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "104",
@@ -1351,7 +1454,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041426",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "105",
@@ -1364,7 +1468,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041526",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "106",
@@ -1377,7 +1482,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041626",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "107",
@@ -1390,7 +1496,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041726",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "108",
@@ -1403,7 +1510,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041826",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "109",
@@ -1416,7 +1524,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "041926",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "110",
@@ -1429,7 +1538,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042026",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "111",
@@ -1442,7 +1552,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042126",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "112",
@@ -1455,7 +1566,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042226",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "113",
@@ -1468,7 +1580,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042326",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "114",
@@ -1481,7 +1594,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042426",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "115",
@@ -1494,7 +1608,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042526",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "116",
@@ -1507,7 +1622,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042626",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "117",
@@ -1520,7 +1636,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042726",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "118",
@@ -1533,7 +1650,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042826",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "119",
@@ -1546,7 +1664,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "042926",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "120",
@@ -1559,7 +1678,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "043026",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "121",
@@ -1572,7 +1692,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050126",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "122",
@@ -1585,7 +1706,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050226",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "123",
@@ -1598,7 +1720,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050326",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "124",
@@ -1611,7 +1734,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050426",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "125",
@@ -1624,7 +1748,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050526",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "126",
@@ -1637,7 +1762,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050626",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "127",
@@ -1650,7 +1776,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050726",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "128",
@@ -1663,7 +1790,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050826",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "129",
@@ -1676,7 +1804,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "050926",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "130",
@@ -1689,7 +1818,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051026",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "131",
@@ -1702,7 +1832,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051126",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "132",
@@ -1715,7 +1846,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051226",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "133",
@@ -1728,7 +1860,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051326",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "134",
@@ -1741,7 +1874,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051426",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "135",
@@ -1754,7 +1888,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051526",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "136",
@@ -1767,7 +1902,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051626",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "137",
@@ -1780,7 +1916,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051726",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "138",
@@ -1793,7 +1930,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051826",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "139",
@@ -1806,7 +1944,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "051926",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "140",
@@ -1819,7 +1958,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052026",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "141",
@@ -1832,7 +1972,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052126",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "142",
@@ -1845,7 +1986,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052226",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "143",
@@ -1858,7 +2000,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052326",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "144",
@@ -1871,7 +2014,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052426",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "145",
@@ -1884,7 +2028,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052526",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "146",
@@ -1897,7 +2042,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052626",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "147",
@@ -1910,7 +2056,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052726",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "148",
@@ -1923,7 +2070,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052826",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "149",
@@ -1936,7 +2084,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "052926",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "150",
@@ -1949,7 +2098,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "053026",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "151",
@@ -1962,7 +2112,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "053126",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "152",
@@ -1975,7 +2126,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060126",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "153",
@@ -1988,7 +2140,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060226",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "154",
@@ -2001,7 +2154,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060326",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "155",
@@ -2014,7 +2168,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060426",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "156",
@@ -2027,7 +2182,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060526",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "157",
@@ -2040,7 +2196,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060626",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "158",
@@ -2053,7 +2210,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060726",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "159",
@@ -2066,7 +2224,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060826",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "160",
@@ -2079,7 +2238,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "060926",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "161",
@@ -2092,7 +2252,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061026",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "162",
@@ -2105,7 +2266,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061126",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "163",
@@ -2118,7 +2280,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061226",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "164",
@@ -2131,7 +2294,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061326",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "165",
@@ -2144,7 +2308,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061426",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "166",
@@ -2157,7 +2322,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061526",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "167",
@@ -2170,7 +2336,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061626",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "168",
@@ -2183,7 +2350,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061726",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "169",
@@ -2196,7 +2364,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061826",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "170",
@@ -2209,7 +2378,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "061926",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "171",
@@ -2222,7 +2392,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062026",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "172",
@@ -2235,7 +2406,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062126",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "173",
@@ -2248,7 +2420,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062226",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "174",
@@ -2261,7 +2434,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062326",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "175",
@@ -2274,7 +2448,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062426",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "176",
@@ -2287,7 +2462,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062526",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "177",
@@ -2300,7 +2476,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062626",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "178",
@@ -2313,7 +2490,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062726",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "179",
@@ -2326,7 +2504,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062826",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "180",
@@ -2339,7 +2518,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "062926",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "181",
@@ -2352,7 +2532,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "063026",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "182",
@@ -2365,7 +2546,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070126",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "183",
@@ -2378,7 +2560,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070226",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "184",
@@ -2391,7 +2574,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070326",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "185",
@@ -2404,7 +2588,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070426",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "186",
@@ -2417,7 +2602,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070526",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "187",
@@ -2430,7 +2616,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070626",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "188",
@@ -2443,7 +2630,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070726",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "189",
@@ -2456,7 +2644,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070826",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "190",
@@ -2469,7 +2658,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "070926",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "191",
@@ -2482,7 +2672,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071026",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "192",
@@ -2495,7 +2686,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071126",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "193",
@@ -2508,7 +2700,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071226",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "194",
@@ -2521,7 +2714,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071326",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "195",
@@ -2534,7 +2728,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071426",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "196",
@@ -2547,7 +2742,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071526",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "197",
@@ -2560,7 +2756,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071626",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "198",
@@ -2573,7 +2770,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071726",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "199",
@@ -2586,7 +2784,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071826",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "200",
@@ -2599,7 +2798,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "071926",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "201",
@@ -2612,7 +2812,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072026",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "202",
@@ -2625,7 +2826,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072126",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "203",
@@ -2638,7 +2840,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072226",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "204",
@@ -2651,7 +2854,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072326",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "205",
@@ -2664,7 +2868,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072426",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "206",
@@ -2677,7 +2882,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072526",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "207",
@@ -2690,7 +2896,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072626",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "208",
@@ -2703,7 +2910,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072726",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "209",
@@ -2716,7 +2924,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072826",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "210",
@@ -2729,7 +2938,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "072926",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "211",
@@ -2742,7 +2952,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "073026",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "212",
@@ -2755,7 +2966,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "073126",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "213",
@@ -2768,7 +2980,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080126",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "214",
@@ -2781,7 +2994,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080226",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "215",
@@ -2794,7 +3008,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080326",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "216",
@@ -2807,7 +3022,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080426",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "217",
@@ -2820,7 +3036,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080526",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "218",
@@ -2833,7 +3050,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080626",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "219",
@@ -2846,7 +3064,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080726",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "220",
@@ -2859,7 +3078,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080826",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "221",
@@ -2872,7 +3092,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "080926",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "222",
@@ -2885,7 +3106,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081026",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "223",
@@ -2898,7 +3120,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081126",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "224",
@@ -2911,7 +3134,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081226",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "225",
@@ -2924,7 +3148,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081326",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "226",
@@ -2937,7 +3162,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081426",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "227",
@@ -2950,7 +3176,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081526",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "228",
@@ -2963,7 +3190,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081626",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "229",
@@ -2976,7 +3204,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081726",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "230",
@@ -2989,7 +3218,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081826",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "231",
@@ -3002,7 +3232,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "081926",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "232",
@@ -3015,7 +3246,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082026",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "233",
@@ -3028,7 +3260,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082126",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "234",
@@ -3041,7 +3274,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082226",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "235",
@@ -3054,7 +3288,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082326",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "236",
@@ -3067,7 +3302,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082426",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "237",
@@ -3080,7 +3316,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082526",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "238",
@@ -3093,7 +3330,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082626",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "239",
@@ -3106,7 +3344,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082726",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "240",
@@ -3119,7 +3358,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082826",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "241",
@@ -3132,7 +3372,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "082926",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "242",
@@ -3145,7 +3386,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "083026",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "243",
@@ -3158,7 +3400,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "083126",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "244",
@@ -3171,7 +3414,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090126",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "245",
@@ -3184,7 +3428,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090226",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "246",
@@ -3197,7 +3442,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090326",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "247",
@@ -3210,7 +3456,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090426",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "248",
@@ -3223,7 +3470,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090526",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "249",
@@ -3236,7 +3484,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090626",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "250",
@@ -3249,7 +3498,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090726",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "251",
@@ -3262,7 +3512,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090826",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "252",
@@ -3275,7 +3526,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "090926",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "253",
@@ -3288,7 +3540,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091026",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "254",
@@ -3301,7 +3554,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091126",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "255",
@@ -3314,7 +3568,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091226",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "256",
@@ -3327,7 +3582,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091326",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "257",
@@ -3340,7 +3596,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091426",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "258",
@@ -3353,7 +3610,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091526",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "259",
@@ -3366,7 +3624,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091626",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "260",
@@ -3379,7 +3638,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091726",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "261",
@@ -3392,7 +3652,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091826",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "262",
@@ -3405,7 +3666,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "091926",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "263",
@@ -3418,7 +3680,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092026",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "264",
@@ -3431,7 +3694,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092126",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "265",
@@ -3444,7 +3708,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092226",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "266",
@@ -3457,7 +3722,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092326",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "267",
@@ -3470,7 +3736,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092426",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "268",
@@ -3483,7 +3750,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092526",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "269",
@@ -3496,7 +3764,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092626",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "270",
@@ -3509,7 +3778,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092726",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "271",
@@ -3522,7 +3792,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092826",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "272",
@@ -3535,7 +3806,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "092926",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "273",
@@ -3548,7 +3820,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "093026",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "274",
@@ -3561,7 +3834,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100126",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "275",
@@ -3574,7 +3848,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100226",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "276",
@@ -3587,7 +3862,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100326",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "277",
@@ -3600,7 +3876,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100426",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "278",
@@ -3613,7 +3890,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100526",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "279",
@@ -3626,7 +3904,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100626",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "280",
@@ -3639,7 +3918,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100726",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "281",
@@ -3652,7 +3932,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100826",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "282",
@@ -3665,7 +3946,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "100926",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "283",
@@ -3678,7 +3960,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101026",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "284",
@@ -3691,7 +3974,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101126",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "285",
@@ -3704,7 +3988,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101226",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "286",
@@ -3717,7 +4002,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101326",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "287",
@@ -3730,7 +4016,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101426",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "288",
@@ -3743,7 +4030,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101526",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "289",
@@ -3756,7 +4044,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101626",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "290",
@@ -3769,7 +4058,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101726",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "291",
@@ -3782,7 +4072,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101826",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "292",
@@ -3795,7 +4086,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "101926",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "293",
@@ -3808,7 +4100,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102026",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "294",
@@ -3821,7 +4114,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102126",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "295",
@@ -3834,7 +4128,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102226",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "296",
@@ -3847,7 +4142,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102326",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "297",
@@ -3860,7 +4156,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102426",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "298",
@@ -3873,7 +4170,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102526",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "299",
@@ -3886,7 +4184,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102626",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "300",
@@ -3899,7 +4198,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102726",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "301",
@@ -3912,7 +4212,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102826",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "302",
@@ -3925,7 +4226,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "102926",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "303",
@@ -3938,7 +4240,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "103026",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "304",
@@ -3951,7 +4254,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "103126",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "305",
@@ -3964,7 +4268,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110126",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "306",
@@ -3977,7 +4282,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110226",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "307",
@@ -3990,7 +4296,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110326",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "308",
@@ -4003,7 +4310,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110426",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "309",
@@ -4016,7 +4324,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110526",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "310",
@@ -4029,7 +4338,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110626",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "311",
@@ -4042,7 +4352,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110726",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "312",
@@ -4055,7 +4366,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110826",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "313",
@@ -4068,7 +4380,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "110926",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "314",
@@ -4081,7 +4394,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111026",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "315",
@@ -4094,7 +4408,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111126",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "316",
@@ -4107,7 +4422,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111226",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "317",
@@ -4120,7 +4436,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111326",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "318",
@@ -4133,7 +4450,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111426",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "319",
@@ -4146,7 +4464,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111526",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "320",
@@ -4159,7 +4478,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111626",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "321",
@@ -4172,7 +4492,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111726",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "322",
@@ -4185,7 +4506,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111826",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "323",
@@ -4198,7 +4520,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "111926",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "324",
@@ -4211,7 +4534,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112026",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "325",
@@ -4224,7 +4548,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112126",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "326",
@@ -4237,7 +4562,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112226",
     "class": "sunday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/5Q-WX-uDIWs",
-    "youtubeCode": "5Q-WX-uDIWs"
+    "youtubeCode": "5Q-WX-uDIWs",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_glorious_mysteries.mp3"
   },
   {
     "id": "327",
@@ -4250,7 +4576,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112326",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "328",
@@ -4263,7 +4590,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112426",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "329",
@@ -4276,7 +4604,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112526",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "330",
@@ -4289,7 +4618,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112626",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "331",
@@ -4302,7 +4632,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112726",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "332",
@@ -4315,7 +4646,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112826",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "333",
@@ -4328,7 +4660,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "112926",
     "class": "sunday–joyful_mysteries_advent",
     "youtubeLink": "https://youtu.be/Yr71_T8OsPk",
-    "youtubeCode": "Yr71_T8OsPk"
+    "youtubeCode": "Yr71_T8OsPk",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_joyful_mysteries_advent.mp3"
   },
   {
     "id": "334",
@@ -4341,7 +4674,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "113026",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "335",
@@ -4354,7 +4688,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120126",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "336",
@@ -4367,7 +4702,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120226",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "337",
@@ -4380,7 +4716,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120326",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "338",
@@ -4393,7 +4730,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120426",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "339",
@@ -4406,7 +4744,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120526",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "340",
@@ -4419,7 +4758,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120626",
     "class": "sunday–joyful_mysteries_advent",
     "youtubeLink": "https://youtu.be/Yr71_T8OsPk",
-    "youtubeCode": "Yr71_T8OsPk"
+    "youtubeCode": "Yr71_T8OsPk",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_joyful_mysteries_advent.mp3"
   },
   {
     "id": "341",
@@ -4432,7 +4772,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120726",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "342",
@@ -4445,7 +4786,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120826",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "343",
@@ -4458,7 +4800,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "120926",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "344",
@@ -4471,7 +4814,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121026",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "345",
@@ -4484,7 +4828,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121126",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "346",
@@ -4497,7 +4842,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121226",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "347",
@@ -4510,7 +4856,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121326",
     "class": "sunday–joyful_mysteries_advent",
     "youtubeLink": "https://youtu.be/Yr71_T8OsPk",
-    "youtubeCode": "Yr71_T8OsPk"
+    "youtubeCode": "Yr71_T8OsPk",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_joyful_mysteries_advent.mp3"
   },
   {
     "id": "348",
@@ -4523,7 +4870,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121426",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "349",
@@ -4536,7 +4884,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121526",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "350",
@@ -4549,7 +4898,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121626",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "351",
@@ -4562,7 +4912,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121726",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "352",
@@ -4575,7 +4926,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121826",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "353",
@@ -4588,7 +4940,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "121926",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "354",
@@ -4601,7 +4954,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122026",
     "class": "sunday–joyful_mysteries_advent",
     "youtubeLink": "https://youtu.be/Yr71_T8OsPk",
-    "youtubeCode": "Yr71_T8OsPk"
+    "youtubeCode": "Yr71_T8OsPk",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_joyful_mysteries_advent.mp3"
   },
   {
     "id": "355",
@@ -4614,7 +4968,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122126",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "356",
@@ -4627,7 +4982,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122226",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "357",
@@ -4640,7 +4996,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122326",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "358",
@@ -4653,7 +5010,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122426",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   },
   {
     "id": "359",
@@ -4666,7 +5024,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122526",
     "class": "friday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/0wUpgQFTZto",
-    "youtubeCode": "0wUpgQFTZto"
+    "youtubeCode": "0wUpgQFTZto",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/friday_sorrowful_mysteries.mp3"
   },
   {
     "id": "360",
@@ -4679,7 +5038,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122626",
     "class": "saturday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/-qH6y2PAgzM",
-    "youtubeCode": "-qH6y2PAgzM"
+    "youtubeCode": "-qH6y2PAgzM",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/saturday_joyful_mysteries.mp3"
   },
   {
     "id": "361",
@@ -4692,7 +5052,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122726",
     "class": "sunday–joyful_mysteries_christmas",
     "youtubeLink": "https://youtu.be/1QwjZM0m7sY",
-    "youtubeCode": "1QwjZM0m7sY"
+    "youtubeCode": "1QwjZM0m7sY",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/sunday_joyful_mysteries_christmas.mp3"
   },
   {
     "id": "362",
@@ -4705,7 +5066,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122826",
     "class": "monday–joyful_mysteries",
     "youtubeLink": "https://youtu.be/NC-laJrHcM4",
-    "youtubeCode": "NC-laJrHcM4"
+    "youtubeCode": "NC-laJrHcM4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/monday_joyful_mysteries.mp3"
   },
   {
     "id": "363",
@@ -4718,7 +5080,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "122926",
     "class": "tuesday–sorrowful_mysteries",
     "youtubeLink": "https://youtu.be/nYdk-CDPdSg",
-    "youtubeCode": "nYdk-CDPdSg"
+    "youtubeCode": "nYdk-CDPdSg",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/tuesday_sorrowful_mysteries.mp3"
   },
   {
     "id": "364",
@@ -4731,7 +5094,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "123026",
     "class": "wednesday–glorious_mysteries",
     "youtubeLink": "https://youtu.be/mzFfEcjJc_c",
-    "youtubeCode": "mzFfEcjJc_c"
+    "youtubeCode": "mzFfEcjJc_c",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/wednesday_glorious_mysteries.mp3"
   },
   {
     "id": "365",
@@ -4744,7 +5108,8 @@ const rosaryDataApi_2026 = [
     "dateMMDDYY": "123126",
     "class": "thursday–luminous_mysteries",
     "youtubeLink": "https://youtu.be/l6-cO47nGU4",
-    "youtubeCode": "l6-cO47nGU4"
+    "youtubeCode": "l6-cO47nGU4",
+    "mp3-audio-url": "https://op3.dev/e/dailyrosary.cf/audio/thursday_luminous_mysteries.mp3"
   }
 ]
   module.exports = rosaryDataApi_2026;
