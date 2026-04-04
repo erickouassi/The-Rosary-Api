@@ -10,7 +10,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "010126",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "2",
@@ -22,7 +23,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "010226",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "3",
@@ -34,7 +36,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "010326",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "4",
@@ -46,7 +49,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_joyeux_noel.mp3",
     "dateMMJJAA": "010426",
     "youtubeLink": "https://youtu.be/2w941dPijrA",
-    "youtubeCode": "2w941dPijrA"
+    "youtubeCode": "2w941dPijrA",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267937596-a8b274b4-d2b5-45e3-805e-f2226d779cd5.mp3"
   },
   {
     "id": "5",
@@ -58,7 +62,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "010526",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "6",
@@ -70,7 +75,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "010626",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "7",
@@ -82,7 +88,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "010726",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "8",
@@ -94,7 +101,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "010826",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "9",
@@ -106,7 +114,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "010926",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "10",
@@ -118,7 +127,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "011026",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "11",
@@ -130,7 +140,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_joyeux_noel.mp3",
     "dateMMJJAA": "011126",
     "youtubeLink": "https://youtu.be/2w941dPijrA",
-    "youtubeCode": "2w941dPijrA"
+    "youtubeCode": "2w941dPijrA",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267937596-a8b274b4-d2b5-45e3-805e-f2226d779cd5.mp3"
   },
   {
     "id": "12",
@@ -142,7 +153,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "011226",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "13",
@@ -154,7 +166,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "011326",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "14",
@@ -166,7 +179,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "011426",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "15",
@@ -178,7 +192,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "011526",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "16",
@@ -190,7 +205,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "011626",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "17",
@@ -202,7 +218,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "011726",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "18",
@@ -214,7 +231,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "011826",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "19",
@@ -226,7 +244,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "011926",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "20",
@@ -238,7 +257,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "012026",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "21",
@@ -250,7 +270,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "012126",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "22",
@@ -262,7 +283,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "012226",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "23",
@@ -274,7 +296,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "012326",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "24",
@@ -286,7 +309,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "012426",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "25",
@@ -298,7 +322,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "012526",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "26",
@@ -310,7 +335,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "012626",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "27",
@@ -322,7 +348,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "012726",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "28",
@@ -334,7 +361,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "012826",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "29",
@@ -346,7 +374,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "012926",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "30",
@@ -358,7 +387,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "013026",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "31",
@@ -370,7 +400,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "013126",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "32",
@@ -382,7 +413,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "020126",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "33",
@@ -394,7 +426,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "020226",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "34",
@@ -406,7 +439,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "020326",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "35",
@@ -418,7 +452,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "020426",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "36",
@@ -430,7 +465,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "020526",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "37",
@@ -442,7 +478,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "020626",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "38",
@@ -454,7 +491,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "020726",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "39",
@@ -466,7 +504,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "020826",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "40",
@@ -478,7 +517,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "020926",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "41",
@@ -490,7 +530,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "021026",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "42",
@@ -502,7 +543,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "021126",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "43",
@@ -514,7 +556,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "021226",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "44",
@@ -526,7 +569,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "021326",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "45",
@@ -538,7 +582,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "021426",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "46",
@@ -550,7 +595,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "021526",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "47",
@@ -562,7 +608,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "021626",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "48",
@@ -574,7 +621,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "021726",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "49",
@@ -586,7 +634,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "021826",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "50",
@@ -598,7 +647,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "021926",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "51",
@@ -610,7 +660,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "022026",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "52",
@@ -622,7 +673,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "022126",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "53",
@@ -634,7 +686,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_douloureux_careme.mp3",
     "dateMMJJAA": "022226",
     "youtubeLink": "https://youtu.be/-lAif9T5SP4",
-    "youtubeCode": "-lAif9T5SP4"
+    "youtubeCode": "-lAif9T5SP4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267394910-dcc1aa0b-aede-44a9-90e2-9cc19480b80c.mp3"
   },
   {
     "id": "54",
@@ -646,7 +699,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "022326",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "55",
@@ -658,7 +712,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "022426",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "56",
@@ -670,7 +725,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "022526",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "57",
@@ -682,7 +738,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "022626",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "58",
@@ -694,7 +751,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "022726",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "59",
@@ -706,7 +764,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "022826",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "60",
@@ -718,7 +777,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_douloureux_careme.mp3",
     "dateMMJJAA": "030126",
     "youtubeLink": "https://youtu.be/-lAif9T5SP4",
-    "youtubeCode": "-lAif9T5SP4"
+    "youtubeCode": "-lAif9T5SP4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267394910-dcc1aa0b-aede-44a9-90e2-9cc19480b80c.mp3"
   },
   {
     "id": "61",
@@ -730,7 +790,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "030226",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "62",
@@ -742,7 +803,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "030326",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "63",
@@ -754,7 +816,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "030426",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "64",
@@ -766,7 +829,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "030526",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "65",
@@ -778,7 +842,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "030626",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "66",
@@ -790,7 +855,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "030726",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "67",
@@ -802,7 +868,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_douloureux_careme.mp3",
     "dateMMJJAA": "030826",
     "youtubeLink": "https://youtu.be/-lAif9T5SP4",
-    "youtubeCode": "-lAif9T5SP4"
+    "youtubeCode": "-lAif9T5SP4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267394910-dcc1aa0b-aede-44a9-90e2-9cc19480b80c.mp3"
   },
   {
     "id": "68",
@@ -814,7 +881,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "030926",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "69",
@@ -826,7 +894,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "031026",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "70",
@@ -838,7 +907,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "031126",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "71",
@@ -850,7 +920,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "031226",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "72",
@@ -862,7 +933,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "031326",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "73",
@@ -874,7 +946,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "031426",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "74",
@@ -886,7 +959,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_douloureux_careme.mp3",
     "dateMMJJAA": "031526",
     "youtubeLink": "https://youtu.be/-lAif9T5SP4",
-    "youtubeCode": "-lAif9T5SP4"
+    "youtubeCode": "-lAif9T5SP4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267394910-dcc1aa0b-aede-44a9-90e2-9cc19480b80c.mp3"
   },
   {
     "id": "75",
@@ -898,7 +972,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "031626",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "76",
@@ -910,7 +985,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "031726",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "77",
@@ -922,7 +998,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "031826",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "78",
@@ -934,7 +1011,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "031926",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "79",
@@ -946,7 +1024,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "032026",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "80",
@@ -958,7 +1037,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "032126",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "81",
@@ -970,7 +1050,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_douloureux_careme.mp3",
     "dateMMJJAA": "032226",
     "youtubeLink": "https://youtu.be/-lAif9T5SP4",
-    "youtubeCode": "-lAif9T5SP4"
+    "youtubeCode": "-lAif9T5SP4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267394910-dcc1aa0b-aede-44a9-90e2-9cc19480b80c.mp3"
   },
   {
     "id": "82",
@@ -982,7 +1063,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "032326",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "83",
@@ -994,7 +1076,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "032426",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "84",
@@ -1006,7 +1089,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "032526",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "85",
@@ -1018,7 +1102,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "032626",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "86",
@@ -1030,7 +1115,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "032726",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "87",
@@ -1042,7 +1128,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "032826",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "88",
@@ -1054,7 +1141,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_douloureux_careme.mp3",
     "dateMMJJAA": "032926",
     "youtubeLink": "https://youtu.be/-lAif9T5SP4",
-    "youtubeCode": "-lAif9T5SP4"
+    "youtubeCode": "-lAif9T5SP4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267394910-dcc1aa0b-aede-44a9-90e2-9cc19480b80c.mp3"
   },
   {
     "id": "89",
@@ -1066,7 +1154,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "033026",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "90",
@@ -1078,7 +1167,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "033126",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "91",
@@ -1090,7 +1180,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "040126",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "92",
@@ -1102,7 +1193,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "040226",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "93",
@@ -1114,7 +1206,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "040326",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "94",
@@ -1126,7 +1219,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "040426",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "95",
@@ -1138,7 +1232,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "040526",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "96",
@@ -1150,7 +1245,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "040626",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "97",
@@ -1162,7 +1258,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "040726",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "98",
@@ -1174,7 +1271,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "040826",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "99",
@@ -1186,7 +1284,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "040926",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "100",
@@ -1198,7 +1297,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "041026",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "101",
@@ -1210,7 +1310,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "041126",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "102",
@@ -1222,7 +1323,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "041226",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "103",
@@ -1234,7 +1336,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "041326",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "104",
@@ -1246,7 +1349,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "041426",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "105",
@@ -1258,7 +1362,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "041526",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "106",
@@ -1270,7 +1375,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "041626",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "107",
@@ -1282,7 +1388,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "041726",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "108",
@@ -1294,7 +1401,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "041826",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "109",
@@ -1306,7 +1414,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "041926",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "110",
@@ -1318,7 +1427,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "042026",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "111",
@@ -1330,7 +1440,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "042126",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "112",
@@ -1342,7 +1453,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "042226",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "113",
@@ -1354,7 +1466,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "042326",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "114",
@@ -1366,7 +1479,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "042426",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "115",
@@ -1378,7 +1492,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "042526",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "116",
@@ -1390,7 +1505,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "042626",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "117",
@@ -1402,7 +1518,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "042726",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "118",
@@ -1414,7 +1531,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "042826",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "119",
@@ -1426,7 +1544,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "042926",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "120",
@@ -1438,7 +1557,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "043026",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "121",
@@ -1450,7 +1570,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "050126",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "122",
@@ -1462,7 +1583,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "050226",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "123",
@@ -1474,7 +1596,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "050326",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "124",
@@ -1486,7 +1609,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "050426",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "125",
@@ -1498,7 +1622,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "050526",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "126",
@@ -1510,7 +1635,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "050626",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "127",
@@ -1522,7 +1648,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "050726",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "128",
@@ -1534,7 +1661,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "050826",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "129",
@@ -1546,7 +1674,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "050926",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "130",
@@ -1558,7 +1687,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "051026",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "131",
@@ -1570,7 +1700,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "051126",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "132",
@@ -1582,7 +1713,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "051226",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "133",
@@ -1594,7 +1726,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "051326",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "134",
@@ -1606,7 +1739,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "051426",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "135",
@@ -1618,7 +1752,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "051526",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "136",
@@ -1630,7 +1765,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "051626",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "137",
@@ -1642,7 +1778,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "051726",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "138",
@@ -1654,7 +1791,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "051826",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "139",
@@ -1666,7 +1804,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "051926",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "140",
@@ -1678,7 +1817,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "052026",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "141",
@@ -1690,7 +1830,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "052126",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "142",
@@ -1702,7 +1843,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "052226",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "143",
@@ -1714,7 +1856,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "052326",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "144",
@@ -1726,7 +1869,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "052426",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "145",
@@ -1738,7 +1882,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "052526",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "146",
@@ -1750,7 +1895,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "052626",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "147",
@@ -1762,7 +1908,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "052726",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "148",
@@ -1774,7 +1921,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "052826",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "149",
@@ -1786,7 +1934,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "052926",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "150",
@@ -1798,7 +1947,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "053026",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "151",
@@ -1810,7 +1960,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "053126",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "152",
@@ -1822,7 +1973,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "060126",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "153",
@@ -1834,7 +1986,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "060226",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "154",
@@ -1846,7 +1999,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "060326",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "155",
@@ -1858,7 +2012,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "060426",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "156",
@@ -1870,7 +2025,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "060526",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "157",
@@ -1882,7 +2038,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "060626",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "158",
@@ -1894,7 +2051,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "060726",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "159",
@@ -1906,7 +2064,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "060826",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "160",
@@ -1918,7 +2077,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "060926",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "161",
@@ -1930,7 +2090,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "061026",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "162",
@@ -1942,7 +2103,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "061126",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "163",
@@ -1954,7 +2116,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "061226",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "164",
@@ -1966,7 +2129,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "061326",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "165",
@@ -1978,7 +2142,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "061426",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "166",
@@ -1990,7 +2155,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "061526",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "167",
@@ -2002,7 +2168,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "061626",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "168",
@@ -2014,7 +2181,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "061726",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "169",
@@ -2026,7 +2194,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "061826",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "170",
@@ -2038,7 +2207,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "061926",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "171",
@@ -2050,7 +2220,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "062026",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "172",
@@ -2062,7 +2233,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "062126",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "173",
@@ -2074,7 +2246,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "062226",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "174",
@@ -2086,7 +2259,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "062326",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "175",
@@ -2098,7 +2272,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "062426",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "176",
@@ -2110,7 +2285,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "062526",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "177",
@@ -2122,7 +2298,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "062626",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "178",
@@ -2134,7 +2311,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "062726",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "179",
@@ -2146,7 +2324,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "062826",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "180",
@@ -2158,7 +2337,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "062926",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "181",
@@ -2170,7 +2350,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "063026",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "182",
@@ -2182,7 +2363,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "070126",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "183",
@@ -2194,7 +2376,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "070226",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "184",
@@ -2206,7 +2389,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "070326",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "185",
@@ -2218,7 +2402,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "070426",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "186",
@@ -2230,7 +2415,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "070526",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "187",
@@ -2242,7 +2428,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "070626",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "188",
@@ -2254,7 +2441,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "070726",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "189",
@@ -2266,7 +2454,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "070826",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "190",
@@ -2278,7 +2467,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "070926",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "191",
@@ -2290,7 +2480,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "071026",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "192",
@@ -2302,7 +2493,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "071126",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "193",
@@ -2314,7 +2506,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "071226",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "194",
@@ -2326,7 +2519,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "071326",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "195",
@@ -2338,7 +2532,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "071426",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "196",
@@ -2350,7 +2545,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "071526",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "197",
@@ -2362,7 +2558,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "071626",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "198",
@@ -2374,7 +2571,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "071726",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "199",
@@ -2386,7 +2584,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "071826",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "200",
@@ -2398,7 +2597,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "071926",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "201",
@@ -2410,7 +2610,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "072026",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "202",
@@ -2422,7 +2623,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "072126",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "203",
@@ -2434,7 +2636,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "072226",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "204",
@@ -2446,7 +2649,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "072326",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "205",
@@ -2458,7 +2662,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "072426",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "206",
@@ -2470,7 +2675,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "072526",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "207",
@@ -2482,7 +2688,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "072626",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "208",
@@ -2494,7 +2701,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "072726",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "209",
@@ -2506,7 +2714,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "072826",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "210",
@@ -2518,7 +2727,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "072926",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "211",
@@ -2530,7 +2740,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "073026",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "212",
@@ -2542,7 +2753,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "073126",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "213",
@@ -2554,7 +2766,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "080126",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "214",
@@ -2566,7 +2779,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "080226",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "215",
@@ -2578,7 +2792,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "080326",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "216",
@@ -2590,7 +2805,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "080426",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "217",
@@ -2602,7 +2818,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "080526",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "218",
@@ -2614,7 +2831,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "080626",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "219",
@@ -2626,7 +2844,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "080726",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "220",
@@ -2638,7 +2857,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "080826",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "221",
@@ -2650,7 +2870,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "080926",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "222",
@@ -2662,7 +2883,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "081026",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "223",
@@ -2674,7 +2896,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "081126",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "224",
@@ -2686,7 +2909,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "081226",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "225",
@@ -2698,7 +2922,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "081326",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "226",
@@ -2710,7 +2935,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "081426",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "227",
@@ -2722,7 +2948,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "081526",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "228",
@@ -2734,7 +2961,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "081626",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "229",
@@ -2746,7 +2974,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "081726",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "230",
@@ -2758,7 +2987,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "081826",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "231",
@@ -2770,7 +3000,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "081926",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "232",
@@ -2782,7 +3013,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "082026",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "233",
@@ -2794,7 +3026,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "082126",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "234",
@@ -2806,7 +3039,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "082226",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "235",
@@ -2818,7 +3052,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "082326",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "236",
@@ -2830,7 +3065,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "082426",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "237",
@@ -2842,7 +3078,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "082526",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "238",
@@ -2854,7 +3091,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "082626",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "239",
@@ -2866,7 +3104,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "082726",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "240",
@@ -2878,7 +3117,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "082826",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "241",
@@ -2890,7 +3130,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "082926",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "242",
@@ -2902,7 +3143,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "083026",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "243",
@@ -2914,7 +3156,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "083126",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "244",
@@ -2926,7 +3169,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "090126",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "245",
@@ -2938,7 +3182,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "090226",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "246",
@@ -2950,7 +3195,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "090326",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "247",
@@ -2962,7 +3208,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "090426",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "248",
@@ -2974,7 +3221,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "090526",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "249",
@@ -2986,7 +3234,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "090626",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "250",
@@ -2998,7 +3247,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "090726",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "251",
@@ -3010,7 +3260,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "090826",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "252",
@@ -3022,7 +3273,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "090926",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "253",
@@ -3034,7 +3286,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "091026",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "254",
@@ -3046,7 +3299,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "091126",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "255",
@@ -3058,7 +3312,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "091226",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "256",
@@ -3070,7 +3325,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "091326",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "257",
@@ -3082,7 +3338,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "091426",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "258",
@@ -3094,7 +3351,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "091526",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "259",
@@ -3106,7 +3364,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "091626",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "260",
@@ -3118,7 +3377,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "091726",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "261",
@@ -3130,7 +3390,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "091826",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "262",
@@ -3142,7 +3403,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "091926",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "263",
@@ -3154,7 +3416,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "092026",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "264",
@@ -3166,7 +3429,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "092126",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "265",
@@ -3178,7 +3442,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "092226",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "266",
@@ -3190,7 +3455,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "092326",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "267",
@@ -3202,7 +3468,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "092426",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "268",
@@ -3214,7 +3481,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "092526",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "269",
@@ -3226,7 +3494,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "092626",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "270",
@@ -3238,7 +3507,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "092726",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "271",
@@ -3250,7 +3520,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "092826",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "272",
@@ -3262,7 +3533,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "092926",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "273",
@@ -3274,7 +3546,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "093026",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "274",
@@ -3286,7 +3559,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "100126",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "275",
@@ -3298,7 +3572,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "100226",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "276",
@@ -3310,7 +3585,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "100326",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "277",
@@ -3322,7 +3598,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "100426",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "278",
@@ -3334,7 +3611,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "100526",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "279",
@@ -3346,7 +3624,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "100626",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "280",
@@ -3358,7 +3637,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "100726",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "281",
@@ -3370,7 +3650,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "100826",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "282",
@@ -3382,7 +3663,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "100926",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "283",
@@ -3394,7 +3676,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "101026",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "284",
@@ -3406,7 +3689,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "101126",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "285",
@@ -3418,7 +3702,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "101226",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "286",
@@ -3430,7 +3715,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "101326",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "287",
@@ -3442,7 +3728,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "101426",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "288",
@@ -3454,7 +3741,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "101526",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "289",
@@ -3466,7 +3754,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "101626",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "290",
@@ -3478,7 +3767,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "101726",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "291",
@@ -3490,7 +3780,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "101826",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "292",
@@ -3502,7 +3793,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "101926",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "293",
@@ -3514,7 +3806,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "102026",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "294",
@@ -3526,7 +3819,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "102126",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "295",
@@ -3538,7 +3832,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "102226",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "296",
@@ -3550,7 +3845,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "102326",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "297",
@@ -3562,7 +3858,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "102426",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "298",
@@ -3574,7 +3871,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "102526",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "299",
@@ -3586,7 +3884,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "102626",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "300",
@@ -3598,7 +3897,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "102726",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "301",
@@ -3610,7 +3910,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "102826",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "302",
@@ -3622,7 +3923,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "102926",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "303",
@@ -3634,7 +3936,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "103026",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "304",
@@ -3646,7 +3949,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "103126",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "305",
@@ -3658,7 +3962,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "110126",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "306",
@@ -3670,7 +3975,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "110226",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "307",
@@ -3682,7 +3988,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "110326",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "308",
@@ -3694,7 +4001,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "110426",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "309",
@@ -3706,7 +4014,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "110526",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "310",
@@ -3718,7 +4027,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "110626",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "311",
@@ -3730,7 +4040,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "110726",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "312",
@@ -3742,7 +4053,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "110826",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "313",
@@ -3754,7 +4066,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "110926",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "314",
@@ -3766,7 +4079,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "111026",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "315",
@@ -3778,7 +4092,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "111126",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "316",
@@ -3790,7 +4105,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "111226",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "317",
@@ -3802,7 +4118,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "111326",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "318",
@@ -3814,7 +4131,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "111426",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "319",
@@ -3826,7 +4144,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "111526",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "320",
@@ -3838,7 +4157,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "111626",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "321",
@@ -3850,7 +4170,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "111726",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "322",
@@ -3862,7 +4183,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "111826",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "323",
@@ -3874,7 +4196,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "111926",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "324",
@@ -3886,7 +4209,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "112026",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "325",
@@ -3898,7 +4222,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "112126",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "326",
@@ -3910,7 +4235,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_glorieux.mp3",
     "dateMMJJAA": "112226",
     "youtubeLink": "https://youtu.be/TcUlU33o7NI",
-    "youtubeCode": "TcUlU33o7NI"
+    "youtubeCode": "TcUlU33o7NI",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267607055-ad838cc1-7862-4a2c-a671-fd35eff7dc0a.mp3"
   },
   {
     "id": "327",
@@ -3922,7 +4248,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "112326",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "328",
@@ -3934,7 +4261,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "112426",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "329",
@@ -3946,7 +4274,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "112526",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "330",
@@ -3958,7 +4287,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "112626",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "331",
@@ -3970,7 +4300,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "112726",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "332",
@@ -3982,7 +4313,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "112826",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "333",
@@ -3994,7 +4326,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_joyeux_avent.mp3",
     "dateMMJJAA": "112926",
     "youtubeLink": "https://youtu.be/IkD9bnPsk54",
-    "youtubeCode": "IkD9bnPsk54"
+    "youtubeCode": "IkD9bnPsk54",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267755427-46d418e3-4176-474e-8a05-efcfa9f854ec.mp3"
   },
   {
     "id": "334",
@@ -4006,7 +4339,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "113026",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "335",
@@ -4018,7 +4352,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "120126",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "336",
@@ -4030,7 +4365,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "120226",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "337",
@@ -4042,7 +4378,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "120326",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "338",
@@ -4054,7 +4391,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "120426",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "339",
@@ -4066,7 +4404,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "120526",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "340",
@@ -4078,7 +4417,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_joyeux_avent.mp3",
     "dateMMJJAA": "120626",
     "youtubeLink": "https://youtu.be/IkD9bnPsk54",
-    "youtubeCode": "IkD9bnPsk54"
+    "youtubeCode": "IkD9bnPsk54",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267755427-46d418e3-4176-474e-8a05-efcfa9f854ec.mp3"
   },
   {
     "id": "341",
@@ -4090,7 +4430,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "120726",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "342",
@@ -4102,7 +4443,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "120826",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "343",
@@ -4114,7 +4456,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "120926",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "344",
@@ -4126,7 +4469,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "121026",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "345",
@@ -4138,7 +4482,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "121126",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "346",
@@ -4150,7 +4495,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "121226",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "347",
@@ -4162,7 +4508,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_joyeux_avent.mp3",
     "dateMMJJAA": "121326",
     "youtubeLink": "https://youtu.be/IkD9bnPsk54",
-    "youtubeCode": "IkD9bnPsk54"
+    "youtubeCode": "IkD9bnPsk54",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267755427-46d418e3-4176-474e-8a05-efcfa9f854ec.mp3"
   },
   {
     "id": "348",
@@ -4174,7 +4521,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "121426",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "349",
@@ -4186,7 +4534,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "121526",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "350",
@@ -4198,7 +4547,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "121626",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "351",
@@ -4210,7 +4560,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "121726",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "352",
@@ -4222,7 +4573,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "121826",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "353",
@@ -4234,7 +4586,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "121926",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "354",
@@ -4246,7 +4599,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_joyeux_avent.mp3",
     "dateMMJJAA": "122026",
     "youtubeLink": "https://youtu.be/IkD9bnPsk54",
-    "youtubeCode": "IkD9bnPsk54"
+    "youtubeCode": "IkD9bnPsk54",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267755427-46d418e3-4176-474e-8a05-efcfa9f854ec.mp3"
   },
   {
     "id": "355",
@@ -4258,7 +4612,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "122126",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "356",
@@ -4270,7 +4625,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "122226",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "357",
@@ -4282,7 +4638,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "122326",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "358",
@@ -4294,7 +4651,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "122426",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   },
   {
     "id": "359",
@@ -4306,7 +4664,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "vendredi–mysteres_douloureux.mp3",
     "dateMMJJAA": "122526",
     "youtubeLink": "https://youtu.be/9xZFfT-xzk0",
-    "youtubeCode": "9xZFfT-xzk0"
+    "youtubeCode": "9xZFfT-xzk0",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269578713-f97a7f1e-7699-4e40-88bf-ca73df5aabd5.mp3"
   },
   {
     "id": "360",
@@ -4318,7 +4677,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "samedi–mysteres_joyeux.mp3",
     "dateMMJJAA": "122626",
     "youtubeLink": "https://youtu.be/EO7nHF1Ymv4",
-    "youtubeCode": "EO7nHF1Ymv4"
+    "youtubeCode": "EO7nHF1Ymv4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269297822-3d826570-7d87-4fee-af1d-08e5762d1ed8.mp3"
   },
   {
     "id": "361",
@@ -4330,7 +4690,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "dimanche–mysteres_joyeux_noel.mp3",
     "dateMMJJAA": "122726",
     "youtubeLink": "https://youtu.be/2w941dPijrA",
-    "youtubeCode": "2w941dPijrA"
+    "youtubeCode": "2w941dPijrA",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775267937596-a8b274b4-d2b5-45e3-805e-f2226d779cd5.mp3"
   },
   {
     "id": "362",
@@ -4342,7 +4703,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "lundi–mysteres_joyeux.mp3",
     "dateMMJJAA": "122826",
     "youtubeLink": "https://youtu.be/r1bpqM2nUjo",
-    "youtubeCode": "r1bpqM2nUjo"
+    "youtubeCode": "r1bpqM2nUjo",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268597319-fdb42507-f9d5-4aad-8fb3-38898ad92ac5.mp3"
   },
   {
     "id": "363",
@@ -4354,7 +4716,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mardi–mysteres_douloureux.mp3",
     "dateMMJJAA": "122926",
     "youtubeLink": "https://youtu.be/p5NRPyqv0w4",
-    "youtubeCode": "p5NRPyqv0w4"
+    "youtubeCode": "p5NRPyqv0w4",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268818928-6d75a8bb-6ba2-451d-9a6a-f0d72a1f3a03.mp3"
   },
   {
     "id": "364",
@@ -4366,7 +4729,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "mercredi–mysteres_glorieux.mp3",
     "dateMMJJAA": "123026",
     "youtubeLink": "https://youtu.be/fM22QOuPZcs",
-    "youtubeCode": "fM22QOuPZcs"
+    "youtubeCode": "fM22QOuPZcs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775269072582-d0793be4-90d7-4ebc-b5fc-a32c16a5dd69.mp3"
   },
   {
     "id": "365",
@@ -4378,7 +4742,8 @@ const rosaireDataApi_2026 = [
     "mp3_lien": "jeudi–mysteres_lumineux.mp3",
     "dateMMJJAA": "123126",
     "youtubeLink": "https://youtu.be/6cERJkMlXYs",
-    "youtubeCode": "6cERJkMlXYs"
+    "youtubeCode": "6cERJkMlXYs",
+    "mp3-audio-lien": "https://op3.dev/e/image2url.com/r2/default/audio/1775268092831-ad362394-4972-45d0-9faa-435c6b253d38.mp3"
   }
 ]
   module.exports = rosaireDataApi_2026;
